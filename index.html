@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>나의 배움 노트</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- 상단 메뉴 -->
+  <header class="header">
+    <div class="header-inner">
+      <a href="#top" class="logo">나의 배움 노트</a>
+
+      <button class="menu-toggle" aria-label="메뉴 열기" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+
+      <nav class="nav">
+        <ul class="menu">
+          <li class="menu-item">
+            <button class="menu-title" aria-expanded="false">영어회화 <span class="arrow">▾</span></button>
+            <ul class="submenu">
+              <li><a href="#eng-today">오늘의 표현</a></li>
+              <li><a href="#eng-situation">상황별 회화</a></li>
+              <li><a href="#eng-movie">영화 대사</a></li>
+            </ul>
+          </li>
+          <li class="menu-item">
+            <button class="menu-title" aria-expanded="false">경제뉴스 <span class="arrow">▾</span></button>
+            <ul class="submenu">
+              <li><a href="#eco-korea">국내 경제</a></li>
+              <li><a href="#eco-world">해외 경제</a></li>
+              <li><a href="#eco-words">경제 용어</a></li>
+            </ul>
+          </li>
+          <li class="menu-item">
+            <button class="menu-title" aria-expanded="false">최신AI소식 <span class="arrow">▾</span></button>
+            <ul class="submenu">
+              <li><a href="#ai-news">AI 뉴스</a></li>
+              <li><a href="#ai-tools">AI 도구 추천</a></li>
+              <li><a href="#ai-tips">AI 활용 팁</a></li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main id="top">
+
+    <!-- 메인 배너 -->
+    <section class="hero">
+      <h1>매일 조금씩, 꾸준히 배워요</h1>
+      <p>영어회화, 경제뉴스, 최신 AI 소식을 한곳에 모았어요.</p>
+    </section>
+
+    <!-- 카테고리 카드 -->
+    <section class="cards">
+      <a href="#english" class="card">
+        <img class="card-img" src="images/english.jpg" alt="커피를 마시며 대화하는 사람들">
+        <div class="card-body">
+          <h2>영어회화</h2>
+          <p>오늘의 표현부터 상황별 회화, 영화 대사까지</p>
+        </div>
+      </a>
+      <a href="#economy" class="card">
+        <img class="card-img" src="images/economy.jpg" alt="신문과 커피, 크로와상이 놓인 아침 식탁">
+        <div class="card-body">
+          <h2>경제뉴스</h2>
+          <p>국내·해외 경제 흐름과 꼭 알아야 할 용어</p>
+        </div>
+      </a>
+      <a href="#ai" class="card">
+        <img class="card-img" src="images/ai.jpg" alt="인공지능 화면을 터치하는 손">
+        <div class="card-body">
+          <h2>최신AI소식</h2>
+          <p>새 소식, 쓸 만한 도구, 바로 쓰는 활용 팁</p>
+        </div>
+      </a>
+    </section>
+
+    <!-- 영어회화 -->
+    <section id="english" class="category">
+      <h2 class="category-title">💬 영어회화</h2>
+
+      <article id="eng-today" class="content">
+        <h3>오늘의 표현</h3>
+        <p class="expression">"I'm on it."</p>
+        <p>바로 할게요 / 제가 처리할게요</p>
+        <p class="example">A: Can you send me the file? &nbsp;B: Sure, I'm on it!</p>
+      </article>
+
+      <article id="eng-situation" class="content">
+        <h3>상황별 회화</h3>
+        <ul>
+          <li><strong>카페에서</strong> Can I get an iced latte, please?</li>
+          <li><strong>길 묻기</strong> Excuse me, how do I get to the station?</li>
+          <li><strong>식당에서</strong> Could we have the check, please?</li>
+        </ul>
+      </article>
+
+      <article id="eng-movie" class="content">
+        <h3>영화 대사</h3>
+        <p>명대사로 배우는 한마디. 소리 내어 따라 해 보세요.</p>
+        <ul class="movie-list">
+          <li>
+            <p class="movie-line">"Carpe diem. Seize the day."</p>
+            <p class="movie-meaning">오늘을 즐겨라. 지금 이 순간을 잡아라.</p>
+            <p class="movie-title">〈죽은 시인의 사회〉 Dead Poets Society, 1989</p>
+          </li>
+          <li>
+            <p class="movie-line">"You never know what you're gonna get."</p>
+            <p class="movie-meaning">무엇을 얻게 될지 아무도 몰라요. (gonna = going to)</p>
+            <p class="movie-title">〈포레스트 검프〉 Forrest Gump, 1994</p>
+          </li>
+          <li>
+            <p class="movie-line">"Just keep swimming."</p>
+            <p class="movie-meaning">그냥 계속 헤엄쳐. 힘들어도 포기하지 말자는 뜻이에요.</p>
+            <p class="movie-title">〈니모를 찾아서〉 Finding Nemo, 2003</p>
+          </li>
+          <li>
+            <p class="movie-line">"To infinity and beyond!"</p>
+            <p class="movie-meaning">무한한 공간 저 너머로! 큰 도전을 앞두고 외치는 말이에요.</p>
+            <p class="movie-title">〈토이 스토리〉 Toy Story, 1995</p>
+          </li>
+        </ul>
+      </article>
+    </section>
+
+    <!-- 경제뉴스 -->
+    <section id="economy" class="category">
+      <h2 class="category-title">📈 경제뉴스</h2>
+
+      <article id="eco-korea" class="content">
+        <h3>국내 경제</h3>
+        <p class="news-source">MBC 라디오 〈손에 잡히는 경제〉 최근 방송에서 골랐어요.</p>
+        <div class="news-list" data-region="korea">
+          <p class="placeholder">뉴스를 불러오지 못했어요. update-news.ps1을 실행해 주세요.</p>
+        </div>
+      </article>
+
+      <article id="eco-world" class="content">
+        <h3>해외 경제</h3>
+        <p class="news-source">MBC 라디오 〈손에 잡히는 경제〉 최근 방송에서 골랐어요.</p>
+        <div class="news-list" data-region="world">
+          <p class="placeholder">뉴스를 불러오지 못했어요. update-news.ps1을 실행해 주세요.</p>
+        </div>
+      </article>
+
+      <p class="news-updated"></p>
+
+      <article id="eco-words" class="content">
+        <h3>경제 용어</h3>
+        <ul>
+          <li><strong>기준금리</strong> 중앙은행이 정하는 금리의 기준. 대출·예금 금리에 영향을 줘요.</li>
+          <li><strong>인플레이션</strong> 물가가 계속 오르면서 돈의 가치가 떨어지는 현상</li>
+          <li><strong>환율</strong> 우리 돈과 다른 나라 돈을 바꾸는 비율</li>
+        </ul>
+      </article>
+    </section>
+
+    <!-- 최신AI소식 -->
+    <section id="ai" class="category">
+      <h2 class="category-title">🤖 최신AI소식</h2>
+
+      <article id="ai-news" class="content">
+        <h3>AI 뉴스</h3>
+        <p>새로 나온 AI 소식을 모아 두는 곳이에요.</p>
+        <p class="placeholder">여기에 소식 제목과 날짜를 적어 보세요.</p>
+      </article>
+
+      <article id="ai-tools" class="content">
+        <h3>AI 도구 추천</h3>
+        <ul>
+          <li><strong>대화형 AI</strong> 질문, 글쓰기, 요약에 활용</li>
+          <li><strong>이미지 생성 AI</strong> 포스터, 썸네일 시안 만들기</li>
+          <li><strong>번역 AI</strong> 영어 공부와 해외 기사 읽기에 활용</li>
+        </ul>
+      </article>
+
+      <article id="ai-tips" class="content">
+        <h3>AI 활용 팁</h3>
+        <ul>
+          <li>원하는 결과를 구체적으로 말해요. (누구에게, 몇 줄로, 어떤 말투로)</li>
+          <li>예시를 하나 보여주면 결과가 더 좋아져요.</li>
+          <li>답이 마음에 들지 않으면 "더 짧게", "쉽게"처럼 고쳐 달라고 해요.</li>
+        </ul>
+      </article>
+    </section>
+
+  </main>
+
+  <footer class="footer">
+    <p>© 2026 나의 배움 노트</p>
+    <p class="credit">사진: Pixabay</p>
+  </footer>
+
+  <script src="news-data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
