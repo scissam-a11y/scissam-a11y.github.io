@@ -3,201 +3,200 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>나의 배움 노트</title>
+  <title>배움 노트</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&family=Noto+Serif+KR:wght@500;700;900&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-  <!-- 상단 메뉴 -->
-  <header class="header">
-    <div class="header-inner">
-      <a href="#top" class="logo">나의 배움 노트</a>
+  <!-- 상단: 매거진 제호 -->
+  <header class="masthead" id="top">
+    <div class="masthead-bar">
+      <span class="issue-date"></span>
+      <span class="issue-no">매일 발행하는 나의 배움 매거진</span>
+    </div>
+    <h1 class="logo"><a href="#top">배움 노트</a></h1>
+  </header>
 
+  <!-- 메뉴 -->
+  <nav class="nav-wrap">
+    <div class="nav-inner">
+      <a href="#top" class="nav-logo">배움 노트</a>
       <button class="menu-toggle" aria-label="메뉴 열기" aria-expanded="false">
         <span></span><span></span><span></span>
       </button>
-
-      <nav class="nav">
-        <ul class="menu">
-          <li class="menu-item">
-            <button class="menu-title" aria-expanded="false">영어회화 <span class="arrow">▾</span></button>
-            <ul class="submenu">
-              <li><a href="#eng-today">오늘의 표현</a></li>
-              <li><a href="#eng-situation">상황별 회화</a></li>
-              <li><a href="#eng-movie">영화 대사</a></li>
-            </ul>
-          </li>
-          <li class="menu-item">
-            <button class="menu-title" aria-expanded="false">경제뉴스 <span class="arrow">▾</span></button>
-            <ul class="submenu">
-              <li><a href="#eco-korea">국내 경제</a></li>
-              <li><a href="#eco-world">해외 경제</a></li>
-              <li><a href="#eco-words">경제 용어</a></li>
-            </ul>
-          </li>
-          <li class="menu-item">
-            <button class="menu-title" aria-expanded="false">최신AI소식 <span class="arrow">▾</span></button>
-            <ul class="submenu">
-              <li><a href="#ai-news">AI 뉴스</a></li>
-              <li><a href="#ai-tools">AI 도구 추천</a></li>
-              <li><a href="#ai-tips">AI 활용 팁</a></li>
-            </ul>
-          </li>
-        </ul>
-      </nav>
+      <ul class="menu">
+        <li class="menu-item">
+          <button class="menu-title" aria-expanded="false">기본동사 100 <span class="arrow">▾</span></button>
+          <ul class="submenu">
+            <li><a href="#verb-today">오늘의 동사</a></li>
+            <li><a href="#verb-past">지난 동사</a></li>
+            <li><a href="#verb-list">100일 동사 목록</a></li>
+          </ul>
+        </li>
+        <li class="menu-item">
+          <button class="menu-title" aria-expanded="false">손경제 쉽게 읽기 <span class="arrow">▾</span></button>
+          <ul class="submenu">
+            <li><a href="#eco-keyword">오늘의 키워드</a></li>
+            <li><a href="#eco-terms">경제용어 사전</a></li>
+            <li><a href="#eco-past">지난 방송</a></li>
+          </ul>
+        </li>
+        <li class="menu-item">
+          <button class="menu-title" aria-expanded="false">GeekNews <span class="arrow">▾</span></button>
+          <ul class="submenu">
+            <li><a href="#gn-latest">오늘의 소식</a></li>
+            <li><a href="#gn-ai">AI 관련 소식</a></li>
+            <li><a href="#gn-about">GeekNews 바로가기</a></li>
+          </ul>
+        </li>
+      </ul>
     </div>
-  </header>
+  </nav>
 
-  <main id="top">
+  <main>
 
-    <!-- 메인 배너 -->
-    <section class="hero">
-      <h1>매일 조금씩, 꾸준히 배워요</h1>
-      <p>영어회화, 경제뉴스, 최신 AI 소식을 한곳에 모았어요.</p>
+    <!-- 커버 스토리 -->
+    <section class="cover">
+      <img src="images/cover-library.jpg" alt="노란 택시가 지나가는 뉴욕 공립 도서관 앞">
+      <div class="cover-text">
+        <p class="kicker">COVER STORY · 오늘의 동사</p>
+        <h2 class="cover-title" id="cover-title"></h2>
+        <p class="cover-sub" id="cover-sub"></p>
+        <a href="#verb-today" class="cover-link">읽으러 가기 →</a>
+      </div>
     </section>
 
-    <!-- 카테고리 카드 -->
-    <section class="cards">
-      <a href="#english" class="card">
-        <img class="card-img" src="images/english.jpg" alt="커피를 마시며 대화하는 사람들">
-        <div class="card-body">
-          <h2>영어회화</h2>
-          <p>오늘의 표현부터 상황별 회화, 영화 대사까지</p>
-        </div>
+    <!-- 오늘의 목차 -->
+    <section class="contents">
+      <a href="#verbs" class="contents-item">
+        <span class="contents-no">01</span>
+        <span class="contents-cat">기본동사 100</span>
+        <span class="contents-desc">하루 한 동사, 100일 영어회화</span>
       </a>
-      <a href="#economy" class="card">
-        <img class="card-img" src="images/economy.jpg" alt="신문과 커피, 크로와상이 놓인 아침 식탁">
-        <div class="card-body">
-          <h2>경제뉴스</h2>
-          <p>국내·해외 경제 흐름과 꼭 알아야 할 용어</p>
-        </div>
+      <a href="#economy" class="contents-item">
+        <span class="contents-no">02</span>
+        <span class="contents-cat">손경제 쉽게 읽기</span>
+        <span class="contents-desc">중학생도 이해하는 오늘의 경제</span>
       </a>
-      <a href="#ai" class="card">
-        <img class="card-img" src="images/ai.jpg" alt="인공지능 화면을 터치하는 손">
-        <div class="card-body">
-          <h2>최신AI소식</h2>
-          <p>새 소식, 쓸 만한 도구, 바로 쓰는 활용 팁</p>
-        </div>
+      <a href="#geeknews" class="contents-item">
+        <span class="contents-no">03</span>
+        <span class="contents-cat">GeekNews</span>
+        <span class="contents-desc">매일 업데이트되는 IT·AI 새소식</span>
       </a>
     </section>
 
-    <!-- 영어회화 -->
-    <section id="english" class="category">
-      <h2 class="category-title">💬 영어회화</h2>
+    <!-- 01 기본동사 100 -->
+    <section id="verbs" class="section">
+      <header class="section-head">
+        <span class="section-no">01</span>
+        <h2>기본동사 100</h2>
+        <p>『김재우의 기본 동사 100』으로 공부하며, 내 말로 다시 정리한 기록이에요.</p>
+      </header>
 
-      <article id="eng-today" class="content">
-        <h3>오늘의 표현</h3>
-        <p class="expression">"I'm on it."</p>
-        <p>바로 할게요 / 제가 처리할게요</p>
-        <p class="example">A: Can you send me the file? &nbsp;B: Sure, I'm on it!</p>
-      </article>
+      <figure class="section-photo">
+        <img src="images/verbs-street.jpg" alt="뉴욕 이스트 40번가 표지판과 크라이슬러 빌딩" style="object-position: center 72%;">
+        <figcaption>New York, East 40th St</figcaption>
+      </figure>
 
-      <article id="eng-situation" class="content">
-        <h3>상황별 회화</h3>
-        <ul>
-          <li><strong>카페에서</strong> Can I get an iced latte, please?</li>
-          <li><strong>길 묻기</strong> Excuse me, how do I get to the station?</li>
-          <li><strong>식당에서</strong> Could we have the check, please?</li>
-        </ul>
-      </article>
-
-      <article id="eng-movie" class="content">
-        <h3>영화 대사</h3>
-        <p>명대사로 배우는 한마디. 소리 내어 따라 해 보세요.</p>
-        <ul class="movie-list">
-          <li>
-            <p class="movie-line">"Carpe diem. Seize the day."</p>
-            <p class="movie-meaning">오늘을 즐겨라. 지금 이 순간을 잡아라.</p>
-            <p class="movie-title">〈죽은 시인의 사회〉 Dead Poets Society, 1989</p>
-          </li>
-          <li>
-            <p class="movie-line">"You never know what you're gonna get."</p>
-            <p class="movie-meaning">무엇을 얻게 될지 아무도 몰라요. (gonna = going to)</p>
-            <p class="movie-title">〈포레스트 검프〉 Forrest Gump, 1994</p>
-          </li>
-          <li>
-            <p class="movie-line">"Just keep swimming."</p>
-            <p class="movie-meaning">그냥 계속 헤엄쳐. 힘들어도 포기하지 말자는 뜻이에요.</p>
-            <p class="movie-title">〈니모를 찾아서〉 Finding Nemo, 2003</p>
-          </li>
-          <li>
-            <p class="movie-line">"To infinity and beyond!"</p>
-            <p class="movie-meaning">무한한 공간 저 너머로! 큰 도전을 앞두고 외치는 말이에요.</p>
-            <p class="movie-title">〈토이 스토리〉 Toy Story, 1995</p>
-          </li>
-        </ul>
-      </article>
-    </section>
-
-    <!-- 경제뉴스 -->
-    <section id="economy" class="category">
-      <h2 class="category-title">📈 경제뉴스</h2>
-
-      <article id="eco-korea" class="content">
-        <h3>국내 경제</h3>
-        <p class="news-source">MBC 라디오 〈손에 잡히는 경제〉 최근 방송에서 골랐어요.</p>
-        <div class="news-list" data-region="korea">
-          <p class="placeholder">뉴스를 불러오지 못했어요. update-news.ps1을 실행해 주세요.</p>
+      <article id="verb-today" class="verb-feature">
+        <div class="verb-big">
+          <p class="verb-day" id="verb-day"></p>
+          <p class="verb-word" id="verb-word"></p>
+          <p class="verb-core" id="verb-core"></p>
+        </div>
+        <div class="verb-body">
+          <h3>이렇게 써요</h3>
+          <ol class="verb-examples" id="verb-examples"></ol>
+          <p class="verb-tip" id="verb-tip"></p>
         </div>
       </article>
 
-      <article id="eco-world" class="content">
-        <h3>해외 경제</h3>
-        <p class="news-source">MBC 라디오 〈손에 잡히는 경제〉 최근 방송에서 골랐어요.</p>
-        <div class="news-list" data-region="world">
-          <p class="placeholder">뉴스를 불러오지 못했어요. update-news.ps1을 실행해 주세요.</p>
-        </div>
-      </article>
+      <div class="sub-grid">
+        <article id="verb-past" class="panel">
+          <h3 class="panel-title">지난 동사</h3>
+          <ul class="past-verbs" id="past-verbs"></ul>
+        </article>
+        <article id="verb-list" class="panel">
+          <h3 class="panel-title">100일 동사 목록</h3>
+          <ul class="verb-list" id="verb-list-items"></ul>
+        </article>
+      </div>
+    </section>
 
-      <p class="news-updated"></p>
+    <!-- 02 손경제 쉽게 읽기 -->
+    <section id="economy" class="section">
+      <header class="section-head">
+        <span class="section-no">02</span>
+        <h2>손경제 쉽게 읽기</h2>
+        <p>MBC 라디오 〈손에 잡히는 경제〉가 다룬 뉴스를 중학생도 이해할 수 있게 풀었어요.</p>
+      </header>
 
-      <article id="eco-words" class="content">
-        <h3>경제 용어</h3>
-        <ul>
-          <li><strong>기준금리</strong> 중앙은행이 정하는 금리의 기준. 대출·예금 금리에 영향을 줘요.</li>
-          <li><strong>인플레이션</strong> 물가가 계속 오르면서 돈의 가치가 떨어지는 현상</li>
-          <li><strong>환율</strong> 우리 돈과 다른 나라 돈을 바꾸는 비율</li>
-        </ul>
+      <div class="eco-layout">
+        <article id="eco-keyword" class="eco-main">
+          <div class="eco-photo">
+            <img src="images/eco-city.jpg" alt="밤의 뉴욕 빌딩 거리와 엠파이어 스테이트 빌딩">
+          </div>
+          <p class="eco-episode" id="eco-episode"></p>
+          <div id="eco-keywords"></div>
+        </article>
+
+        <aside id="eco-terms" class="eco-side">
+          <h3 class="side-title">오늘의 경제용어</h3>
+          <dl id="eco-term-list"></dl>
+        </aside>
+      </div>
+
+      <article id="eco-past" class="panel">
+        <h3 class="panel-title">지난 방송 <span class="panel-note">제목만 자동으로 모아요</span></h3>
+        <ul class="past-episodes" id="past-episodes"></ul>
       </article>
     </section>
 
-    <!-- 최신AI소식 -->
-    <section id="ai" class="category">
-      <h2 class="category-title">🤖 최신AI소식</h2>
+    <!-- 03 GeekNews -->
+    <section id="geeknews" class="section">
+      <header class="section-head">
+        <span class="section-no">03</span>
+        <h2>GeekNews</h2>
+        <p>개발·기술·AI 새소식을 한국어로 모아 주는 GeekNews에서 매일 자동으로 가져와요.</p>
+      </header>
 
-      <article id="ai-news" class="content">
-        <h3>AI 뉴스</h3>
-        <p>새로 나온 AI 소식을 모아 두는 곳이에요.</p>
-        <p class="placeholder">여기에 소식 제목과 날짜를 적어 보세요.</p>
-      </article>
+      <figure class="section-photo">
+        <img src="images/ai-macbook.jpg" alt="책상 위에 화면이 켜진 맥북" style="object-position: center 40%;">
+      </figure>
 
-      <article id="ai-tools" class="content">
-        <h3>AI 도구 추천</h3>
-        <ul>
-          <li><strong>대화형 AI</strong> 질문, 글쓰기, 요약에 활용</li>
-          <li><strong>이미지 생성 AI</strong> 포스터, 썸네일 시안 만들기</li>
-          <li><strong>번역 AI</strong> 영어 공부와 해외 기사 읽기에 활용</li>
-        </ul>
-      </article>
+      <div id="gn-latest">
+        <article class="gn-feature" id="gn-feature"></article>
+        <ol class="gn-list" id="gn-list"></ol>
+      </div>
 
-      <article id="ai-tips" class="content">
-        <h3>AI 활용 팁</h3>
-        <ul>
-          <li>원하는 결과를 구체적으로 말해요. (누구에게, 몇 줄로, 어떤 말투로)</li>
-          <li>예시를 하나 보여주면 결과가 더 좋아져요.</li>
-          <li>답이 마음에 들지 않으면 "더 짧게", "쉽게"처럼 고쳐 달라고 해요.</li>
-        </ul>
-      </article>
+      <div class="sub-grid">
+        <article id="gn-ai" class="panel">
+          <h3 class="panel-title">AI 관련 소식 <span class="panel-note">제목에 AI 관련 단어가 있는 글</span></h3>
+          <ul class="gn-ai-list" id="gn-ai-list"></ul>
+        </article>
+        <article id="gn-about" class="panel">
+          <h3 class="panel-title">GeekNews 바로가기</h3>
+          <p class="gn-about-text">GeekNews(news.hada.io)는 개발 뉴스, 기술 새소식, 스타트업 정보를 한국어로 짧게 정리해 올려 주는 사이트예요. 제목을 누르면 GeekNews 원문으로 이동해요.</p>
+          <a class="gn-go" href="https://news.hada.io" target="_blank" rel="noopener">GeekNews 열기 →</a>
+          <p class="gn-updated" id="gn-updated"></p>
+        </article>
+      </div>
     </section>
 
   </main>
 
   <footer class="footer">
-    <p>© 2026 나의 배움 노트</p>
-    <p class="credit">사진: Pixabay</p>
+    <p class="footer-logo">배움 노트</p>
+    <p>기본동사 예문은 책 내용이 아닌 직접 만든 예문이에요. · 경제 뉴스 출처: MBC 〈손에 잡히는 경제〉 · IT 소식 출처: GeekNews · 사진: Pixabay</p>
   </footer>
 
+  <script src="verbs.js"></script>
+  <script src="econ-data.js"></script>
   <script src="news-data.js"></script>
+  <script src="geeknews-data.js"></script>
   <script src="script.js"></script>
 </body>
 </html>

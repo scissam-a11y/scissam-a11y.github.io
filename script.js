@@ -1,15 +1,14 @@
+// ===== 메뉴 =====
 const toggle = document.querySelector(".menu-toggle");
-const nav = document.querySelector(".nav");
+const menu = document.querySelector(".menu");
 const items = document.querySelectorAll(".menu-item");
 
-// 햄버거 버튼: 스마트폰에서 메뉴 열기/닫기
 toggle.addEventListener("click", () => {
-  const isOpen = nav.classList.toggle("open");
+  const isOpen = menu.classList.toggle("open");
   toggle.classList.toggle("active", isOpen);
   toggle.setAttribute("aria-expanded", isOpen);
 });
 
-// 카테고리 클릭: 하위 메뉴 열기/닫기 (하나만 열림)
 items.forEach((item) => {
   const title = item.querySelector(".menu-title");
   title.addEventListener("click", (e) => {
@@ -31,12 +30,11 @@ function closeAll() {
 }
 
 function closeMobileMenu() {
-  nav.classList.remove("open");
+  menu.classList.remove("open");
   toggle.classList.remove("active");
   toggle.setAttribute("aria-expanded", "false");
 }
 
-// 하위 메뉴를 누르면 메뉴 닫기
 document.querySelectorAll(".submenu a").forEach((link) => {
   link.addEventListener("click", () => {
     closeAll();
@@ -44,68 +42,142 @@ document.querySelectorAll(".submenu a").forEach((link) => {
   });
 });
 
-// 손경제 뉴스: news-data.js(update-news.ps1이 만든 파일)를 국내/해외로 나눠 보여주기
-const WORLD_WORDS = [
-  "美", "미국", "中", "중국", "日", "일본", "유럽", "EU", "영국", "독일", "프랑스",
-  "러시아", "우크라이나", "중동", "이스라엘", "이란", "사우디", "인도", "대만", "베트남",
-  "브라질", "연준", "FOMC", "트럼프", "월가", "뉴욕", "달러", "엔화", "위안", "글로벌", "해외",
-  "엔비디아", "알파벳", "구글", "MS", "애플", "아마존", "메타", "테슬라", "넷플릭스", "앤트로픽", "오픈AI",
-];
+document.addEventListener("click", (e) => {
+  if (!e.target.closest(".nav-wrap")) {
+    closeAll();
+    closeMobileMenu();
+  }
+});
 
+// ===== 공통 =====
 function esc(text) {
   const div = document.createElement("div");
   div.textContent = text;
   return div.innerHTML;
 }
 
-function isWorld(text) {
-  return WORLD_WORDS.some((w) => text.includes(w));
-}
+const today = new Date();
+const days = ["일", "월", "화", "수", "목", "금", "토"];
+document.querySelector(".issue-date").textContent =
+  `${today.getFullYear()}. ${today.getMonth() + 1}. ${today.getDate()}. (${days[today.getDay()]})`;
 
-function getHeadlines(ep) {
-  // 설명란의 "1) 제목" 줄을 우선 쓰고, 없으면 제목의 "|" 구분을 씀
-  const lines = ep.description.split("\n")
-    .map((l) => l.match(/^\d+\)\s*(.+)/))
-    .filter(Boolean)
-    .map((m) => m[1].trim());
-  if (lines.length) return lines;
-  return ep.title.replace(/^\[[^\]]+\]\s*\S+\s*/, "").split("|").map((s) => s.trim()).filter(Boolean);
-}
-
-function renderNews() {
-  const data = window.NEWS_DATA;
+// ===== 01 기본동사 100 =====
+function renderVerbs() {
+  const data = window.VERB_DATA;
   if (!data) return;
 
-  const episodes = data.episodes.filter((ep) => ep.title.startsWith("[손경제]")).slice(0, 3);
+  // START 날짜부터 오늘까지 지난 날 수 = 오늘의 Day (준비된 동사보다 많으면 마지막 동사)
+  const start = new Date(data.start + "T00:00:00");
+  const passed = Math.floor((today - start) / 86400000);
+  const index = Math.max(0, Math.min(passed, data.verbs.length - 1));
+  const v = data.verbs[index];
 
-  document.querySelectorAll(".news-list").forEach((box) => {
-    const wantWorld = box.dataset.region === "world";
-    const html = episodes.map((ep) => {
-      const picked = getHeadlines(ep).filter((h) => isWorld(h) === wantWorld);
-      if (!picked.length) return "";
-      const day = ep.title.match(/\d+\/\d+\([^)]+\)/);
-      return `
-        <div class="news-day">
-          <div class="news-day-head">
-            <span class="news-date">${day ? day[0] : ep.date}</span>
-            <a class="news-listen" href="${ep.audio}" target="_blank" rel="noopener">▶ 방송 듣기</a>
-          </div>
-          <ul>${picked.map((h) => `<li>${esc(h)}</li>`).join("")}</ul>
-        </div>`;
-    }).join("");
-    box.innerHTML = html || `<p class="placeholder">최근 방송에 해당 소식이 없어요.</p>`;
-  });
+  document.getElementById("cover-title").textContent = v.headline;
+  document.getElementById("cover-sub").textContent = `Day ${index + 1} · ${v.verb} = ${v.core}`;
+  document.getElementById("verb-day").textContent = `DAY ${String(index + 1).padStart(3, "0")}`;
+  document.getElementById("verb-word").textContent = v.verb;
+  document.getElementById("verb-core").textContent = v.core;
+  document.getElementById("verb-examples").innerHTML = v.examples
+    .map((ex) => `<li><span class="ex-en">${esc(ex.en)}</span><span class="ex-ko">${esc(ex.ko)}</span></li>`)
+    .join("");
+  document.getElementById("verb-tip").innerHTML = `<strong>기억 팁</strong> ${esc(v.tip)}`;
 
-  document.querySelector(".news-updated").innerHTML =
-    `마지막 업데이트 ${data.updated} · <a href="${data.link}" target="_blank" rel="noopener">손경제 전체 방송 보기</a>`;
+  const past = data.verbs.slice(0, index).reverse().slice(0, 4);
+  document.getElementById("past-verbs").innerHTML = past.length
+    ? past.map((p) => `<li><span class="pv-word">${esc(p.verb)}</span><span class="pv-core">${esc(p.core)}</span></li>`).join("")
+    : `<li class="empty">오늘이 첫날이에요. 내일부터 지난 동사가 여기에 쌓여요.</li>`;
+
+  const list = [];
+  for (let i = 0; i < 100; i++) {
+    const item = data.verbs[i];
+    const cls = i === index ? "now" : i < index ? "done" : "";
+    list.push(`<li class="${cls}"><span>${i + 1}</span>${item ? esc(item.verb) : "·"}</li>`);
+  }
+  document.getElementById("verb-list-items").innerHTML = list.join("");
 }
 
-renderNews();
+// ===== 02 손경제 쉽게 읽기 =====
+function renderEconomy() {
+  const data = window.ECON_DATA;
+  if (!data) return;
 
-// 메뉴 바깥을 누르면 하위 메뉴 닫기
-document.addEventListener("click", (e) => {
-  if (!e.target.closest(".header")) {
-    closeAll();
-    closeMobileMenu();
+  document.getElementById("eco-episode").innerHTML =
+    `<span>${esc(data.date)} 방송</span><a class="listen" href="${data.audio}" target="_blank" rel="noopener">▶ 방송 듣기</a>`;
+
+  document.getElementById("eco-keywords").innerHTML = data.keywords.map((k, i) => `
+    <div class="keyword">
+      <p class="keyword-label">KEYWORD ${i + 1}</p>
+      <h3>${esc(k.keyword)}</h3>
+      <p class="keyword-headline">${esc(k.headline)}</p>
+      <p><strong>쉽게 말하면</strong> ${esc(k.easy)}</p>
+      <p><strong>왜 중요할까?</strong> ${esc(k.why)}</p>
+    </div>`).join("");
+
+  document.getElementById("eco-term-list").innerHTML = data.terms
+    .map((t) => `<dt>${esc(t.word)}</dt><dd>${esc(t.easy)}</dd>`)
+    .join("");
+}
+
+function renderPastEpisodes() {
+  const data = window.NEWS_DATA;
+  const box = document.getElementById("past-episodes");
+  if (!data) {
+    box.innerHTML = `<li class="empty">방송 목록을 불러오지 못했어요.</li>`;
+    return;
   }
-});
+  const current = window.ECON_DATA ? window.ECON_DATA.episode : "";
+  const eps = data.episodes.filter((ep) => ep.title.startsWith("[손경제]") && ep.title !== current).slice(0, 4);
+  box.innerHTML = eps.map((ep) => {
+    const m = ep.title.match(/^\[손경제\]\s*(\S+)\s*(.*)$/);
+    return `<li><span class="pe-date">${esc(m ? m[1] : ep.date)}</span><span class="pe-title">${esc(m ? m[2] : ep.title)}</span><a href="${ep.audio}" target="_blank" rel="noopener">듣기</a></li>`;
+  }).join("");
+}
+
+// ===== 03 GeekNews =====
+const AI_WORDS = [
+  "AI", "LLM", "GPT", "Claude", "Gemini", "OpenAI", "Anthropic", "에이전트", "Agent",
+  "인공지능", "머신러닝", "딥러닝", "모델", "프롬프트", "챗봇", "Copilot", "MCP", "RAG",
+];
+
+function isAI(title) {
+  // "AI"는 단어 경계로만 찾아서 "MAIL" 같은 글자를 잘못 고르지 않게 해요
+  return AI_WORDS.some((w) => (w === "AI" ? /(^|[^A-Za-z])AI([^A-Za-z]|$)/.test(title) : title.includes(w)));
+}
+
+function gnDate(date) {
+  const [d, t] = date.split(" ");
+  const [, m, day] = d.split("-");
+  return `${Number(m)}/${Number(day)} ${t}`;
+}
+
+function renderGeekNews() {
+  const data = window.GEEKNEWS_DATA;
+  if (!data || !data.posts.length) {
+    document.getElementById("gn-feature").innerHTML = `<p class="empty">GeekNews 소식을 불러오지 못했어요.</p>`;
+    return;
+  }
+
+  const [top, ...rest] = data.posts;
+  document.getElementById("gn-feature").innerHTML = `
+    <p class="keyword-label">LATEST · ${esc(gnDate(top.date))}</p>
+    <h3><a href="${esc(top.link)}" target="_blank" rel="noopener">${esc(top.title)}</a></h3>
+    <p>${esc(top.summary)}</p>`;
+
+  document.getElementById("gn-list").innerHTML = rest.slice(0, 8).map((p) => `
+    <li>
+      <a href="${esc(p.link)}" target="_blank" rel="noopener">${esc(p.title)}</a>
+      <span class="gn-date">${esc(gnDate(p.date))}</span>
+    </li>`).join("");
+
+  const ai = data.posts.filter((p) => isAI(p.title)).slice(0, 6);
+  document.getElementById("gn-ai-list").innerHTML = ai.length
+    ? ai.map((p) => `<li><a href="${esc(p.link)}" target="_blank" rel="noopener">${esc(p.title)}</a></li>`).join("")
+    : `<li class="empty">오늘 올라온 글 중에는 AI 관련 소식이 없어요.</li>`;
+
+  document.getElementById("gn-updated").textContent = `마지막 업데이트 ${data.updated}`;
+}
+
+renderVerbs();
+renderEconomy();
+renderPastEpisodes();
+renderGeekNews();
