@@ -1,96 +1,96 @@
 window.GEEKNEWS_DATA = {
-  "updated": "2026-11-04 21:00",
+  "updated": "2026-11-05 15:39",
   "link": "https://news.hada.io",
   "posts": [
     {
-      "title": "내가 AI를 사용하는 방법, 2026년 10월",
-      "link": "https://news.hada.io/topic?id=36586",
-      "date": "2026-11-04 20:38",
-      "summary": "Salesforce AI Research 연구 엔지니어 Ben Stolovitz의 업무는 직접 코드를 작성하기보다 5~6개 코딩 에이전트를 관리 하는 방식으로 바뀌었으며, 현재 코드의 90% 이상을..."
+      "title": "내 ISP가 DNS를 가로채고 있었다",
+      "link": "https://news.hada.io/topic?id=36640",
+      "date": "2026-11-05 14:01",
+      "summary": "홈랩의 Podman 컨테이너에서 외부 사이트 접속이 실패해 조사한 결과, 일반 DNS 질의는 ISP 소유 IP 주소 를 반환했지만 Cloudflare의 DoH 질의는 다른 주소를 반환함 Unboun..."
     },
     {
-      "title": "Show GN: RDX, React 화면에서 API 출처와 반복 렌더를 찾는 개발 도구",
-      "link": "https://news.hada.io/topic?id=36585",
-      "date": "2026-11-04 19:47",
-      "summary": "React 화면을 보다가 “이 값은 어느 API에서 왔지?”, “가만히 있는데 왜 계속 요청이 나가지?”를 따라가기 위해 react-data-xray(RDX)를 만들었습니다. Network 탭에서는..."
+      "title": "Conductor가 Meta에 합류함",
+      "link": "https://news.hada.io/topic?id=36639",
+      "date": "2026-11-05 13:36",
+      "summary": "Conductor가 Meta에 합류 하며, 다음 인터페이스를 준비하고 2027년 초 사용 가능한 새 제품을 선보일 계획임 로컬 Conductor 는 2027년 초까지 새 모델과 중요 버그 수정을 계..."
     },
     {
-      "title": "Show GN: 처우 비교 계산기 - 이직 오퍼 3곳의 월 실수령액과 총보상을 나란히 비교하는 구글 시트",
-      "link": "https://news.hada.io/topic?id=36583",
-      "date": "2026-11-04 17:52",
-      "summary": "이직 오퍼를 비교할 때 쓰려고 만든 구글 시트입니다. 11년 차 개발자이고 제가 직접 만들었습니다. 연봉, 식대(연봉 포함/별도), 성과급, 사이닝 보너스, 부양가족·자녀 수를 넣으면 현재 회사와..."
+      "title": "Starfall - 미세중력 환경을 저렴하고 일상적으로 이용하는 서비스",
+      "link": "https://news.hada.io/topic?id=36638",
+      "date": "2026-11-05 13:33",
+      "summary": "Starfall 은 저궤도 미세중력 환경에서 제조, 과학 연구, 시험을 수행할 수 있도록 저렴하고 일상적인 접근을 제공하는 서비스임 낙하탑이나 포물선 비행의 미세중력은 수초 동안 지속되는 반면, S..."
     },
     {
-      "title": "Jelly Sheet - 천을 드래그하고 재질과 렌더링을 조절하는 인터랙티브 데모",
-      "link": "https://news.hada.io/topic?id=36582",
-      "date": "2026-11-04 17:31",
-      "summary": "천을 드래그 해 조작하는 데모로, 화면에는 CODEVEMBER 2026 / 01 / FOLD 라는 제목이 표시됨 스페이스 키 로 일시 정지할 수 있음 설정에서 공급 속도(Feed speed) 와 굽..."
+      "title": "Ask HN: 현재 AI 에이전트를 어떤 구성으로 사용하고 있나요?",
+      "link": "https://news.hada.io/topic?id=36636",
+      "date": "2026-11-05 12:50",
+      "summary": "일상에서 AI를 어떻게 사용하고, 왜 그 구성을 선택했는지 공유를 요청함. 개인 작업 방식이 1년 전과 크게 달라진 만큼 현재의 활용 현황을 알아보려는 취지이며, 모든 항목에 답할 필요는 없음 개인..."
     },
     {
-      "title": "Show GN: 서울은 밤하늘에 별이 잘 안 보여서 그냥 만들었어요. 별자리 구경가요 eunha.io",
-      "link": "https://news.hada.io/topic?id=36581",
-      "date": "2026-11-04 17:12",
-      "summary": "지금 이 시간 서울 하늘에 떠 있는 별이 그대로 보여요. 따로 설치할 것 없이 링크만 누르면 되고, 휴대폰으로도 돼요. claude로 개발했고, 특징은 지금 서울 하늘: 별 5,044개와 88개 별..."
+      "title": "Images 2.6 - GIF 생성과 더 빠르고 정밀한 이미지 편집 지원",
+      "link": "https://news.hada.io/topic?id=36635",
+      "date": "2026-11-05 12:47",
+      "summary": "OpenAI가 Images 2.6 을 ChatGPT, Codex, API에 도입함. GIF로 이미지에 움직임을 더하고, 편집 과정에서 캐릭터, 제품, 브랜드 세부 요소를 더 일관되게 유지할 수 있음..."
     },
     {
-      "title": "C++26 승인 부결",
-      "link": "https://news.hada.io/topic?id=36576",
-      "date": "2026-11-04 15:33",
-      "summary": "C++26이 2026년 10월 23일 ISO 국제표준안(DIS) 투표에서 부결 됨. 12주간 진행된 국가 회원기관(NB) 투표에서 필요한 3분의 2 찬성을 확보하지 못함 반대의 핵심은 Contrac..."
+      "title": "루트 권한에 이르는 경로를 천 개 가까이 줄이다",
+      "link": "https://news.hada.io/topic?id=36634",
+      "date": "2026-11-05 12:44",
+      "summary": "OpenAI가 Linux 커널 취약점 1,724건을 재현 하고, 이 가운데 로컬 권한 상승 948건 의 익스플로잇과 패치 후보를 만듦 일반 Linux 데스크톱의 보안 기능을 켠 가상 머신에서, 낮은..."
     },
     {
-      "title": "Show GN: Nico - 오른쪽 ⌘를 누르고 말하면 대신 일을 처리하는 Mac용 개인 에이전트",
-      "link": "https://news.hada.io/topic?id=36575",
-      "date": "2026-11-04 15:23",
-      "summary": "Nico 팀에서 개발하고 있는 Jimmy입니다. Mac용 개인 에이전트를 만들었는데, 써 보시고 피드백을 받고 싶어 올립니다. 무엇인가요 어느 앱에서든 오른쪽 ⌘를 누른 채 한국어로 말하고 손을 떼..."
+      "title": "macOS 27은 CoreStorage 볼륨을 지원하지 않음",
+      "link": "https://news.hada.io/topic?id=36631",
+      "date": "2026-11-05 11:32",
+      "summary": "macOS 27 Golden Gate 사용 사례에서 CoreStorage 기반 암호화 HFS+ 볼륨 의 일반적인 마운트, APFS 변환, 삭제가 모두 실패함 부팅 시에는 macOS 28부터 지원이..."
     },
     {
-      "title": "PostgreSQL의 내부 구조",
-      "link": "https://news.hada.io/topic?id=36573",
-      "date": "2026-11-04 14:31",
-      "summary": "PostgreSQL의 각 하위 시스템이 작동하는 방식 과 전체 구조를 이해하기 위한 기술 문서임 PostgreSQL은 복잡한 기능을 담당하는 여러 하위 시스템이 협력하는 거대한 시스템으로, 내부 동..."
+      "title": "Show GN: Corvus - 공격 차단·실시간 관제·접속 대기열을 지원하는 셀프호스팅 게이트웨이",
+      "link": "https://news.hada.io/topic?id=36628",
+      "date": "2026-11-05 10:51",
+      "summary": "안녕하세요. 개인적으로 NPM(nginx proxy manager)를 사용하면서 정말 간단하고 편리함에 잘 쓰고 있었는데, 트래픽을 감시하여 공격을 차단하고, 제어하는 게이트웨이 역할을 하는 프로젝..."
     },
     {
-      "title": "Show GN: 코딩하다 자세가 흐트러지면 거북이가 알려주는 앱, 모꼬 (Mac, Windows)",
-      "link": "https://news.hada.io/topic?id=36572",
-      "date": "2026-11-04 13:55",
-      "summary": "안녕하세요. 컴퓨터 앞에서 자세가 흐트러지면 거북이가 알려주는 무료 앱, 모꼬(Mokko)를 만들었습니다. 처음에는 반듯하게 앉아 있어도 코딩이나 문서 작업에 집중하다 보면 어느새 고개가 앞으로 나..."
+      "title": "곤충은 LED 조명에 떼 지어 몰려들지 않는다",
+      "link": "https://news.hada.io/topic?id=36625",
+      "date": "2026-11-05 10:32",
+      "summary": "LED 조명 은 백열등이나 소형 형광등보다 곤충을 훨씬 적게 유인하며, 곤충을 관찰하려면 사용하는 광원을 골라야 함 곤충은 자외선(UV) 을 단서로 빛을 등에 받도록 비행 자세를 잡는데, 자외선을..."
     },
     {
-      "title": "NIKKE PC 런처 침해 사고",
-      "link": "https://news.hada.io/topic?id=36571",
-      "date": "2026-11-04 13:26",
-      "summary": "1. 공격 요약 2026년 9월 27일부터 Level Infinite가 운영하는 CDN의 공식 JavaScript 파일 4개에 공격자 코드가 삽입된 정황이 확인됐다. NIKKE PC 런처는 해당 파..."
+      "title": "Thoughtworks Technology Radar, Volume 35 공개",
+      "link": "https://news.hada.io/topic?id=36623",
+      "date": "2026-11-05 09:50",
+      "summary": "테크닉/플랫폼/도구/언어 및 프레임워크 최신 트렌드 117개 항목 을 \"도입 권장/시험 사용/평가/주의\"의 4단계로 분류하고 설명 하네스 엔지니어링 이 개별 에이전트의 설정을 넘어, 조직이 스킬과..."
     },
     {
-      "title": "Flipper One Kickstarter 준비와 사전 주문 개시",
-      "link": "https://news.hada.io/topic?id=36569",
-      "date": "2026-11-04 12:33",
-      "summary": "Flipper One 은 Wi-Fi 6E와 기가비트 이더넷을 내장한 ARM 기반 오픈 Linux 컴퓨터이자 네트워크 멀티툴로, 사전 주문이 시작됨 메인라인 Linux 와 완전한 업스트림 지원을 지향..."
+      "title": "자율 에이전트를 위한 데이터 플랫폼 구축",
+      "link": "https://news.hada.io/topic?id=36622",
+      "date": "2026-11-05 09:40",
+      "summary": "에이전트가 데이터 플랫폼을 안정적으로 운영하려면 시맨틱 모델 만으로는 부족하며, 데이터의 최신성, 완전성, 파이프라인 실행 상태까지 확인할 수 있어야 함 연결된 관측 가능성 은 여러 시스템의 로그를..."
     },
     {
-      "title": "Show HN: HackerTV - HN에서 가장 많이 추천된 YouTube 영상을 24시간 TV 채널로 방송",
-      "link": "https://news.hada.io/topic?id=36568",
-      "date": "2026-11-04 11:30",
-      "summary": "HackerTV 는 Hacker News에서 거듭 추천되는 YouTube 영상을 채널별로 24시간 방송하는 서비스임 모든 시청자에게 동일한 편성표 를 적용함 YouTube 메타데이터를 가져오기 전까..."
+      "title": "OpenAI, Pierre Computer Company 인수 예정",
+      "link": "https://news.hada.io/topic?id=36621",
+      "date": "2026-11-05 09:31",
+      "summary": "OpenAI가 Git 기반 코드 저장 서비스와 오픈소스 코드 리뷰 도구 를 만드는 Pierre Computer Company를 인수할 예정임 Codex 앱은 이미 Pierre의 Trees 로 파일을..."
     },
     {
-      "title": "OpenAI, 버그 바운티 보상금 최대 약 2.3억원으로 인상",
-      "link": "https://news.hada.io/topic?id=36567",
-      "date": "2026-11-04 11:30",
-      "summary": "OpenAI가 독립 보안 연구자의 취약점 발견을 장려 하기 위해 버그 바운티 보상 체계를 대폭 개편함 중간/높음·/명적 취약점의 보상금 범위 중간값을 평균 4배 이상 인상 함 ChatGPT, Cod..."
+      "title": "sutura - AI 에이전트가 회사의 지표 정의로 데이터를 조회하게 해주는 쿼리 엔진",
+      "link": "https://news.hada.io/topic?id=36620",
+      "date": "2026-11-05 09:30",
+      "summary": "대시보드에서 보던 매출을 AI 에이전트에 물어도, 회사가 정해 둔 같은 기준으로 계산 할 수 있게 해줌 ‘지난 분기 지역별 월간 매출’처럼 지표, 분류 기준, 기간, 집계 단위 를 지정해 요청함...."
     },
     {
-      "title": "JVM 시작 시간, 330초에서 3초로 줄이기",
-      "link": "https://news.hada.io/topic?id=36566",
-      "date": "2026-11-04 11:23",
-      "summary": "CRaC 으로 워밍업을 마친 JVM의 프로세스 상태를 저장하고 새 파드에서 복원해, 파드 준비 시간을 약 330초에서 2~3초 로 줄임 기존에는 파드마다 부팅과 JIT 워밍업을 반복해 CPU 여유..."
+      "title": "AI는 랜섬웨어 암호화를 해독하지 않고 어떻게 파일을 복구했는가?",
+      "link": "https://news.hada.io/topic?id=36619",
+      "date": "2026-11-05 09:21",
+      "summary": "원문: AI Unlocked My Ransomware-Encrypted Files — Without the Key 작성자: Vitalijus Weax 주제: Claude AI를 활용한 Scarab..."
     },
     {
-      "title": "deepseek의 자율형 개발 에이전트 시스템 실험",
-      "link": "https://news.hada.io/topic?id=36564",
-      "date": "2026-11-04 10:58",
-      "summary": "GitHub에서 개발 업무를 요청하면 AI가 스스로 작업을 판단하고 코드를 수정한 뒤 Pull Request(PR)까지 만들어주는 자율형 개발 에이전트 시스템이라고 하네요. 그 동안 비슷한 시도는..."
+      "title": "Show GN: 매주 IT·Non-IT 공모전을 GitHub 알림 메일로 받아보는 오픈소스 서비스",
+      "link": "https://news.hada.io/topic?id=36618",
+      "date": "2026-11-05 09:14",
+      "summary": "공모전 사이트를 매번 확인하기 번거로워, 매주 공모전을 수집하고 GitHub Issue로 정리해 주는 봇을 만들었습니다. 봇 저장소의 GitHub Actions에서 주 1회 실행되며, IT·비IT..."
     }
   ]
 };

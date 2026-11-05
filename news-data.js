@@ -1,7 +1,19 @@
 window.NEWS_DATA = {
-  "updated": "2026-11-04 21:00",
+  "updated": "2026-11-05 15:39",
   "link": "https://mini.imbc.com/index_v3.html?service=podcast&program=1000671100000100000",
   "episodes": [
+    {
+      "title": "[손경제] 11/5(목) 미국 중간선거 | 테슬라 합병 세금 | 금융위원회 사업",
+      "date": "2026-11-05 08:30",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261105.mp3",
+      "description": "[깊이 있는 경제뉴스]\n1) 미 중간선거, 민주당 압승… 경제 영향은?\n2) 테슬라·스페이스X 합병설에.. 韓 투자자들 '양도세' 우려\n3) 민생지킴대출, 신용 하위 50%면 받는다.. 연봉 1억도 가능\n- 연합인포맥스 정지서 기자\n- 하수정 경제 전문 기자\n- 매일경제신문 명지예 기자"
+    },
+    {
+      "title": "[플러스] 11/4(수) 로펌 붕괴 (하수정 경제전문기자) | 이스라엘 총선 (김덕일 고려대 아문 중동 이슬람센터 연구위원)",
+      "date": "2026-11-04 22:05",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261104.mp3",
+      "description": "1부\n[업되는 기업]\n100년 로펌 무너뜨린\n뜻밖의 복병\n- 하수정 경제 전문 기자\n\n2부\n총선이 정리된 후\n네타냐후의 운명\n- 김덕일 연구위원 (고려대 아문 중동 이슬람센터)"
+    },
     {
       "title": "[손경제] 11/4(수) 코너스톤 투자자 제도 | 위안화 가치",
       "date": "2026-11-04 08:30",
@@ -49,18 +61,6 @@ window.NEWS_DATA = {
       "date": "2026-10-30 22:05",
       "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261030.mp3",
       "description": "1,2부\n뭉치는 미중러\n우크라의 운명은\n- 이문영 교수 (서울대 통일평화연구원)"
-    },
-    {
-      "title": "커파타임 - 지하권 말고 지상권",
-      "date": "2026-10-30 17:15",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/coffee_261030_2.mp3",
-      "description": "커파타임 - 지하권 말고 지상권"
-    },
-    {
-      "title": "커파타임 - 그동안 감사했습니다",
-      "date": "2026-10-30 17:00",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/coffee_261030_1.mp3",
-      "description": "커파타임 - 그동안 감사했습니다"
     }
   ]
 };
