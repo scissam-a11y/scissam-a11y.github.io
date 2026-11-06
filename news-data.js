@@ -1,7 +1,19 @@
 window.NEWS_DATA = {
-  "updated": "2026-11-05 15:39",
+  "updated": "2026-11-06 15:35",
   "link": "https://mini.imbc.com/index_v3.html?service=podcast&program=1000671100000100000",
   "episodes": [
+    {
+      "title": "[손경제] 11/6(금) 美 반도체주 | 커버드콜 ETF 분배금 | 집중투표제 | 지분적립형 분양주택",
+      "date": "2026-11-06 08:30",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261106.mp3",
+      "description": "[깊이 있는 경제뉴스]\n1) 美 증시 급락.. 데이터센터 우려에 반도체주 ↓\n2) 美 커버드콜 ETF, 배당소득세 두고 논란.. 내막은?\n3) '집중투표제' 우회 견제.. 시차 임기제 설명 책임 묻는다\n4) 분양가 25%만 내고 입주.. '지분적립형' 아파트 분양\n- 한국경제신문 조미현 기자\n- 한겨레신문 이재연 기자\n- 매일경제신문 이희수 기자"
+    },
+    {
+      "title": "[플러스] 11/5(목) 트럼프 레임덕 한국 기업의 운명 - 우정엽 선임연구위원 (미국 허드슨연구소)",
+      "date": "2026-11-05 22:05",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261105.mp3",
+      "description": "1,2부\n트럼프 레임덕\n한국 기업의 운명\n- 우정엽 선임연구위원 (미국 허드슨연구소)"
+    },
     {
       "title": "[손경제] 11/5(목) 미국 중간선거 | 테슬라 합병 세금 | 금융위원회 사업",
       "date": "2026-11-05 08:30",
@@ -49,18 +61,6 @@ window.NEWS_DATA = {
       "date": "2026-11-01 22:05",
       "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261101.mp3",
       "description": "1,2부\n[쩐설의 김선생]\n하멜은 사실\n조선을 증오했다\n- 김재원 역사커뮤니케이터"
-    },
-    {
-      "title": "[플러스] 10/31(토) 중간 선거 끝나도 바뀌는 건 없다 - 박정호 명지대 교수",
-      "date": "2026-10-31 22:05",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261031.mp3",
-      "description": "1,2부\n[역시나박정호]\n중간 선거 끝나도\n바뀌는 건 없다\n- 박정호 명지대 교수"
-    },
-    {
-      "title": "[플러스] 10/30(금) 뭉치는 미중러 우크라의 운명은 - 이문영 교수 (서울대 통일평화연구원)",
-      "date": "2026-10-30 22:05",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261030.mp3",
-      "description": "1,2부\n뭉치는 미중러\n우크라의 운명은\n- 이문영 교수 (서울대 통일평화연구원)"
     }
   ]
 };

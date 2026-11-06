@@ -1,96 +1,96 @@
 window.GEEKNEWS_DATA = {
-  "updated": "2026-11-05 15:39",
+  "updated": "2026-11-06 15:35",
   "link": "https://news.hada.io",
   "posts": [
     {
-      "title": "내 ISP가 DNS를 가로채고 있었다",
-      "link": "https://news.hada.io/topic?id=36640",
-      "date": "2026-11-05 14:01",
-      "summary": "홈랩의 Podman 컨테이너에서 외부 사이트 접속이 실패해 조사한 결과, 일반 DNS 질의는 ISP 소유 IP 주소 를 반환했지만 Cloudflare의 DoH 질의는 다른 주소를 반환함 Unboun..."
+      "title": "약 2만 달러로 학습한 준수한 텍스트 기반 이미지 생성 모델, Apache 2.0 가중치 공개",
+      "link": "https://news.hada.io/topic?id=36694",
+      "date": "2026-11-06 14:33",
+      "summary": "Linum이 차기 영상 모델을 위한 개념 검증으로 Pyramid-JiT(P-JiT) 이미지 생성 모델을 실험적으로 공개함. 사전학습과 후속학습에 든 GPU 비용은 총 21,038달러 임 별도 VAE..."
     },
     {
-      "title": "Conductor가 Meta에 합류함",
-      "link": "https://news.hada.io/topic?id=36639",
-      "date": "2026-11-05 13:36",
-      "summary": "Conductor가 Meta에 합류 하며, 다음 인터페이스를 준비하고 2027년 초 사용 가능한 새 제품을 선보일 계획임 로컬 Conductor 는 2027년 초까지 새 모델과 중요 버그 수정을 계..."
+      "title": "Show GN: ESLint Markdown - ESLint로 마크다운 파일들을 린팅하세요",
+      "link": "https://news.hada.io/topic?id=36693",
+      "date": "2026-11-06 14:21",
+      "summary": "eslint-markdown 패키지를 통해 ESLint로 Markdown 파일을 린팅할 수 있습니다. 2024년 10월 3일 ESLint가 Markdown 지원을 공식 발표 한 이후, ESLint의..."
     },
     {
-      "title": "Starfall - 미세중력 환경을 저렴하고 일상적으로 이용하는 서비스",
-      "link": "https://news.hada.io/topic?id=36638",
-      "date": "2026-11-05 13:33",
-      "summary": "Starfall 은 저궤도 미세중력 환경에서 제조, 과학 연구, 시험을 수행할 수 있도록 저렴하고 일상적인 접근을 제공하는 서비스임 낙하탑이나 포물선 비행의 미세중력은 수초 동안 지속되는 반면, S..."
+      "title": "Mark Cuban “Facebook, AI 딥페이크 사기 광고인 줄 알고도 게재”, 내부 문서상 사기 관련 매출 추정 16...",
+      "link": "https://news.hada.io/topic?id=36691",
+      "date": "2026-11-06 13:33",
+      "summary": "Mark Cuban 은 자신을 사칭한 AI 광고의 가짜 당뇨병 치료제에 대해 매주 문의를 받는다며, Facebook이 피해를 알면서도 광고를 게재한다고 비판함 Reuters가 확보한 Meta 내부..."
     },
     {
-      "title": "Ask HN: 현재 AI 에이전트를 어떤 구성으로 사용하고 있나요?",
-      "link": "https://news.hada.io/topic?id=36636",
-      "date": "2026-11-05 12:50",
-      "summary": "일상에서 AI를 어떻게 사용하고, 왜 그 구성을 선택했는지 공유를 요청함. 개인 작업 방식이 1년 전과 크게 달라진 만큼 현재의 활용 현황을 알아보려는 취지이며, 모든 항목에 답할 필요는 없음 개인..."
+      "title": "로컬 LLM, 권장된 샘플링 대신 temp 0으로 실행해도 되나? ( 한국어 문서 RAG 320문항 재측정)",
+      "link": "https://news.hada.io/topic?id=36690",
+      "date": "2026-11-06 13:22",
+      "summary": "한국어 문서 RAG 시험(정답 있는 299문항 + 답 없는 질문 20개)을 temp 0으로 실행했더니, Hugging Face 토론에서 \"qwen3.8은 카드 권장값으로 재야 공정하다\"는 지적을 받..."
     },
     {
-      "title": "Images 2.6 - GIF 생성과 더 빠르고 정밀한 이미지 편집 지원",
-      "link": "https://news.hada.io/topic?id=36635",
-      "date": "2026-11-05 12:47",
-      "summary": "OpenAI가 Images 2.6 을 ChatGPT, Codex, API에 도입함. GIF로 이미지에 움직임을 더하고, 편집 과정에서 캐릭터, 제품, 브랜드 세부 요소를 더 일관되게 유지할 수 있음..."
+      "title": "헝가리, 공산주의 시대 문서 공개로 전직 정보원 최대 6만 명 신원 드러나",
+      "link": "https://news.hada.io/topic?id=36689",
+      "date": "2026-11-06 12:32",
+      "summary": "헝가리가 공산주의 시대 비밀경찰 기록을 일반에 공개 하면서 당시 정보원 약 5만~6만 명의 이름이 드러남 공개 자료에는 정보원 등록표, 모집 기록, 개인정보와 암호명 데이터베이스 가 포함되며, 누구..."
     },
     {
-      "title": "루트 권한에 이르는 경로를 천 개 가까이 줄이다",
-      "link": "https://news.hada.io/topic?id=36634",
-      "date": "2026-11-05 12:44",
-      "summary": "OpenAI가 Linux 커널 취약점 1,724건을 재현 하고, 이 가운데 로컬 권한 상승 948건 의 익스플로잇과 패치 후보를 만듦 일반 Linux 데스크톱의 보안 기능을 켠 가상 머신에서, 낮은..."
+      "title": "GitHub Copilot 런타임 코드베이스 전체를 Rust로 이식한 이유와 방법 [영상]",
+      "link": "https://news.hada.io/topic?id=36687",
+      "date": "2026-11-06 11:20",
+      "summary": "GitHub Copilot 런타임의 TypeScript 운영 코드 약 40만~45만 줄 을 Rust로 이식함. 목적은 Rust 도입 자체가 아니라 Node.js와 V8 의존성을 벗어나 여러 제품에..."
     },
     {
-      "title": "macOS 27은 CoreStorage 볼륨을 지원하지 않음",
-      "link": "https://news.hada.io/topic?id=36631",
-      "date": "2026-11-05 11:32",
-      "summary": "macOS 27 Golden Gate 사용 사례에서 CoreStorage 기반 암호화 HFS+ 볼륨 의 일반적인 마운트, APFS 변환, 삭제가 모두 실패함 부팅 시에는 macOS 28부터 지원이..."
+      "title": "Show GN: 해축이모 - 프리미어리그 이적설의 출처와 진행 단계를 모아보는 서비스",
+      "link": "https://news.hada.io/topic?id=36686",
+      "date": "2026-11-06 10:20",
+      "summary": "안녕하세요. 해축이모를 만든 개발자 김도완입니다. 이적설을 읽을 때 궁금한 건 보통 두 가지입니다. “누가 보도했지?” 그리고 “구단이 관심을 보인 건가, 실제로 협상이 시작된 건가?” 해축이모에서..."
     },
     {
-      "title": "Show GN: Corvus - 공격 차단·실시간 관제·접속 대기열을 지원하는 셀프호스팅 게이트웨이",
-      "link": "https://news.hada.io/topic?id=36628",
-      "date": "2026-11-05 10:51",
-      "summary": "안녕하세요. 개인적으로 NPM(nginx proxy manager)를 사용하면서 정말 간단하고 편리함에 잘 쓰고 있었는데, 트래픽을 감시하여 공격을 차단하고, 제어하는 게이트웨이 역할을 하는 프로젝..."
+      "title": "소프트웨어 엔지니어링은 어떻게 달라지고 있나: 두 시대의 이야기",
+      "link": "https://news.hada.io/topic?id=36685",
+      "date": "2026-11-06 10:16",
+      "summary": "한 엔지니어의 월간 PR 수가 AI 도입 이전 약 19개에서 207개로 11배 늘어남 . AI 코딩 에이전트뿐 아니라 담당자의 자율성, 선택적 사람 리뷰, 제품 의사결정 방식이 함께 바뀐 결과임 코..."
     },
     {
-      "title": "곤충은 LED 조명에 떼 지어 몰려들지 않는다",
-      "link": "https://news.hada.io/topic?id=36625",
-      "date": "2026-11-05 10:32",
-      "summary": "LED 조명 은 백열등이나 소형 형광등보다 곤충을 훨씬 적게 유인하며, 곤충을 관찰하려면 사용하는 광원을 골라야 함 곤충은 자외선(UV) 을 단서로 빛을 등에 받도록 비행 자세를 잡는데, 자외선을..."
+      "title": "AI로 부활하는 해킨토시",
+      "link": "https://news.hada.io/topic?id=36684",
+      "date": "2026-11-06 09:39",
+      "summary": "비 Apple 하드웨어에서 macOS를 구동하는 Hackintosh 와 hackios 커뮤니티에서 최근 몇 주간 개발 활동과 성공 사례가 급증했으며, AI의 부상 이 이를 이끌고 있음 Apple의..."
     },
     {
-      "title": "Thoughtworks Technology Radar, Volume 35 공개",
-      "link": "https://news.hada.io/topic?id=36623",
-      "date": "2026-11-05 09:50",
-      "summary": "테크닉/플랫폼/도구/언어 및 프레임워크 최신 트렌드 117개 항목 을 \"도입 권장/시험 사용/평가/주의\"의 4단계로 분류하고 설명 하네스 엔지니어링 이 개별 에이전트의 설정을 넘어, 조직이 스킬과..."
+      "title": "Servo의 9월 업데이트: &lt;progress&gt;, 둥근 사각형 등",
+      "link": "https://news.hada.io/topic?id=36683",
+      "date": "2026-11-06 09:36",
+      "summary": "Servo 0.7.0 에 9월의 527개 커밋이 반영됐으며, &lt;progress&gt; 요소와 Canvas의 둥근 사각형 그리기 등 웹 플랫폼 지원이 확대됨 CSS와 DOM API 지원을 넓혀..."
     },
     {
-      "title": "자율 에이전트를 위한 데이터 플랫폼 구축",
-      "link": "https://news.hada.io/topic?id=36622",
-      "date": "2026-11-05 09:40",
-      "summary": "에이전트가 데이터 플랫폼을 안정적으로 운영하려면 시맨틱 모델 만으로는 부족하며, 데이터의 최신성, 완전성, 파이프라인 실행 상태까지 확인할 수 있어야 함 연결된 관측 가능성 은 여러 시스템의 로그를..."
+      "title": "voxl - 매우 빠른 브라우저 기반 원격 데스크톱 도구",
+      "link": "https://news.hada.io/topic?id=36682",
+      "date": "2026-11-06 09:30",
+      "summary": "서버나 샌드박스의 GUI를 브라우저에서 최대 60 FPS로 부드럽게 보고 조작 할 수 있는 Rust 기반 오픈소스 도구 noVNC, Sunshine, Neko, KasmVNC, Selkies보다 높..."
     },
     {
-      "title": "OpenAI, Pierre Computer Company 인수 예정",
-      "link": "https://news.hada.io/topic?id=36621",
-      "date": "2026-11-05 09:31",
-      "summary": "OpenAI가 Git 기반 코드 저장 서비스와 오픈소스 코드 리뷰 도구 를 만드는 Pierre Computer Company를 인수할 예정임 Codex 앱은 이미 Pierre의 Trees 로 파일을..."
+      "title": "로봇 촉각 데이터 243만 건 시대, 왜 다른 로봇의 손끝 경험은 그대로 쓸 수 없을까?",
+      "link": "https://news.hada.io/topic?id=36679",
+      "date": "2026-11-06 08:49",
+      "summary": "사람은 눈을 감고도 손끝의 압력과 미끄러짐을 감지합니다. 로봇도 촉각 센서로 이런 정보를 수집하지만, 한 로봇이 배운 손끝의 경험을 다른 로봇에게 그대로 전달하기는 어렵습니다. 센서마다 접촉을 측정..."
     },
     {
-      "title": "sutura - AI 에이전트가 회사의 지표 정의로 데이터를 조회하게 해주는 쿼리 엔진",
-      "link": "https://news.hada.io/topic?id=36620",
-      "date": "2026-11-05 09:30",
-      "summary": "대시보드에서 보던 매출을 AI 에이전트에 물어도, 회사가 정해 둔 같은 기준으로 계산 할 수 있게 해줌 ‘지난 분기 지역별 월간 매출’처럼 지표, 분류 기준, 기간, 집계 단위 를 지정해 요청함...."
+      "title": "잘 알려지지 않은 오디오 코덱, N64에 딱 맞다",
+      "link": "https://news.hada.io/topic?id=36678",
+      "date": "2026-11-06 08:40",
+      "summary": "ULC(Ultra Low Complexity Codec) 를 N64에 이식해 44,100Hz 스테레오 오디오를 CPU 시간 약 4%, RSP 시간 약 5%로 재생함 Opus에 가까운 음질과 비트레이..."
     },
     {
-      "title": "AI는 랜섬웨어 암호화를 해독하지 않고 어떻게 파일을 복구했는가?",
-      "link": "https://news.hada.io/topic?id=36619",
-      "date": "2026-11-05 09:21",
-      "summary": "원문: AI Unlocked My Ransomware-Encrypted Files — Without the Key 작성자: Vitalijus Weax 주제: Claude AI를 활용한 Scarab..."
+      "title": "Claude Code가 사용자 이메일 주소를 웹사이트에 전송함",
+      "link": "https://news.hada.io/topic?id=36676",
+      "date": "2026-11-06 08:37",
+      "summary": "Claude Code가 웹 검색 중 사용자 이메일을 User-Agent 요청 헤더에 넣어 동의 없이 외부 사이트로 전송했다는 신고 가 등록됨 사이트의 자동화 클라이언트 정책을 따르려다 모델이 사용자..."
     },
     {
-      "title": "Show GN: 매주 IT·Non-IT 공모전을 GitHub 알림 메일로 받아보는 오픈소스 서비스",
-      "link": "https://news.hada.io/topic?id=36618",
-      "date": "2026-11-05 09:14",
-      "summary": "공모전 사이트를 매번 확인하기 번거로워, 매주 공모전을 수집하고 GitHub Issue로 정리해 주는 봇을 만들었습니다. 봇 저장소의 GitHub Actions에서 주 1회 실행되며, IT·비IT..."
+      "title": "MS 그림판, 클릭 없이 원격 코드 실행 가능한 취약점 발견",
+      "link": "https://news.hada.io/topic?id=36675",
+      "date": "2026-11-06 08:34",
+      "summary": "Windows Paint(그림판)에서 인증이나 사용자 조작 없이 원격 코드 실행이 가능한 취약점 이 공개됨. Microsoft는 영향을 받는 서비스에 특수하게 조작된 패킷을 보내 공격할 수 있다고..."
     }
   ]
 };
