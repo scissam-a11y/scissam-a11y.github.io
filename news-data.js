@@ -1,7 +1,19 @@
 window.NEWS_DATA = {
-  "updated": "2026-11-06 15:35",
+  "updated": "2026-11-07 14:53",
   "link": "https://mini.imbc.com/index_v3.html?service=podcast&program=1000671100000100000",
   "episodes": [
+    {
+      "title": "커파타임 - 비행기는 설국열차",
+      "date": "2026-11-06 15:05",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/coffee_1106_2.mp3",
+      "description": "커파타임 - 비행기는 설국열차"
+    },
+    {
+      "title": "커파타임 - 인생이 바뀌는 투자",
+      "date": "2026-11-06 15:01",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/coffee_1106_1.mp3",
+      "description": "커파타임 - 인생이 바뀌는 투자"
+    },
     {
       "title": "[손경제] 11/6(금) 美 반도체주 | 커버드콜 ETF 분배금 | 집중투표제 | 지분적립형 분양주택",
       "date": "2026-11-06 08:30",
@@ -49,18 +61,6 @@ window.NEWS_DATA = {
       "date": "2026-11-02 22:05",
       "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261102.mp3",
       "description": "1부\n[텍코노미]\n스타트업 AI 비서\n카카오 잡는다?\n- 김덕진 소장 (IT커뮤니케이션 연구소)\n\n2부\n[글로벌 리포트]\n월세 무서워\n사람 죽은 집 찾는 \n일본 사람들 \n- 이혜인 기자 (한국경제신문)"
-    },
-    {
-      "title": "[손경제] 11/2(월) AI 자금조달 | 담뱃세 인상",
-      "date": "2026-11-02 08:30",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261102.mp3",
-      "description": "[깊이 있는 경제뉴스]\n1) 블랙스톤 \"앤트로픽, 상장 후 신용등급 '투기'에 머물 것\"\n2) 오픈AI, 자금 조달 목표 100억 달러 축소\n3) 담배 덜 팔려 소방 예산 감축.. 담뱃세 인상 검토\n- 한국경제신문 조미현 기자\n- 머니투데이신문 김근희 기자\n\n[친절한 경제]\n왜 자사주를 사는 동시에 \n중복상장을 추진했을까?\n- 청취자 박재범 씨"
-    },
-    {
-      "title": "[플러스] 11/1(일) 하멜은 사실 조선을 증오했다 - 재원쌤",
-      "date": "2026-11-01 22:05",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261101.mp3",
-      "description": "1,2부\n[쩐설의 김선생]\n하멜은 사실\n조선을 증오했다\n- 김재원 역사커뮤니케이터"
     }
   ]
 };
