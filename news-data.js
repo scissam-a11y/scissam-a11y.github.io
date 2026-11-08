@@ -1,7 +1,13 @@
 window.NEWS_DATA = {
-  "updated": "2026-11-07 14:53",
+  "updated": "2026-11-08 14:55",
   "link": "https://mini.imbc.com/index_v3.html?service=podcast&program=1000671100000100000",
   "episodes": [
+    {
+      "title": "[플러스] 11/6(금) 철도강국 스페인 열차 참사 반복되는 이유 - 최진석 소장 (철도경제연구소)",
+      "date": "2026-11-06 22:05",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261106.mp3",
+      "description": "1,2부\n철도강국 스페인\n열차 참사\n반복되는 이유\n- 최진석 소장 (철도경제연구소)"
+    },
     {
       "title": "커파타임 - 비행기는 설국열차",
       "date": "2026-11-06 15:05",
@@ -55,12 +61,6 @@ window.NEWS_DATA = {
       "date": "2026-11-03 08:30",
       "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261103.mp3",
       "description": "[깊이 있는 경제뉴스]\n1) 미래기금 '지속가능성' 우려.. 2029년부터 추가세수 없다?\n2) AI, 빅테크 광고 매출 위협.. 쇼핑·검색 영향\n3) 올해 북극항로 이용 50% 증가 전망.. 아직은 러시아 위주\n- 김치형 경제뉴스 큐레이터\n- 이코노미스트 라예진 기자\n- 한국경제신문 이혜인 기자"
-    },
-    {
-      "title": "[플러스] 11/2(월) AI 비서 (김덕진 소장) | 일본 사고물건 | 중국 취업난 | 미국 부자 세금 (이혜인 기자)",
-      "date": "2026-11-02 22:05",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261102.mp3",
-      "description": "1부\n[텍코노미]\n스타트업 AI 비서\n카카오 잡는다?\n- 김덕진 소장 (IT커뮤니케이션 연구소)\n\n2부\n[글로벌 리포트]\n월세 무서워\n사람 죽은 집 찾는 \n일본 사람들 \n- 이혜인 기자 (한국경제신문)"
     }
   ]
 };
