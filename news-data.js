@@ -1,7 +1,25 @@
 window.NEWS_DATA = {
-  "updated": "2026-11-08 14:55",
-  "link": "https://mini.imbc.com/index_v3.html?service=podcast&program=1000671100000100000",
+  "updated": "2026-11-09 15:17",
+  "link": "https://miniwebapp.imbc.com/index?service=podcast&program=1000671100000100000",
   "episodes": [
+    {
+      "title": "[손경제] 11/9(월) 반대매매 규제 완화 | 건강검진비에 과세 | 구글 넘어 1위 넘보는 메타",
+      "date": "2026-11-09 08:30",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261109.mp3",
+      "description": "[깊이 있는 경제뉴스]\n1) 증시 급락에 반대매매 규제 완화.. 실효성은\n2) 회사 지원 건강검진비 두고 세금 분쟁.. 왜?\n3) AI에 웃는 메타, 위협받는 구글.. 광고 왕좌 바뀌나\n- 한국경제신문 조미현 기자\n- 머니투데이신문 김근희 기자\n\n[친절한 경제]\n- 청취자 000씨\n"
+    },
+    {
+      "title": "[플러스] 11/8(일) 로보택시의 미래 3년 안에 결판난다 - 차두원 대표 (퓨처링크)",
+      "date": "2026-11-08 22:05",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261108.mp3",
+      "description": "1,2부\n로보택시의 미래\n3년 안에 결판난다\n- 차두원 대표 (퓨처링크)"
+    },
+    {
+      "title": "[플러스] 11/7(토) 역외 자금 확 빨아들이는 중국의 속셈 - 박정호 명지대 교수",
+      "date": "2026-11-07 22:05",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261107.mp3",
+      "description": "1,2부\n[역시나 박정호]\n역외 자금\n확 빨아들이는\n중국의 속셈\n- 박정호 명지대 교수"
+    },
     {
       "title": "[플러스] 11/6(금) 철도강국 스페인 열차 참사 반복되는 이유 - 최진석 소장 (철도경제연구소)",
       "date": "2026-11-06 22:05",
@@ -43,24 +61,6 @@ window.NEWS_DATA = {
       "date": "2026-11-04 22:05",
       "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261104.mp3",
       "description": "1부\n[업되는 기업]\n100년 로펌 무너뜨린\n뜻밖의 복병\n- 하수정 경제 전문 기자\n\n2부\n총선이 정리된 후\n네타냐후의 운명\n- 김덕일 연구위원 (고려대 아문 중동 이슬람센터)"
-    },
-    {
-      "title": "[손경제] 11/4(수) 코너스톤 투자자 제도 | 위안화 가치",
-      "date": "2026-11-04 08:30",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261104.mp3",
-      "description": "[깊이 있는 경제뉴스]\n1) IPO 공모주 사전배정 제도 도입.. '따상 후 급락' 막는다\n2) 위안화 가치 4년새 최고 수준.. 中, 외화 지급준비율 인상\n- 김치형 경제뉴스 큐레이터\n- 연합인포맥스 정지서 기자\n\n[친절한 경제]\n전산자료 사라지면\n잔액 어떻게 입증하나요?\n- 청취자 최영주 씨"
-    },
-    {
-      "title": "[플러스] 11/3(화) 한국 부자들이 도쿄 타워맨션에 빠진 이유 - 정두신 대표 (미야마앤정 파트너스)",
-      "date": "2026-11-03 22:05",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261103.mp3",
-      "description": "1,2부\n한국 부자들이\n도쿄 타워맨션에\n빠진 이유\n- 정두신 대표 (미야마앤정 파트너스)"
-    },
-    {
-      "title": "[손경제] 11/3(화) 미래대응기금 | 빅테크 광고 사업 | 북극항로",
-      "date": "2026-11-03 08:30",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261103.mp3",
-      "description": "[깊이 있는 경제뉴스]\n1) 미래기금 '지속가능성' 우려.. 2029년부터 추가세수 없다?\n2) AI, 빅테크 광고 매출 위협.. 쇼핑·검색 영향\n3) 올해 북극항로 이용 50% 증가 전망.. 아직은 러시아 위주\n- 김치형 경제뉴스 큐레이터\n- 이코노미스트 라예진 기자\n- 한국경제신문 이혜인 기자"
     }
   ]
 };
