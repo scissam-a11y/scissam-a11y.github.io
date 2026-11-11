@@ -1,7 +1,19 @@
 window.NEWS_DATA = {
-  "updated": "2026-11-10 16:11",
+  "updated": "2026-11-11 15:07",
   "link": "https://miniwebapp.imbc.com/index?service=podcast&program=1000671100000100000",
   "episodes": [
+    {
+      "title": "[손경제] 11/11(수) 6개월 예금금리가 1년보다 높다 | AI 데이터센터 건설 반대 확산",
+      "date": "2026-11-11 08:30",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261111.mp3",
+      "description": "[깊이 있는 경제뉴스]\n1) 6개월 예금금리가 1년보다 높아.. 금리 역전 이유는?\n2) AI 데이터센터 반대 미국·유럽 이어 동남아까지.. 빅테크 고심\n-김치형 경제뉴스 큐레이터\n-이코노미스트 라예진 기자\n\n[친절한 경제]\n콜금리란 무엇인가요?\n-청취자 김영웅 씨"
+    },
+    {
+      "title": "[플러스] 11/10(화) 2천원 짜리 K-레이저 북한 드론 잡는다 - 임철균 전문연구위원 (한국전략문제연구소)",
+      "date": "2026-11-10 20:00",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261110.mp3",
+      "description": "1,2부\n2천원 짜리 K-레이저\n북한 드론 잡는다\n- 임철균 전문연구위원 (한국전략문제연구소)"
+    },
     {
       "title": "[손경제] 11/10(화) 산업용 가스요금 66% 급등 | 주가 누르기 방지법 충돌 | 빚 안 갚는 '대출 포모'",
       "date": "2026-11-10 08:30",
@@ -49,18 +61,6 @@ window.NEWS_DATA = {
       "date": "2026-11-06 15:01",
       "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/coffee_1106_1.mp3",
       "description": "커파타임 - 인생이 바뀌는 투자"
-    },
-    {
-      "title": "[손경제] 11/6(금) 美 반도체주 | 커버드콜 ETF 분배금 | 집중투표제 | 지분적립형 분양주택",
-      "date": "2026-11-06 08:30",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261106.mp3",
-      "description": "[깊이 있는 경제뉴스]\n1) 美 증시 급락.. 데이터센터 우려에 반도체주 ↓\n2) 美 커버드콜 ETF, 배당소득세 두고 논란.. 내막은?\n3) '집중투표제' 우회 견제.. 시차 임기제 설명 책임 묻는다\n4) 분양가 25%만 내고 입주.. '지분적립형' 아파트 분양\n- 한국경제신문 조미현 기자\n- 한겨레신문 이재연 기자\n- 매일경제신문 이희수 기자"
-    },
-    {
-      "title": "[플러스] 11/5(목) 트럼프 레임덕 한국 기업의 운명 - 우정엽 선임연구위원 (미국 허드슨연구소)",
-      "date": "2026-11-05 22:05",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261105.mp3",
-      "description": "1,2부\n트럼프 레임덕\n한국 기업의 운명\n- 우정엽 선임연구위원 (미국 허드슨연구소)"
     }
   ]
 };

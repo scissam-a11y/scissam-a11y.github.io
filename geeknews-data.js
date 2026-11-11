@@ -1,96 +1,96 @@
 window.GEEKNEWS_DATA = {
-  "updated": "2026-11-10 16:11",
+  "updated": "2026-11-11 15:07",
   "link": "https://news.hada.io",
   "posts": [
     {
-      "title": "유료 SDK 없이, 공개 데이터와 MapLibre로 아파트 3D 지도를 만든 11일",
-      "link": "https://news.hada.io/topic?id=36933",
-      "date": "2026-11-10 14:53",
-      "summary": "직접 개발 중인 아파트 인사이트의 주변 3D 지도를 만들면서 겪은 문제와 설계 선택을 정리했습니다. 브이월드의 건물 외곽선, 건축물대장의 높이, OpenStreetMap의 시설·도로 데이터를 결합하..."
+      "title": "Terence Tao의 Six Math Essentials - 수학의 여섯 가지 핵심 개념",
+      "link": "https://news.hada.io/topic?id=36978",
+      "date": "2026-11-11 13:31",
+      "summary": "필즈상 수상자 Terence Tao 가 고대부터 오늘날의 연구 최전선까지 수학을 이끌어 온 여섯 개념으로 복잡한 세계를 이해하는 길을 소개함 수 는 정량적 사고의 출발점이며, 대수학 은 추상화의 출..."
     },
     {
-      "title": "Ask GN: AI 코딩 에이전트에게 셸 명령 권한을 어디까지 주시나요?",
-      "link": "https://news.hada.io/topic?id=36930",
-      "date": "2026-11-10 12:15",
-      "summary": "Claude Code·Codex·Cursor 같은 에이전트에게 셸 명령을 맡길 때 다들 어떻게 쓰시는지 궁금합니다. 공개된 사고 보고서를 모아 보면 홈 폴더나 저장소, 데이터베이스가 날아간 경우가..."
+      "title": "Show GN: Officeflare - Cloudflare 인프라 위에 올라가는 오피스 스위트",
+      "link": "https://news.hada.io/topic?id=36977",
+      "date": "2026-11-11 13:23",
+      "summary": "Cloudflare 인프라 위에서 동작하는 오피스 스위트를 만들어 사용하고 있습니다. 클라우드플레어에 이메일 라우팅, 이메일 발송 같은 기능들이 도입되며, 오래 전부터 생각만 해오던 제품을 만들 수..."
     },
     {
-      "title": "Fable 5.2가 조카가 꿈꾸던 게임을 한 번의 요청으로 구현함",
-      "link": "https://news.hada.io/topic?id=36929",
-      "date": "2026-11-10 11:35",
-      "summary": "Fable 5.2 가 조카의 그림과 기존 게임을 바탕으로, 한 번의 요청을 받아 밤사이 플레이 가능한 12스테이지 벨트스크롤 액션 게임을 완성함 기존 코드 대부분을 다시 작성하고 이미지 약 175개..."
+      "title": "Gleam을 써보자",
+      "link": "https://news.hada.io/topic?id=36975",
+      "date": "2026-11-11 13:02",
+      "summary": "Gleam 은 Erlang VM인 BEAM과 JavaScript를 대상으로 컴파일되는 정적 타입 함수형 언어로, 간결한 문법과 Erlang/Elixir 생태계 상호운용성을 갖춤 파이프 연산자 |&g..."
     },
     {
-      "title": "Show GN: Daizy - 단어 암기에 특화된 예쁜 Anki/Quizlet Alternative",
-      "link": "https://news.hada.io/topic?id=36928",
-      "date": "2026-11-10 11:15",
-      "summary": "UI가 예쁜 Anki Alternative를 만들어보고자 시작된 단어암기 앱입니다. 주요기능 안드로이드, iOS, 웹 버전 지원 FSRS 알고리즘 기반 데일리 퀴즈 Anki 덱 Import / Ex..."
+      "title": "Show GN: TimeCarver - 집중한 시간만큼 돌을 깎는 타이머 앱",
+      "link": "https://news.hada.io/topic?id=36973",
+      "date": "2026-11-11 12:07",
+      "summary": "집중해야 하는데 자꾸 딴짓을 하게 되는 저 같은 분들을 위해 만든, iOS·Android 포커스 타이머 앱 TimeCarver입니다. 집중하는 동안 원석이 조금씩 깎여 나가고, 딴짓을 하면 균열이..."
     },
     {
-      "title": "Show GN: Tacie – 지난 결정, 회의 중에 바로 찾아 주는 Mac용 AI 어시스턴트",
-      "link": "https://news.hada.io/topic?id=36925",
-      "date": "2026-11-10 10:56",
-      "summary": "회의에서 나온 질문은 “확인해 보고 공유드릴게요“로 넘어가고, 회의가 끝나면 뭘 정했는지 다시 묻는 일이 반복돼서 만들었습니다. 회의에서 찾아볼 질문이 나오면 GitHub, Linear, 노션에서..."
+      "title": "AMD Zen 6 제품군: 강력한 코어에 일감 공급하기",
+      "link": "https://news.hada.io/topic?id=36972",
+      "date": "2026-11-11 10:40",
+      "summary": "Zen 6 는 단일 스레드의 듀얼 디코더 활용, 더 빠른 분기 처리, 확장된 비순차 실행 구조로 Zen 5 대비 실행 엔진에 일감을 공급하고 메모리 지연을 숨기는 능력을 개선함 Zen 6와 Zen..."
     },
     {
-      "title": "1.58비트 터너리 양자화로 30B LLM을 맥북에서 돌리기: 0점에서 89.4%까지 복원한 기록",
-      "link": "https://news.hada.io/topic?id=36924",
-      "date": "2026-11-10 10:53",
-      "summary": "NVIDIA Nemotron 3.5 Lightning 30B(A3B)의 가중치를 -1, 0, +1 세 값으로만 표현하는 1.58비트 터너리 양자화로 약 60GB → 약 10GB 까지 줄이고, 24G..."
+      "title": "7개월이 지난 Glasswing, 기대에 못 미치는 발견으로 유지보수자에게 과도한 부담을 주다",
+      "link": "https://news.hada.io/topic?id=36971",
+      "date": "2026-11-11 10:37",
+      "summary": "VulnCheck가 추적한 Anthropic에 귀속되는 CVE는 442건 으로, 올해 전체의 약 0.5%임. Glasswing이 출범 당시 내세운 대규모 고위험 취약점 발견과 공개된 성과 사이에 간..."
     },
     {
-      "title": "ElevenLabs는 어떻게 영화 더빙에서 음성 AI 플랫폼으로 확장했나 [영상]",
-      "link": "https://news.hada.io/topic?id=36923",
-      "date": "2026-11-10 10:50",
-      "summary": "ElevenLabs는 오디오 모델을 직접 연구하고, 그 기술을 고객의 실제 업무에 적용 해 성장함. 영화 더빙에서 출발해 콘텐츠 제작과 콜센터 음성 에이전트로 확장함 출발점은 감정과 원래 목소리를..."
+      "title": "기업용 AI 제품은 어떻게 가격을 매기는가",
+      "link": "https://news.hada.io/topic?id=36970",
+      "date": "2026-11-11 09:50",
+      "summary": "AI 제품은 사용량에 따라 제공 비용이 달라지고, 도입 효과도 계약 전에 숫자로 잡기 어려움. 성공적인 기업용 가격 모델은 고정 요금, 사용량 요금, 구축·인력 비용 중 둘 이상 을 조합하는 경우가..."
     },
     {
-      "title": "왜 이 모든 OT 시스템이 네트워크에 연결돼 있는지 이야기해 보자",
-      "link": "https://news.hada.io/topic?id=36922",
-      "date": "2026-11-10 10:04",
-      "summary": "OT의 네트워크 연결 은 운영 효율을 높이고 원격 제어를 도입하며 유지보수 비용을 줄이는 결정이 누적된 결과로, 이제 전력과 수도, 식품 보관에 깊이 얽혀 있어 단순히 끊기 어려움 IT/OT 융합과..."
+      "title": "책이 제 역할을 하지 못하는 이유 (2019)",
+      "link": "https://news.hada.io/topic?id=36969",
+      "date": "2026-11-11 09:40",
+      "summary": "읽을 땐 이해한 것 같은데, 막상 누가 “그게 왜 그래?”라고 물으면 설명이 막힐 때가 있음. 저자는 이 경험에서 출발해 복잡한 지식을 가르치는 데 책이라는 형식이 얼마나 잘 맞는지 살펴봄 책이나..."
     },
     {
-      "title": "DeepX, 2세대 AI 칩 DX-M2 테이프아웃 완료 - 5W 미만에서 최대 1,000억 파라미터 모델 추론 목표",
-      "link": "https://news.hada.io/topic?id=36920",
-      "date": "2026-11-10 09:44",
-      "summary": "한국 엣지 AI 반도체 스타트업 딥엑스가 2세대 가속기 DX-M2의 테이프아웃을 완료 함. 로봇과 드론처럼 전력과 발열 제약이 큰 기기에서 생성형 AI를 직접 실행하도록 설계함 5W 미만에서 전체..."
+      "title": "Show HN: 스페인 발렌시아를 SimCity풍 아이소메트릭 뷰로 보기",
+      "link": "https://news.hada.io/topic?id=36968",
+      "date": "2026-11-11 09:31",
+      "summary": "Tiny València 는 발렌시아의 실제 건물을 같은 각도에서 내려다보는 형태로 그린 아이소메트릭 픽셀 아트 지도임 실제 3D 도시 데이터 를 고정된 카메라로 렌더링한 뒤, 선별한 픽셀 아트 스..."
     },
     {
-      "title": "CUI - C용 네이티브 UI 컴포넌트",
-      "link": "https://news.hada.io/topic?id=36919",
-      "date": "2026-11-10 09:41",
-      "summary": "CUI 는 하나의 C99 코드베이스로 Windows, Mac, Linux에서 사용하는 약 160개 UI 컴포넌트 를 제공하며, 스프링 모션과 전체 키보드 지원을 갖춤 즉시 모드(immediate m..."
+      "title": "Vercel agent-desktop - AI 에이전트가 데스크톱 앱을 조작하는 CLI",
+      "link": "https://news.hada.io/topic?id=36967",
+      "date": "2026-11-11 09:30",
+      "summary": "AI 에이전트가 맥/윈도우/리눅스에서 앱을 열고, 메뉴를 누르고, 입력란을 채울 수 있음 . 창 이동과 크기 조절, 클립보드 읽기와 쓰기도 지원 운영체제의 접근성 API로 버튼, 메뉴, 입력란을 J..."
     },
     {
-      "title": "Google, 8세대 TPU에 기밀 추론용 8tx와 긴 컨텍스트용 8i Max 추가",
-      "link": "https://news.hada.io/topic?id=36918",
-      "date": "2026-11-10 09:38",
-      "summary": "Google이 8세대 TPU에 TPU 8tx 와 TPU 8i Max 를 추가해, 대규모 학습부터 저지연 추론, 기밀 컴퓨팅, 대규모 컨텍스트까지 담당하는 네 가지 시스템을 구성함 기존 TPU 칩을..."
+      "title": "Toyota 브랜드 Scion이 돌아온다, 미국에서 경트럭 판매 예정",
+      "link": "https://news.hada.io/topic?id=36966",
+      "date": "2026-11-11 08:32",
+      "summary": "Toyota가 Scion by Toyota 로 브랜드를 부활시키며, 저렴하고 개성 있는 자동차 대신 디자인과 차량 콘셉트로 기존 이동 방식에 도전하는 실험 공간을 지향함 첫 양산 모델 KEI-01..."
     },
     {
-      "title": "raea - AI가 코드로 만든 영상/3D/게임을 GPU에서 렌더링하는 엔진",
-      "link": "https://news.hada.io/topic?id=36917",
-      "date": "2026-11-10 09:30",
-      "summary": "만들고 싶은 것을 말하면 AI 에이전트가 React/TypeScript 코드로 작성 하고 GPU로 렌더링 영상 및 모션 그래픽 은 텍스트, SVG, 애니메이션을 합성해 MP4로 작성 3D/게임 은..."
+      "title": "끊임없는 감시가 아이와 부모에게 미치는 영향",
+      "link": "https://news.hada.io/topic?id=36965",
+      "date": "2026-11-11 07:41",
+      "summary": "영아 모니터부터 위치 추적 앱까지 이어지는 상시 감시 는 아이가 독립성을 기르는 과정뿐 아니라, 부모가 자녀에 대한 지식과 통제를 내려놓는 과정에도 영향을 줄 수 있음 위치 추적 은 픽업과 일정 조..."
     },
     {
-      "title": "Show GN: Woodada - CPU와 메모리 사용률에 따라 작업표시줄 위를 달리는 고양이",
-      "link": "https://news.hada.io/topic?id=36916",
-      "date": "2026-11-10 09:22",
-      "summary": "CPU와 메모리 사용률에 따라 고양이가 작업표시줄(맥은 독) 위를 우다다 뛰어다니는 데스크톱 앱을 직접 만들었습니다. Windows 10/11과 macOS 12 이상에서 쓸 수 있고, 가입 없이 다..."
+      "title": "Show HN: 코딩 에이전트를 2019년 무렵의 JavaScript에서 최신 웹 기본 기능으로 이끌기",
+      "link": "https://news.hada.io/topic?id=36964",
+      "date": "2026-11-11 07:38",
+      "summary": "Modern Web Guidance 는 웹 플랫폼 전문 지식, 모범 사례, 브라우저 호환성 데이터를 코딩 에이전트에 제공하는 스킬 모음으로, 레거시 패턴 대신 최신 웹 기본 기능을 활용하도록 유도함..."
     },
     {
-      "title": "Terminal2Shell: 모든 주요 OS에서 즉시 셸 접근을 허용하는 치명적 결함",
-      "link": "https://news.hada.io/topic?id=36915",
-      "date": "2026-11-10 09:05",
-      "summary": "터미널을 열면 셸이 실행되는 정상 동작 을 설계 수준의 취약점으로 포장한 보안 풍자 페이지임 공격은 터미널을 여는 것으로 끝나며, 필요한 조건은 로컬 접근, 작동하는 키보드, 터미널 앱을 찾는 능력..."
+      "title": "Starlink Mini 2 - 교체형 배터리를 탑재한 휴대용 위성 인터넷 단말기",
+      "link": "https://news.hada.io/topic?id=36963",
+      "date": "2026-11-11 06:43",
+      "summary": "교체형 배터리로 최대 4.5시간 작동하며, 별도 판매하는 예비 배터리로 교체할 수 있음 1세대는 DC 전원 케이블을 사용했고, Mini 2는 배터리 또는 60W USB-C 전원 으로 작동함. 충전..."
     },
     {
-      "title": "배포판 패키지를 빌드하는 데 에너지가 얼마나 들까",
-      "link": "https://news.hada.io/topic?id=36914",
-      "date": "2026-11-10 09:02",
-      "summary": "Casuarina Linux 빌드 서버는 7개월 조금 넘는 기간 동안 패키지 약 5,000건을 빌드하며 98.4kWh 를 사용함 전력 단가 AU$0.33/kWh를 적용한 비용은 AU$32.47 로,..."
+      "title": "Synaptics의 특허 침해 주장으로 DisplayLink 드라이버 개발 중단",
+      "link": "https://news.hada.io/topic?id=36962",
+      "date": "2026-11-11 06:40",
+      "summary": "Linux용 DisplayLink 드라이버의 충돌을 해결하려던 개인 개발자가 Synaptics의 특허 침해 주장과 중단 요구 를 받고, 새 드라이버 Vino의 공개 저장소를 내리고 커널 제출을 중단..."
     }
   ]
 };
