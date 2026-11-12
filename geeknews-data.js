@@ -1,96 +1,96 @@
 window.GEEKNEWS_DATA = {
-  "updated": "2026-11-11 15:07",
+  "updated": "2026-11-12 16:05",
   "link": "https://news.hada.io",
   "posts": [
     {
-      "title": "Terence Tao의 Six Math Essentials - 수학의 여섯 가지 핵심 개념",
-      "link": "https://news.hada.io/topic?id=36978",
-      "date": "2026-11-11 13:31",
-      "summary": "필즈상 수상자 Terence Tao 가 고대부터 오늘날의 연구 최전선까지 수학을 이끌어 온 여섯 개념으로 복잡한 세계를 이해하는 길을 소개함 수 는 정량적 사고의 출발점이며, 대수학 은 추상화의 출..."
+      "title": "마법의 시대에 Emacs는 어디로 가는가",
+      "link": "https://news.hada.io/topic?id=37038",
+      "date": "2026-11-12 14:34",
+      "summary": "AI에 원하는 작업을 말하는 방식이 자리 잡으면서, Emacs 사용자가 내세우던 편집 속도, 맞춤화, LISP의 표현력 이 예전 같은 경쟁 우위를 갖기 어려워짐 excali-mode.el 은 Ema..."
     },
     {
-      "title": "Show GN: Officeflare - Cloudflare 인프라 위에 올라가는 오피스 스위트",
-      "link": "https://news.hada.io/topic?id=36977",
-      "date": "2026-11-11 13:23",
-      "summary": "Cloudflare 인프라 위에서 동작하는 오피스 스위트를 만들어 사용하고 있습니다. 클라우드플레어에 이메일 라우팅, 이메일 발송 같은 기능들이 도입되며, 오래 전부터 생각만 해오던 제품을 만들 수..."
+      "title": "GitHub Actions를 잠금 파일로 고정하기",
+      "link": "https://news.hada.io/topic?id=37037",
+      "date": "2026-11-12 13:32",
+      "summary": "GitHub Actions가 워크플로 잠금 파일 을 지원하면서, 워크플로에는 버전 태그를 쓰고 별도 파일에 커밋 정보를 고정할 수 있게 됨 Git에서 가져오는 액션의 태그는 변경 가능 하므로, 공격..."
     },
     {
-      "title": "Gleam을 써보자",
-      "link": "https://news.hada.io/topic?id=36975",
-      "date": "2026-11-11 13:02",
-      "summary": "Gleam 은 Erlang VM인 BEAM과 JavaScript를 대상으로 컴파일되는 정적 타입 함수형 언어로, 간결한 문법과 Erlang/Elixir 생태계 상호운용성을 갖춤 파이프 연산자 |&g..."
+      "title": "AI 시대, git push 앞뒤에서 바뀌는 것들",
+      "link": "https://news.hada.io/article/git-push-in-the-agent-era",
+      "date": "2026-11-12 13:19",
+      "summary": "2026년 10월, Anthropic은 사내 모노레포에서 Git을 자체 버전 관리 시스템인 Scion으로 교체했다 고 밝혔습니다. 11월에는 OpenAI도 병렬 에이전트 개발을 위해 Pando라는..."
     },
     {
-      "title": "Show GN: TimeCarver - 집중한 시간만큼 돌을 깎는 타이머 앱",
-      "link": "https://news.hada.io/topic?id=36973",
-      "date": "2026-11-11 12:07",
-      "summary": "집중해야 하는데 자꾸 딴짓을 하게 되는 저 같은 분들을 위해 만든, iOS·Android 포커스 타이머 앱 TimeCarver입니다. 집중하는 동안 원석이 조금씩 깎여 나가고, 딴짓을 하면 균열이..."
+      "title": "Show GN: 딸깍 - 국어사전 명사 2만 7천 개로 컴퓨터와 하는 끝말잇기, 성냥개비 문제 정답 찾기",
+      "link": "https://news.hada.io/topic?id=37033",
+      "date": "2026-11-12 13:18",
+      "summary": "8월에 매일 자정 10문제가 열리는 퍼즐 사이트로 한 번 소개드렸던 딸깍입니다. 석 달 동안 \"매일 문제\" 말고 직접 갖고 놀 수 있는 것을 몇 개 붙여서 다시 올립니다. 끝말잇기 (/kkeut)..."
     },
     {
-      "title": "AMD Zen 6 제품군: 강력한 코어에 일감 공급하기",
-      "link": "https://news.hada.io/topic?id=36972",
-      "date": "2026-11-11 10:40",
-      "summary": "Zen 6 는 단일 스레드의 듀얼 디코더 활용, 더 빠른 분기 처리, 확장된 비순차 실행 구조로 Zen 5 대비 실행 엔진에 일감을 공급하고 메모리 지연을 숨기는 능력을 개선함 Zen 6와 Zen..."
+      "title": "더 나은, 더 효율적인 RAG를 위한 빠른 검색",
+      "link": "https://news.hada.io/topic?id=37031",
+      "date": "2026-11-12 12:33",
+      "summary": "Apple 연구진이 고정된 벡터 데이터베이스와 실제 질의 분포를 바탕으로 작은 신경망을 미리 학습해 최대 내적 검색(MIPS) 의 추론 속도와 정확도를 높이는 방법을 개발함 기존 중심점 기반 검색은..."
     },
     {
-      "title": "7개월이 지난 Glasswing, 기대에 못 미치는 발견으로 유지보수자에게 과도한 부담을 주다",
-      "link": "https://news.hada.io/topic?id=36971",
-      "date": "2026-11-11 10:37",
-      "summary": "VulnCheck가 추적한 Anthropic에 귀속되는 CVE는 442건 으로, 올해 전체의 약 0.5%임. Glasswing이 출범 당시 내세운 대규모 고위험 취약점 발견과 공개된 성과 사이에 간..."
+      "title": "AI와 일할 때 가장 자주 던지는 질문: 지금 관성에 끌려가고 있는가?",
+      "link": "https://news.hada.io/topic?id=37030",
+      "date": "2026-11-12 12:05",
+      "summary": "AI 에이전트와 1년 넘게 개발하며, 할루시네이션보다 자주 마주한 문제는 각 단계가 합리적으로 보이는데도 처음의 전제를 의심하지 않은 채 계속 나아가는 것이었습니다. 저는 이것을 관성이라고 부릅니다..."
     },
     {
-      "title": "기업용 AI 제품은 어떻게 가격을 매기는가",
-      "link": "https://news.hada.io/topic?id=36970",
-      "date": "2026-11-11 09:50",
-      "summary": "AI 제품은 사용량에 따라 제공 비용이 달라지고, 도입 효과도 계약 전에 숫자로 잡기 어려움. 성공적인 기업용 가격 모델은 고정 요금, 사용량 요금, 구축·인력 비용 중 둘 이상 을 조합하는 경우가..."
+      "title": "페인트 얼룩의 93%는 유효한 Perl 프로그램이다 (2019)",
+      "link": "https://news.hada.io/topic?id=37029",
+      "date": "2026-11-12 11:31",
+      "summary": "페인트 얼룩을 OCR로 인식한 결과 93%가 유효한 Perl 프로그램으로 파싱 됐으며, 유효한 Perl 코드를 만들지 않고 벽에 페인트를 묻히는 것도 가능했음 연구의 주요 데이터셋은 페인트 얼룩 이..."
     },
     {
-      "title": "책이 제 역할을 하지 못하는 이유 (2019)",
-      "link": "https://news.hada.io/topic?id=36969",
-      "date": "2026-11-11 09:40",
-      "summary": "읽을 땐 이해한 것 같은데, 막상 누가 “그게 왜 그래?”라고 물으면 설명이 막힐 때가 있음. 저자는 이 경험에서 출발해 복잡한 지식을 가르치는 데 책이라는 형식이 얼마나 잘 맞는지 살펴봄 책이나..."
+      "title": "Show HN: 투자할 YC 스타트업을 결정하는 게임으로 Papers, Please를 재현함",
+      "link": "https://news.hada.io/topic?id=37027",
+      "date": "2026-11-12 10:40",
+      "summary": "Term Sheet, Please 는 Papers, Please를 재현해 어느 YC 스타트업에 투자할지 결정하는 게임임 “ CALL THE NEXT FOUNDER ”로 다음 창업자를 호출함 투자 판..."
     },
     {
-      "title": "Show HN: 스페인 발렌시아를 SimCity풍 아이소메트릭 뷰로 보기",
-      "link": "https://news.hada.io/topic?id=36968",
-      "date": "2026-11-11 09:31",
-      "summary": "Tiny València 는 발렌시아의 실제 건물을 같은 각도에서 내려다보는 형태로 그린 아이소메트릭 픽셀 아트 지도임 실제 3D 도시 데이터 를 고정된 카메라로 렌더링한 뒤, 선별한 픽셀 아트 스..."
+      "title": "Show HN: Yogurt - 무료이며 프라이버시를 보호하는 오픈소스 Granola 대안",
+      "link": "https://news.hada.io/topic?id=37025",
+      "date": "2026-11-12 10:37",
+      "summary": "Yogurt 는 비공개 AI 회의 노트를 위한 무료 오픈소스 앱임 회의에 봇을 추가하지 않고 통화를 녹음함 회의 요약 화면에서 계획과 담당자별 다음 단계 , 개인 알림을 확인할 수 있음 Mac, W..."
     },
     {
-      "title": "Vercel agent-desktop - AI 에이전트가 데스크톱 앱을 조작하는 CLI",
-      "link": "https://news.hada.io/topic?id=36967",
-      "date": "2026-11-11 09:30",
-      "summary": "AI 에이전트가 맥/윈도우/리눅스에서 앱을 열고, 메뉴를 누르고, 입력란을 채울 수 있음 . 창 이동과 크기 조절, 클립보드 읽기와 쓰기도 지원 운영체제의 접근성 API로 버튼, 메뉴, 입력란을 J..."
+      "title": "젠슨 황, 직속 보고 임원과도 혼외 관계를 맺었다는 증언 나와",
+      "link": "https://news.hada.io/topic?id=37024",
+      "date": "2026-11-12 10:34",
+      "summary": "Nvidia CEO Jensen Huang이 자신에게 직접 보고하는 임원 Kimberly Powell과 혼외 관계를 맺었다고 전직 직원 5명이 증언함 Powell은 Nvidia의 헬스케어 부문 부사..."
     },
     {
-      "title": "Toyota 브랜드 Scion이 돌아온다, 미국에서 경트럭 판매 예정",
-      "link": "https://news.hada.io/topic?id=36966",
-      "date": "2026-11-11 08:32",
-      "summary": "Toyota가 Scion by Toyota 로 브랜드를 부활시키며, 저렴하고 개성 있는 자동차 대신 디자인과 차량 콘셉트로 기존 이동 방식에 도전하는 실험 공간을 지향함 첫 양산 모델 KEI-01..."
+      "title": "Show GN: OpenPhoneUse – 화면을 보고 직접 탭하는 모바일용 Computer Use",
+      "link": "https://news.hada.io/topic?id=37020",
+      "date": "2026-11-12 09:51",
+      "summary": "Computer Use가 PC 화면을 보고 마우스와 키보드를 조작하듯, 안드로이드 폰 화면을 보고 직접 조작하는 AI 에이전트입니다. 할 일을 말하면 AI가 화면을 읽고 탭, 입력, 스크롤하며 여러..."
     },
     {
-      "title": "끊임없는 감시가 아이와 부모에게 미치는 영향",
-      "link": "https://news.hada.io/topic?id=36965",
-      "date": "2026-11-11 07:41",
-      "summary": "영아 모니터부터 위치 추적 앱까지 이어지는 상시 감시 는 아이가 독립성을 기르는 과정뿐 아니라, 부모가 자녀에 대한 지식과 통제를 내려놓는 과정에도 영향을 줄 수 있음 위치 추적 은 픽업과 일정 조..."
+      "title": "OpenMAIC - 주제나 문서를 AI 교사와 토론하는 수업으로 만드는 오픈소스 플랫폼",
+      "link": "https://news.hada.io/topic?id=37017",
+      "date": "2026-11-12 09:30",
+      "summary": "배우고 싶은 주제를 적거나 자료를 올리면 슬라이드, 퀴즈, 조작해 볼 수 있는 시뮬레이션, 프로젝트 기반 학습(PBL) 을 포함한 수업을 자동 생성 AI 교사는 음성으로 설명하고 칠판에 수식이나 그..."
     },
     {
-      "title": "Show HN: 코딩 에이전트를 2019년 무렵의 JavaScript에서 최신 웹 기본 기능으로 이끌기",
-      "link": "https://news.hada.io/topic?id=36964",
-      "date": "2026-11-11 07:38",
-      "summary": "Modern Web Guidance 는 웹 플랫폼 전문 지식, 모범 사례, 브라우저 호환성 데이터를 코딩 에이전트에 제공하는 스킬 모음으로, 레거시 패턴 대신 최신 웹 기본 기능을 활용하도록 유도함..."
+      "title": "알고 있는 &quot;No AI&quot; 앱, 기업, 자료에는 어떤 것들이 있나요?",
+      "link": "https://news.hada.io/topic?id=37016",
+      "date": "2026-11-12 09:09",
+      "summary": "AI를 명시적으로 사용하지 않는 앱, 기업, 자료를 모은 유용한 목록을 찾고 있으며, 공개적으로 AI 반대를 표방할 필요는 없음 AI의 장단점이나 가치, 찬반 토론보다는 이 입장을 지지하는 링크나..."
     },
     {
-      "title": "Starlink Mini 2 - 교체형 배터리를 탑재한 휴대용 위성 인터넷 단말기",
-      "link": "https://news.hada.io/topic?id=36963",
-      "date": "2026-11-11 06:43",
-      "summary": "교체형 배터리로 최대 4.5시간 작동하며, 별도 판매하는 예비 배터리로 교체할 수 있음 1세대는 DC 전원 케이블을 사용했고, Mini 2는 배터리 또는 60W USB-C 전원 으로 작동함. 충전..."
+      "title": "실제로 셀프 호스팅을 안전하게 하려면 어떻게 해야 하나요?",
+      "link": "https://news.hada.io/topic?id=37015",
+      "date": "2026-11-12 09:06",
+      "summary": "셀프 호스팅 입문자로서 Raspberry Pi 에 정적 웹사이트를 호스팅하고, 향후 다른 기능도 추가해 보려 함 DDG와 Google로 먼저 검색했지만, 찾은 자료 대부분이 검색 최적화에 치중한 저..."
     },
     {
-      "title": "Synaptics의 특허 침해 주장으로 DisplayLink 드라이버 개발 중단",
-      "link": "https://news.hada.io/topic?id=36962",
-      "date": "2026-11-11 06:40",
-      "summary": "Linux용 DisplayLink 드라이버의 충돌을 해결하려던 개인 개발자가 Synaptics의 특허 침해 주장과 중단 요구 를 받고, 새 드라이버 Vino의 공개 저장소를 내리고 커널 제출을 중단..."
+      "title": "United Airlines, AI 에이전트의 여행객 대리 항공편 예약 금지",
+      "link": "https://news.hada.io/topic?id=37014",
+      "date": "2026-11-12 08:38",
+      "summary": "United Airlines는 미승인 제3자 AI 에이전트의 대리 예약을 금지 하기 위해 예약 및 발권 정책을 개정 중임. 자체 웹사이트와 앱뿐 아니라 여행사와 항공편 검색 서비스를 통한 간접 접근..."
     }
   ]
 };

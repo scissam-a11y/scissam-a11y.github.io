@@ -1,7 +1,19 @@
 window.NEWS_DATA = {
-  "updated": "2026-11-11 15:07",
+  "updated": "2026-11-12 16:05",
   "link": "https://miniwebapp.imbc.com/index?service=podcast&program=1000671100000100000",
   "episodes": [
+    {
+      "title": "[손경제] 11/12(목) 국고채 담합 과징금｜연준 금리 인상 조짐｜앤트로픽 상장",
+      "date": "2026-11-12 08:30",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261112.mp3",
+      "description": "[깊이 있는 경제뉴스]\n1) 국고채 입찰 담합에 금융사 15곳 과징금 1조 6천억원\n2) 美 물가 상승에 빅스텝 가능성까지…한은, 금리 고심\n3) 금감원, ETF 주식 대차거래 관행 손본다\n4) 앤트로픽 나스닥 상장 임박…AI·반도체 투자시장 영향은?\n-하수정 경제전문기자\n-정지서 연합인포맥스 기자\n-명지예 매일경제신문 기자"
+    },
+    {
+      "title": "[플러스] 11/11(화) 젠슨 황 스캔들 (하수정 경제전문기자) | 전세 규제·부동산 세제개편 (조윤호 서강대 교수)",
+      "date": "2026-11-11 22:00",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261111.mp3",
+      "description": "1부\n[업되는기업]\n젠슨 황 스캔들\n- 하수정 경제전문기자\n\n2부\n전세 규제·부동산 세제개편\n- 조윤호 서강대 교수"
+    },
     {
       "title": "[손경제] 11/11(수) 6개월 예금금리가 1년보다 높다 | AI 데이터센터 건설 반대 확산",
       "date": "2026-11-11 08:30",
@@ -49,18 +61,6 @@ window.NEWS_DATA = {
       "date": "2026-11-06 22:05",
       "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261106.mp3",
       "description": "1,2부\n철도강국 스페인\n열차 참사\n반복되는 이유\n- 최진석 소장 (철도경제연구소)"
-    },
-    {
-      "title": "커파타임 - 비행기는 설국열차",
-      "date": "2026-11-06 15:05",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/coffee_1106_2.mp3",
-      "description": "커파타임 - 비행기는 설국열차"
-    },
-    {
-      "title": "커파타임 - 인생이 바뀌는 투자",
-      "date": "2026-11-06 15:01",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/coffee_1106_1.mp3",
-      "description": "커파타임 - 인생이 바뀌는 투자"
     }
   ]
 };
