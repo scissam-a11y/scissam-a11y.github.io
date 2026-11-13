@@ -1,7 +1,19 @@
 window.NEWS_DATA = {
-  "updated": "2026-11-12 16:05",
+  "updated": "2026-11-13 15:36",
   "link": "https://miniwebapp.imbc.com/index?service=podcast&program=1000671100000100000",
   "episodes": [
+    {
+      "title": "[손경제] 11/13(금) 수출 1조달러 눈앞｜네이버도 새벽배송｜국채 담보로 달러 조달",
+      "date": "2026-11-13 08:30",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261113.mp3",
+      "description": "[깊이 있는 경제 뉴스]\n1) 수출 호황 이끈 K반도체…美 견제 우려도\n2) 네이버, 1조 투자해 새벽배송 확대…쿠팡 잡을까\n3) 국채 맡겨 달러 빌린 신흥국…재정 부담 커지나\n-이재연 한겨레신문 기자\n-오찬종 매일경제신문 기자\n-조미현 한국경제신문 기자\n"
+    },
+    {
+      "title": "[플러스] 11/12(목) 폭등한 일본 부동산 뜻밖의 나비효과 - 서병수 PB (메리츠 증권)",
+      "date": "2026-11-12 22:00",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261112.mp3",
+      "description": "1,2부\n폭등한 일본 부동산 뜻밖의 나비효과\n- 서병수 PB (메리츠 증권)"
+    },
     {
       "title": "[손경제] 11/12(목) 국고채 담합 과징금｜연준 금리 인상 조짐｜앤트로픽 상장",
       "date": "2026-11-12 08:30",
@@ -9,7 +21,7 @@ window.NEWS_DATA = {
       "description": "[깊이 있는 경제뉴스]\n1) 국고채 입찰 담합에 금융사 15곳 과징금 1조 6천억원\n2) 美 물가 상승에 빅스텝 가능성까지…한은, 금리 고심\n3) 금감원, ETF 주식 대차거래 관행 손본다\n4) 앤트로픽 나스닥 상장 임박…AI·반도체 투자시장 영향은?\n-하수정 경제전문기자\n-정지서 연합인포맥스 기자\n-명지예 매일경제신문 기자"
     },
     {
-      "title": "[플러스] 11/11(화) 젠슨 황 스캔들 (하수정 경제전문기자) | 전세 규제·부동산 세제개편 (조윤호 서강대 교수)",
+      "title": "[플러스] 11/11(수) 젠슨 황 스캔들 (하수정 경제전문기자) | 전세 규제·부동산 세제개편 (조윤호 서강대 교수)",
       "date": "2026-11-11 22:00",
       "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261111.mp3",
       "description": "1부\n[업되는기업]\n젠슨 황 스캔들\n- 하수정 경제전문기자\n\n2부\n전세 규제·부동산 세제개편\n- 조윤호 서강대 교수"
@@ -49,18 +61,6 @@ window.NEWS_DATA = {
       "date": "2026-11-08 22:05",
       "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261108.mp3",
       "description": "1,2부\n로보택시의 미래\n3년 안에 결판난다\n- 차두원 대표 (퓨처링크)"
-    },
-    {
-      "title": "[플러스] 11/7(토) 역외 자금 확 빨아들이는 중국의 속셈 - 박정호 명지대 교수",
-      "date": "2026-11-07 22:05",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261107.mp3",
-      "description": "1,2부\n[역시나 박정호]\n역외 자금\n확 빨아들이는\n중국의 속셈\n- 박정호 명지대 교수"
-    },
-    {
-      "title": "[플러스] 11/6(금) 철도강국 스페인 열차 참사 반복되는 이유 - 최진석 소장 (철도경제연구소)",
-      "date": "2026-11-06 22:05",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261106.mp3",
-      "description": "1,2부\n철도강국 스페인\n열차 참사\n반복되는 이유\n- 최진석 소장 (철도경제연구소)"
     }
   ]
 };
