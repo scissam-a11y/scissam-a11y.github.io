@@ -1,96 +1,96 @@
 window.GEEKNEWS_DATA = {
-  "updated": "2026-11-13 15:36",
+  "updated": "2026-11-14 15:14",
   "link": "https://news.hada.io",
   "posts": [
     {
-      "title": "Foundation Models framework - 온디바이스와 클라우드 LLM을 통합하는 Swift API",
-      "link": "https://news.hada.io/topic?id=37098",
-      "date": "2026-11-13 14:37",
-      "summary": "Foundation Models framework 는 앱에서 온디바이스 Apple Foundation Models부터 클라우드 모델까지 같은 Swift API로 사용할 수 있게 하며, 가이드 생성과..."
+      "title": "미국 모든 공항에 현재 지상 대기 조치 발령",
+      "link": "https://news.hada.io/topic?id=37148",
+      "date": "2026-11-14 14:30",
+      "summary": "FAA 가 게시물 작성 직전 미국 모든 공항을 대상으로 지상 대기 조치를 발령함 지상 대기 조치 는 게시물 작성 시점에 시행 중임 미국 공항으로 향하는 항공편 은 출발할 수 없음 이미 비행 중인 항..."
     },
     {
-      "title": "전 Nvidia CEO Jensen Huang, 두 번째 직원과도 친밀한 관계 의혹",
-      "link": "https://news.hada.io/topic?id=37097",
-      "date": "2026-11-13 14:34",
-      "summary": "사안을 아는 소식통 2명 에 따르면, Nvidia CEO 자리에서 물러난 Jensen Huang 이 두 번째 직원과도 친밀한 관계를 맺었음 이번 의혹은 다른 두 건의 혼외 관계 로 Huang이 목요..."
+      "title": "FAA, 01:19Z에 전국 항공기 이륙 중지 해제",
+      "link": "https://news.hada.io/topic?id=37145",
+      "date": "2026-11-14 12:37",
+      "summary": "FAA 지휘센터 가 전국 항공기 이륙 중지 조치를 해제함 공지에 기재된 목적지 공항과 포함 시설은 모두 전체(ALL) 임 해제 공지의 서명 시각은 2026년 11월 14일 01:19Z 임 공지의 효..."
     },
     {
-      "title": "Nvidia 직원들, Jensen Huang 복귀 청원",
-      "link": "https://news.hada.io/topic?id=37095",
-      "date": "2026-11-13 13:32",
-      "summary": "Nvidia 일부 직원이 여러 불륜 의혹 보도와 사임 이후에도 Jensen Huang의 복귀 를 요구하고 있으며, 사내 건의함 게시물에는 댓글 1,600개 이상 이 달림 사임 전 올라온 해당 게시물..."
+      "title": "우크라이나, 2주도 안 돼 러시아 정유 능력 36% 마비시켜",
+      "link": "https://news.hada.io/topic?id=37144",
+      "date": "2026-11-14 12:34",
+      "summary": "방산업체 Fire Point 에 따르면 우크라이나 드론이 13일 동안 러시아 주요 정유소 최소 9곳을 공격했으며, 피격 시설은 러시아 전체 정유 능력의 36% 를 차지함 피격 정유소의 연간 원유 처..."
     },
     {
-      "title": "Ask GN: HTML 슬라이드를 PPTX로 바꾸는 변환기, 그림으로 구워지는 요소를 줄이려고 세어 봤습니다. 가상 요소 ...",
-      "link": "https://news.hada.io/topic?id=37094",
-      "date": "2026-11-13 13:32",
-      "summary": "HTML로 만든 슬라이드를 PowerPoint 파일로 내보내는 변환기를 만들면, 도형과 텍스트 상자로 옮기지 못하는 요소는 그 부분만 PNG로 잘라 넣게 됩니다. 이 그림은 PowerPoint에서..."
+      "title": "Show GN: 로컬 AI머신을 구입하기 전에 성능을 미리 예측할 수 있는 웹앱",
+      "link": "https://news.hada.io/topic?id=37143",
+      "date": "2026-11-14 12:15",
+      "summary": "안녕하세요, LLM 에 대해 공부하면서 로컬 인퍼런스를 위해 장비를 구매하고자 했는데, \"어느 스펙까지 맞춰야 DeepSeek 를 원활하게 돌릴지\" 같은 질문에 매번 손으로 계산하는 것이 귀찮더라고..."
     },
     {
-      "title": "Show GN: 모아빈 - 앱·웹서비스 소개와 테스트 품앗이",
-      "link": "https://news.hada.io/topic?id=37093",
-      "date": "2026-11-13 12:23",
-      "summary": "안녕하세요. 앱과 웹서비스를 소개하고, 개발자끼리 테스트에 참여할 수 있는 모아빈을 운영하고 있습니다. 운영자가 직접 소개하는 글입니다. 모아빈에서는 프로젝트를 분야별로 살펴보고, 소개 페이지에서..."
+      "title": "로폼 운영사 해킹으로 2만여 명 개인정보 유출, ‘모두의 창업’ 참가자 818명 포함",
+      "link": "https://news.hada.io/topic?id=37140",
+      "date": "2026-11-14 11:08",
+      "summary": "‘모두의 창업’ 2차 사업의 AI 솔루션 공급기업인 아미쿠스렉스(로폼) 의 자체 시스템이 해킹돼 이용자 20,028명의 개인정보 가 유출됐으며, 이 가운데 사업 참가자 818명 이 포함됨 중소벤처기..."
     },
     {
-      "title": "C++ 표준안, 사상 처음으로 국가 표준화 기구 승인 투표 통과 실패",
-      "link": "https://news.hada.io/topic?id=37092",
-      "date": "2026-11-13 12:04",
-      "summary": "C++26 표준안 이 국가 표준화 기구 승인 투표를 통과하지 못함. WG21 내부에서 정리됐어야 할 Contracts 논쟁이 최종 승인 단계까지 이어짐 Contracts는 pre , post , c..."
+      "title": "KORS 모든 주파수의 항공 무선 실시간 청취, Victoria, CA도 항공기 출발 중단",
+      "link": "https://news.hada.io/topic?id=37139",
+      "date": "2026-11-14 10:31",
+      "summary": "Orcas Airband 는 San Juan Islands 지역의 항공 무선을 실시간으로 들을 수 있는 서비스임 제공된 페이지 스냅샷에서는 서비스 상태가 오프라인 으로 표시됨 청취하려면 재생 버튼..."
     },
     {
-      "title": "중국 최첨단 AI 모델에서 수출 통제 대상 GPU의 지문 발견",
-      "link": "https://news.hada.io/topic?id=37091",
-      "date": "2026-11-13 11:35",
-      "summary": "DeepSeek, Moonshot AI, MiniMax, Ant Group의 공개 모델 6개에서 NVIDIA Blackwell과 일치하는 초기화 패턴 이 발견됨. 학습에도 같은 하드웨어를 사용했을..."
+      "title": "FM-1 Workbench - FM1 펌웨어용 앱과 SDK의 라이선스 및 재배포 조건",
+      "link": "https://news.hada.io/topic?id=37138",
+      "date": "2026-11-14 09:38",
+      "summary": "FM1의 공개 APP 소스는 GPLv3 전용 라이선스 를 따르며, 별도 조건의 바이너리 SDK와 결합해 배포할 수 있도록 링크 예외를 둠 독점 엔진 SDK는 FM1 기기용으로만 개발, 실행, 바이너..."
     },
     {
-      "title": "Show GN: Catch Your Mind – MCP로 연결하는 실시간 멀티모달 Context SDK",
-      "link": "https://news.hada.io/topic?id=37090",
-      "date": "2026-11-13 11:29",
-      "summary": "안녕하세요. 최근 AI 게임 컴패니언 Optimum Zone을 개발하면서, LLM이 실시간 영상과 음성을 지속적으로 이해하고 Context로 활용하는 것이 생각보다 어렵다는 문제를 겪었습니다. Fu..."
+      "title": "Ace - 내 Mac에서 팀원과 AI 에이전트가 함께 작업하는 코딩 환경",
+      "link": "https://news.hada.io/topic?id=37137",
+      "date": "2026-11-14 09:30",
+      "summary": "채널에서 팀원과 구현 방향을 논의한 뒤 @ace 를 부르면 에이전트가 앞선 대화를 읽고 작업을 시작 에이전트가 작업 중 질문을 올리면 답을 아는 팀원이 바로 답해 작업을 이어갈 수 있음 같은 Tai..."
     },
     {
-      "title": "Show GN: Dari - 앱과 웹뷰가 주고받는 브릿지 메시지를 요청·응답 짝으로 보여 주는 디버그 도구 (Android/iOS)",
-      "link": "https://news.hada.io/topic?id=37089",
-      "date": "2026-11-13 10:49",
-      "summary": "네이티브 앱 안에 웹뷰를 띄워 화면 일부를 웹으로 만들다 보면, 웹과 앱이 주고받는 브릿지 메시지가 문제일 때가 많은데, 확인하려면 핸들러마다 로그를 넣고 Logcat이나 Xcode 콘솔을 스크롤하..."
+      "title": "최소한 제3의 선택지가 필요한 이유",
+      "link": "https://news.hada.io/topic?id=37136",
+      "date": "2026-11-14 09:18",
+      "summary": "Android와 iOS를 벗어나는 실용적인 대안 이 필요함. Google 의존성을 제거한 ROM과 대체 앱 스토어만으로 충분하다는 기대와 달리, 사용자와 개발자가 기기와 앱을 통제할 여지가 줄고 있..."
     },
     {
-      "title": "자애로운 수출 통제 기계",
-      "link": "https://news.hada.io/topic?id=37088",
-      "date": "2026-11-13 10:14",
-      "summary": "다리오 아모데이의 에세이 \"Machines of Loving Grace\" 을 패러디한 제목. 극성 인공지능 안전주의자들은 수출 통제를 맹목적으로 찬성하고, 국가 경쟁으로 규정함. 최근 반-개방 가중..."
+      "title": "셀을 차지하지 않는 터미널 테두리",
+      "link": "https://news.hada.io/topic?id=37135",
+      "date": "2026-11-14 09:15",
+      "summary": "문자 대신 셀 가장자리의 선 으로 테두리를 그리는 터미널 프로토콜을 개발해 Ghostty 패치와 Ratatui 데모로 구현함 행과 열을 추가로 소비하지 않아 패널 경계에 탭을 배치하고, 한 줄 높이..."
     },
     {
-      "title": "nac - 긴 작업에서 원래 목표를 잃지 않게 하는 에이전트 하네스",
-      "link": "https://news.hada.io/topic?id=37085",
-      "date": "2026-11-13 09:30",
-      "summary": "실험, 모델 학습, 인프라 구축, 프로토타이핑처럼 오래 걸리는 작업을 처음 의도에 맞춰 이어가도록 설계된 오픈소스 하네스 중앙 오케스트레이터 가 전체 작업을 계획하고, 명령 실행과 파일 수정은 개별..."
+      "title": "“글루 워크는 해롭다”에 대한 반론",
+      "link": "https://news.hada.io/topic?id=37134",
+      "date": "2026-11-14 09:12",
+      "summary": "문서 정리나 온보딩 같은 글루 워크(glue work) 는 성과로 잘 드러나지 않아도, 팀이 같은 문제에 반복해서 시간을 쓰는 일을 줄여줌 기능 출시를 주로 보상하는 조직도 팀을 굴러가게 하는 글루..."
     },
     {
-      "title": "『Let Over Lambda』 전체를 이제 온라인에서 무료로 읽을 수 있음",
-      "link": "https://news.hada.io/topic?id=37084",
-      "date": "2026-11-13 09:01",
-      "summary": "Common Lisp 프로그래밍 서적 Let Over Lambda 전체가 2026년 업데이트를 통해 온라인에 무료로 공개됨 전문은 HTML과 PDF 두 형식으로 읽을 수 있음 책의 중심 주제는 프로..."
+      "title": "음악 플레이어를 이렇게 만들지는 말자",
+      "link": "https://news.hada.io/topic?id=37133",
+      "date": "2026-11-14 09:09",
+      "summary": "인터넷 차단을 겪으며 오프라인 음악 재생의 필요성을 느낀 개발자가 Zig 기반 음악 플레이어 AMP 를 직접 만들기 시작함 기존 플레이어의 가사 표시가 불편해, 최소한의 기능과 C++ 의존성 배제,..."
     },
     {
-      "title": "데이터센터에 필요한 전력, 저소득층과 농촌 주민이 대가를 치른다",
-      "link": "https://news.hada.io/topic?id=37082",
-      "date": "2026-11-13 08:38",
-      "summary": "Cornell 연구진이 미국 주요 전력망 4곳을 분석한 결과, 2025년 데이터센터는 확장에 따른 전력 인프라 비용의 38% 만 부담했고 나머지 62%는 주로 주민에게 돌아감 기존의 과거 전력 소비..."
+      "title": "Haskell 생태계를 위한 기술 비전",
+      "link": "https://news.hada.io/topic?id=37132",
+      "date": "2026-11-14 08:38",
+      "summary": "Haskell Foundation 기술 리더십 위원회(TLC) 가 정식 활동을 시작해 개발 도구, 보안, 장기 호환성 개선 과제를 발굴하고 재단의 자금 지원 대상을 정함 AI가 코드를 생성할 때 타..."
     },
     {
-      "title": "태양을 한 바퀴 도는 데 약 280년 걸리는 왜소행성 후보 발견",
-      "link": "https://news.hada.io/topic?id=37081",
-      "date": "2026-11-13 08:35",
-      "summary": "칠레 Vera C. Rubin Observatory 관측 데이터에서 왜소행성 후보 2026 ED138 이 발견됨. 태양까지의 거리는 지구의 46배이며 공전 주기는 281.1년임 최근 10년간의 관측..."
+      "title": "빅테크는 우리를 실망시킨다",
+      "link": "https://news.hada.io/topic?id=37131",
+      "date": "2026-11-14 08:35",
+      "summary": "Microsoft Outlook, Teams, Copilot 장애 로 업무가 중단되고, 일부 중소기업은 정상적인 고객 지원 대신 소셜미디어로 연락을 받음 장애 영향은 기업을 넘어 학교, 대학, 법원..."
     },
     {
-      "title": "Show GN: kr-career-skill - 채용 사이트 270 여곳의 공고 검색과 기업분석 및 자소서 초안 작성을 하는 한국 취...",
-      "link": "https://news.hada.io/topic?id=37079",
-      "date": "2026-11-13 07:57",
-      "summary": "취업·이직용 에이전트 스킬입니다. 퇴근하면 체력이 바닥나서 저녁 먹고 나면 이직 준비할 여력이 없다는 친구가 있어, 그 친구를 생각하며 만들었습니다. 공고를 찾고 초안을 잡는 일을 에이전트에게 맡기..."
+      "title": "600번의 실험으로 알아낸 JEPA 월드 모델의 특성",
+      "link": "https://news.hada.io/topic?id=37130",
+      "date": "2026-11-14 07:37",
+      "summary": "LeWM 의 Push-T 실험에서는 예측 모델 개선보다 계획 방식 변경 이 더 큰 효과를 냄. 학습 데이터와 유사한 경로에서 적절한 하위 목표를 제공하면, 학습된 예측기로도 시뮬레이터의 정확한 물리..."
     }
   ]
 };

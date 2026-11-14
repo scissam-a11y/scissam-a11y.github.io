@@ -1,7 +1,25 @@
 window.NEWS_DATA = {
-  "updated": "2026-11-13 15:36",
+  "updated": "2026-11-14 15:14",
   "link": "https://miniwebapp.imbc.com/index?service=podcast&program=1000671100000100000",
   "episodes": [
+    {
+      "title": "커파타임 - 팀장님들 필청!",
+      "date": "2026-11-14 00:00",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/coffee_1115.mp3",
+      "description": "커파타임 - 팀장님들 필청!"
+    },
+    {
+      "title": "[플러스] 11/13(금) 100년 묵은 인도 카스트 판도라의 상자 열린다 - 전명윤 편집장 (주간 인도 동향)",
+      "date": "2026-11-13 22:00",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261113.mp3",
+      "description": "1,2부\n100년 묵은 인도 카스트 판도라의 상자 열린다 \n- 전명윤 편집장 (주간 인도 동향)"
+    },
+    {
+      "title": "협찬인가 - 잘되는 무인카페엔 똑같은 비밀이 있다",
+      "date": "2026-11-13 21:30",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/sponsorship_cafein24.mp3",
+      "description": "카페인24"
+    },
     {
       "title": "[손경제] 11/13(금) 수출 1조달러 눈앞｜네이버도 새벽배송｜국채 담보로 달러 조달",
       "date": "2026-11-13 08:30",
@@ -43,24 +61,6 @@ window.NEWS_DATA = {
       "date": "2026-11-10 08:30",
       "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261110.mp3",
       "description": "[깊이 있는 경제뉴스]\n\n1) 산업용 가스요금 1년 새 66%↑.. 기업 부담 가중\n2) '주가누르기 방지법' 놓고 당·정 충돌.. 쟁점은?\n3) 손해봐도 빚 안 갚아.. '대출 포모' 확산\n\n- 김치형 경제뉴스 큐레이터\n- 연합인포맥스 정지서 기자\n- 한국경제신문 이혜인 기자"
-    },
-    {
-      "title": "[플러스] 11/9(월) AI 줄이는 애플 (김아람 이사) | 中 학생 감시 | 영국 노예무역 배상 | 리비아 나이키 금지령 (이혜인 기자)",
-      "date": "2026-11-09 20:00",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261109.mp3",
-      "description": "1부\n[텍코노미]\n돈 많은 애플도 \nAI 비용 줄인다\n- 김아람 이사 (IT커뮤니케이션 연구소)\n\n2부\n[글로벌 리포트]\n中 명문대, 학생 감시한다?\n- 이혜인 기자 (한국경제신문)"
-    },
-    {
-      "title": "[손경제] 11/9(월) 반대매매 규제 완화 | 건강검진비에 과세 | 구글 넘어 1위 넘보는 메타",
-      "date": "2026-11-09 08:30",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261109.mp3",
-      "description": "[깊이 있는 경제뉴스]\n1) 증시 급락에 반대매매 규제 완화.. 실효성은\n2) 회사 지원 건강검진비 두고 세금 분쟁.. 왜?\n3) AI에 웃는 메타, 위협받는 구글.. 광고 왕좌 바뀌나\n- 한국경제신문 조미현 기자\n- 머니투데이신문 김근희 기자\n\n[친절한 경제]\n- 청취자 이보람씨\n"
-    },
-    {
-      "title": "[플러스] 11/8(일) 로보택시의 미래 3년 안에 결판난다 - 차두원 대표 (퓨처링크)",
-      "date": "2026-11-08 22:05",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261108.mp3",
-      "description": "1,2부\n로보택시의 미래\n3년 안에 결판난다\n- 차두원 대표 (퓨처링크)"
     }
   ]
 };
