@@ -1,96 +1,96 @@
 window.GEEKNEWS_DATA = {
-  "updated": "2026-11-14 15:14",
+  "updated": "2026-11-15 15:22",
   "link": "https://news.hada.io",
   "posts": [
     {
-      "title": "미국 모든 공항에 현재 지상 대기 조치 발령",
-      "link": "https://news.hada.io/topic?id=37148",
-      "date": "2026-11-14 14:30",
-      "summary": "FAA 가 게시물 작성 직전 미국 모든 공항을 대상으로 지상 대기 조치를 발령함 지상 대기 조치 는 게시물 작성 시점에 시행 중임 미국 공항으로 향하는 항공편 은 출발할 수 없음 이미 비행 중인 항..."
+      "title": "사용자가 자기 데이터를 소유하게 해주고 싶다",
+      "link": "https://news.hada.io/topic?id=37192",
+      "date": "2026-11-15 15:03",
+      "summary": "금융 정보를 다루는 웹 앱에서 개발자가 아닌 사용자가 데이터를 보유 하면서도, 기본 기능과 개발 편의성을 유지하기 어려움 Cheapskate 는 인증과 SQL 데이터 저장소를 Supabase에 맡겨..."
     },
     {
-      "title": "FAA, 01:19Z에 전국 항공기 이륙 중지 해제",
-      "link": "https://news.hada.io/topic?id=37145",
-      "date": "2026-11-14 12:37",
-      "summary": "FAA 지휘센터 가 전국 항공기 이륙 중지 조치를 해제함 공지에 기재된 목적지 공항과 포함 시설은 모두 전체(ALL) 임 해제 공지의 서명 시각은 2026년 11월 14일 01:19Z 임 공지의 효..."
+      "title": "Antigravity의 /teamwork로 과학과 엔지니어링 발전시키기",
+      "link": "https://news.hada.io/topic?id=37191",
+      "date": "2026-11-15 14:35",
+      "summary": "Google과 학계 연구진이 Gemini 4와 /teamwork 멀티에이전트 시스템 을 활용해 수학 난제 증명, 분자 구조 규명, 소프트웨어 재작성, 인프라 최적화에서 성과를 얻음 병렬 탐색과 독립..."
     },
     {
-      "title": "우크라이나, 2주도 안 돼 러시아 정유 능력 36% 마비시켜",
-      "link": "https://news.hada.io/topic?id=37144",
-      "date": "2026-11-14 12:34",
-      "summary": "방산업체 Fire Point 에 따르면 우크라이나 드론이 13일 동안 러시아 주요 정유소 최소 9곳을 공격했으며, 피격 시설은 러시아 전체 정유 능력의 36% 를 차지함 피격 정유소의 연간 원유 처..."
+      "title": "Project Zero, 취약점 신고 90일 후 상세 정보 공개하기로",
+      "link": "https://news.hada.io/topic?id=37190",
+      "date": "2026-11-15 12:36",
+      "summary": "Project Zero가 패치 여부와 관계없이 신고 후 정해진 날짜에 취약점을 공개하는 Full X 정책 을 도입함. 기존의 최대 90일 수정 기간과 추가 30일 패치 배포 대기 기간을 대체함 우선..."
     },
     {
-      "title": "Show GN: 로컬 AI머신을 구입하기 전에 성능을 미리 예측할 수 있는 웹앱",
-      "link": "https://news.hada.io/topic?id=37143",
-      "date": "2026-11-14 12:15",
-      "summary": "안녕하세요, LLM 에 대해 공부하면서 로컬 인퍼런스를 위해 장비를 구매하고자 했는데, \"어느 스펙까지 맞춰야 DeepSeek 를 원활하게 돌릴지\" 같은 질문에 매번 손으로 계산하는 것이 귀찮더라고..."
+      "title": "Show HN: 순수 JAX 약 200줄로 구현한 DeepSeek V3",
+      "link": "https://news.hada.io/topic?id=37189",
+      "date": "2026-11-15 12:33",
+      "summary": "DeepSeek-V3 아키텍처를 순수 JAX 190줄로 구현 하고, MacBook Air에서 퍼블릭 도메인 추리소설로 처음부터 사전학습한 프로젝트임 Flax, Equinox, PyTorch 없이 배..."
     },
     {
-      "title": "로폼 운영사 해킹으로 2만여 명 개인정보 유출, ‘모두의 창업’ 참가자 818명 포함",
-      "link": "https://news.hada.io/topic?id=37140",
-      "date": "2026-11-14 11:08",
-      "summary": "‘모두의 창업’ 2차 사업의 AI 솔루션 공급기업인 아미쿠스렉스(로폼) 의 자체 시스템이 해킹돼 이용자 20,028명의 개인정보 가 유출됐으며, 이 가운데 사업 참가자 818명 이 포함됨 중소벤처기..."
+      "title": "Nvidia, 순환 금융 거래로 GPU 가격을 의도적으로 높게 유지했다는 의혹",
+      "link": "https://news.hada.io/topic?id=37187",
+      "date": "2026-11-15 11:33",
+      "summary": "Nvidia가 자사 칩을 구매하는 고객사에 자금을 지원 해 수요를 만들고 GPU 가격을 높게 유지하려 했다는 의혹이 나옴 Wall Street Journal 보도에 따르면, Nvidia는 TSMC..."
     },
     {
-      "title": "KORS 모든 주파수의 항공 무선 실시간 청취, Victoria, CA도 항공기 출발 중단",
-      "link": "https://news.hada.io/topic?id=37139",
-      "date": "2026-11-14 10:31",
-      "summary": "Orcas Airband 는 San Juan Islands 지역의 항공 무선을 실시간으로 들을 수 있는 서비스임 제공된 페이지 스냅샷에서는 서비스 상태가 오프라인 으로 표시됨 청취하려면 재생 버튼..."
+      "title": "LinkedIn과 Monster, CBC 조사 후 가짜 채용 공고 1,000건 이상 삭제",
+      "link": "https://news.hada.io/topic?id=37186",
+      "date": "2026-11-15 10:32",
+      "summary": "LinkedIn과 Monster 에 올라온 경력 불필요 원격근무 공고 약 1,500건이 실제 채용이 아닌 미국 다단계 마케팅 업체 Evolution Travel 의 유료 가입으로 지원자를 유도한 것..."
     },
     {
-      "title": "FM-1 Workbench - FM1 펌웨어용 앱과 SDK의 라이선스 및 재배포 조건",
-      "link": "https://news.hada.io/topic?id=37138",
-      "date": "2026-11-14 09:38",
-      "summary": "FM1의 공개 APP 소스는 GPLv3 전용 라이선스 를 따르며, 별도 조건의 바이너리 SDK와 결합해 배포할 수 있도록 링크 예외를 둠 독점 엔진 SDK는 FM1 기기용으로만 개발, 실행, 바이너..."
+      "title": "컨텐츠 플랫폼에서 웹인프라서비스의 시대로",
+      "link": "https://news.hada.io/topic?id=37185",
+      "date": "2026-11-15 10:24",
+      "summary": "AI와 웹 인프라 서비스의 결합은 인터넷의 중심을 바꾸고 있다. 개인도 이제 블로그나 SNS 같은 기존 플랫폼에 의존하지 않고, 자신만의 웹앱과 온라인 공간을 쉽게 만들고 운영할 수 있다. 각자의..."
     },
     {
-      "title": "Ace - 내 Mac에서 팀원과 AI 에이전트가 함께 작업하는 코딩 환경",
-      "link": "https://news.hada.io/topic?id=37137",
-      "date": "2026-11-14 09:30",
-      "summary": "채널에서 팀원과 구현 방향을 논의한 뒤 @ace 를 부르면 에이전트가 앞선 대화를 읽고 작업을 시작 에이전트가 작업 중 질문을 올리면 답을 아는 팀원이 바로 답해 작업을 이어갈 수 있음 같은 Tai..."
+      "title": "ChatGPT 내 비즈니스 기능 소개",
+      "link": "https://news.hada.io/topic?id=37183",
+      "date": "2026-11-15 09:50",
+      "summary": "OpenAI가 기업이 ChatGPT에서 비즈니스 소유권을 등록하고 정보를 관리하며 고객과 소통 할 수 있는 새로운 비즈니스 기능을 베타로 공개함. 매주 ChatGPT를 사용하는 12억 명의 사용자..."
     },
     {
-      "title": "최소한 제3의 선택지가 필요한 이유",
-      "link": "https://news.hada.io/topic?id=37136",
-      "date": "2026-11-14 09:18",
-      "summary": "Android와 iOS를 벗어나는 실용적인 대안 이 필요함. Google 의존성을 제거한 ROM과 대체 앱 스토어만으로 충분하다는 기대와 달리, 사용자와 개발자가 기기와 앱을 통제할 여지가 줄고 있..."
+      "title": "소프트웨어 직무명의 계보",
+      "link": "https://news.hada.io/topic?id=37182",
+      "date": "2026-11-15 09:33",
+      "summary": "1940년대부터 현재까지 104개 소프트웨어 직무명 을 연결한 대화형 계보도로, 직무의 기원과 분화, 상호 영향을 살펴볼 수 있음 직무를 7개 계열 과 5년 단위 시간축으로 배치하고, 실선은 파생..."
     },
     {
-      "title": "셀을 차지하지 않는 터미널 테두리",
-      "link": "https://news.hada.io/topic?id=37135",
-      "date": "2026-11-14 09:15",
-      "summary": "문자 대신 셀 가장자리의 선 으로 테두리를 그리는 터미널 프로토콜을 개발해 Ghostty 패치와 Ratatui 데모로 구현함 행과 열을 추가로 소비하지 않아 패널 경계에 탭을 배치하고, 한 줄 높이..."
+      "title": "Text.js - 브라우저 콘솔에서 동작하는 앱을 만드는 React 프레임워크",
+      "link": "https://news.hada.io/topic?id=37181",
+      "date": "2026-11-15 09:30",
+      "summary": "React 컴포넌트와 훅으로 텍스트 UI와 키 입력을 정의 하면, Text.js가 브라우저 개발자 도구의 Console 탭 에 앱을 렌더링 Box 와 Text 로 레이아웃을 잡고 표, 차트, 폼,..."
     },
     {
-      "title": "“글루 워크는 해롭다”에 대한 반론",
-      "link": "https://news.hada.io/topic?id=37134",
-      "date": "2026-11-14 09:12",
-      "summary": "문서 정리나 온보딩 같은 글루 워크(glue work) 는 성과로 잘 드러나지 않아도, 팀이 같은 문제에 반복해서 시간을 쓰는 일을 줄여줌 기능 출시를 주로 보상하는 조직도 팀을 굴러가게 하는 글루..."
+      "title": "OpenAI, 범용 모델이 로봇을 제어하기 시작하면서 로보틱스 팀 해체",
+      "link": "https://news.hada.io/topic?id=37180",
+      "date": "2026-11-15 08:34",
+      "summary": "OpenAI가 독립 로보틱스 팀을 해체 하고 인력을 기존 연구 및 응용 조직으로 재배치함. 회사는 로봇 개발 철수가 아니라 범용 로봇 개발을 가속하기 위한 개편이라고 밝힘 개편의 계기는 GPT-6..."
     },
     {
-      "title": "음악 플레이어를 이렇게 만들지는 말자",
-      "link": "https://news.hada.io/topic?id=37133",
-      "date": "2026-11-14 09:09",
-      "summary": "인터넷 차단을 겪으며 오프라인 음악 재생의 필요성을 느낀 개발자가 Zig 기반 음악 플레이어 AMP 를 직접 만들기 시작함 기존 플레이어의 가사 표시가 불편해, 최소한의 기능과 C++ 의존성 배제,..."
+      "title": "PyPI, 보안 신호를 더 명확히 보여주는 개편된 프로젝트 페이지 공개",
+      "link": "https://news.hada.io/topic?id=37178",
+      "date": "2026-11-15 07:36",
+      "summary": "PyPI 프로젝트 페이지에 보안 탭 이 추가됨. 파일별 디지털 증명으로 어떤 워크플로가 파일을 게시했는지 , 빌드 증명이 있다면 어느 소스 커밋에서 빌드됐는지 확인할 수 있음 출처 상태 는 릴리스..."
     },
     {
-      "title": "Haskell 생태계를 위한 기술 비전",
-      "link": "https://news.hada.io/topic?id=37132",
-      "date": "2026-11-14 08:38",
-      "summary": "Haskell Foundation 기술 리더십 위원회(TLC) 가 정식 활동을 시작해 개발 도구, 보안, 장기 호환성 개선 과제를 발굴하고 재단의 자금 지원 대상을 정함 AI가 코드를 생성할 때 타..."
+      "title": "SpaceX, Starship 포획으로 15차 비행 마무리",
+      "link": "https://news.hada.io/topic?id=37177",
+      "date": "2026-11-15 07:33",
+      "summary": "SpaceX, Starship 포획으로 15차 비행 마무리"
     },
     {
-      "title": "빅테크는 우리를 실망시킨다",
-      "link": "https://news.hada.io/topic?id=37131",
-      "date": "2026-11-14 08:35",
-      "summary": "Microsoft Outlook, Teams, Copilot 장애 로 업무가 중단되고, 일부 중소기업은 정상적인 고객 지원 대신 소셜미디어로 연락을 받음 장애 영향은 기업을 넘어 학교, 대학, 법원..."
+      "title": "코끼리의 고립 심화로 사회적 연결망이 분절됨",
+      "link": "https://news.hada.io/topic?id=37176",
+      "date": "2026-11-15 06:36",
+      "summary": "UC San Diego 연구진이 스리랑카의 야생 암컷 아시아코끼리 440마리 이상을 12년간 분석 한 결과, 개체군 감소와 함께 사회 집단이 작아지고 서로 고립되는 변화를 확인함 개체 손실이 서서히..."
     },
     {
-      "title": "600번의 실험으로 알아낸 JEPA 월드 모델의 특성",
-      "link": "https://news.hada.io/topic?id=37130",
-      "date": "2026-11-14 07:37",
-      "summary": "LeWM 의 Push-T 실험에서는 예측 모델 개선보다 계획 방식 변경 이 더 큰 효과를 냄. 학습 데이터와 유사한 경로에서 적절한 하위 목표를 제공하면, 학습된 예측기로도 시뮬레이터의 정확한 물리..."
+      "title": "Microsoft 장애, 고객들에게 Microsoft 의존도를 뼈저리게 깨닫게 하다",
+      "link": "https://news.hada.io/topic?id=37175",
+      "date": "2026-11-15 06:33",
+      "summary": "Microsoft 365의 장시간 장애 로 이메일, Teams 메시징, 파일 접근, Copilot 등 여러 업무 서비스가 영향을 받으면서, 기업들이 Microsoft 생태계에 얼마나 깊이 의존하는지..."
     }
   ]
 };

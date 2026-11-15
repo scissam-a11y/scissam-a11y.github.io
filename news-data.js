@@ -1,7 +1,13 @@
 window.NEWS_DATA = {
-  "updated": "2026-11-14 15:14",
+  "updated": "2026-11-15 15:22",
   "link": "https://miniwebapp.imbc.com/index?service=podcast&program=1000671100000100000",
   "episodes": [
+    {
+      "title": "[플러스] 11/14(토) 우리나라가 망하지 않은 건 IMF 덕분입니다 - 박정호 명지대 교수",
+      "date": "2026-11-14 22:00",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261114.mp3",
+      "description": "1,2부\n우리나라가 망하지 않은 건 IMF 덕분입니다 \n- 박정호 명지대 교수"
+    },
     {
       "title": "커파타임 - 팀장님들 필청!",
       "date": "2026-11-14 00:00",
@@ -55,12 +61,6 @@ window.NEWS_DATA = {
       "date": "2026-11-10 20:00",
       "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261110.mp3",
       "description": "1,2부\n2천원 짜리 K-레이저\n북한 드론 잡는다\n- 임철균 전문연구위원 (한국전략문제연구소)"
-    },
-    {
-      "title": "[손경제] 11/10(화) 산업용 가스요금 66% 급등 | 주가 누르기 방지법 충돌 | 빚 안 갚는 '대출 포모'",
-      "date": "2026-11-10 08:30",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261110.mp3",
-      "description": "[깊이 있는 경제뉴스]\n\n1) 산업용 가스요금 1년 새 66%↑.. 기업 부담 가중\n2) '주가누르기 방지법' 놓고 당·정 충돌.. 쟁점은?\n3) 손해봐도 빚 안 갚아.. '대출 포모' 확산\n\n- 김치형 경제뉴스 큐레이터\n- 연합인포맥스 정지서 기자\n- 한국경제신문 이혜인 기자"
     }
   ]
 };
