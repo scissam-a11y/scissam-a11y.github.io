@@ -1,7 +1,19 @@
 window.NEWS_DATA = {
-  "updated": "2026-11-15 15:22",
+  "updated": "2026-11-16 15:20",
   "link": "https://miniwebapp.imbc.com/index?service=podcast&program=1000671100000100000",
   "episodes": [
+    {
+      "title": "[손경제] 11/16(월) 美 국채 금리｜일본 임대료 보증업체 한국 진출",
+      "date": "2026-11-16 08:30",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261116.mp3",
+      "description": "[깊이 있는 경제 뉴스]\n1) 美 생산자물가지수 4년 만에 최대 상승…한은, 금리 고심\n2) 日 임대료 보증업체 한국 진출…월세 보증금 낮아질까?\n-정지서 연합인포맥스 기자\n-김근희 머니투데이 기자\n\n[친절한 경제]\n선불과 후불을 가르는 기준이 뭔가요?\n-청취자 김현우 씨"
+    },
+    {
+      "title": "[플러스] 11/15(일) 미국 중간선거 이후 중국 증시가 급등한 이유 - 박수현 팀장 (KB증권 아시아시장팀)",
+      "date": "2026-11-15 22:00",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261115.mp3",
+      "description": "1,2부\n미국 중간선거 이후 중국 증시가 급등한 이유 \n- 박수현 팀장 (KB증권 아시아시장팀)"
+    },
     {
       "title": "[플러스] 11/14(토) 우리나라가 망하지 않은 건 IMF 덕분입니다 - 박정호 명지대 교수",
       "date": "2026-11-14 22:00",
@@ -49,18 +61,6 @@ window.NEWS_DATA = {
       "date": "2026-11-11 22:00",
       "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261111.mp3",
       "description": "1부\n[업되는기업]\n젠슨 황 스캔들\n- 하수정 경제전문기자\n\n2부\n전세 규제·부동산 세제개편\n- 조윤호 서강대 교수"
-    },
-    {
-      "title": "[손경제] 11/11(수) 6개월 예금금리가 1년보다 높다 | AI 데이터센터 건설 반대 확산",
-      "date": "2026-11-11 08:30",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261111.mp3",
-      "description": "[깊이 있는 경제뉴스]\n1) 6개월 예금금리가 1년보다 높아.. 금리 역전 이유는?\n2) AI 데이터센터 반대 미국·유럽 이어 동남아까지.. 빅테크 고심\n-김치형 경제뉴스 큐레이터\n-이코노미스트 라예진 기자\n\n[친절한 경제]\n콜금리란 무엇인가요?\n-청취자 김영웅 씨"
-    },
-    {
-      "title": "[플러스] 11/10(화) 2천원 짜리 K-레이저 북한 드론 잡는다 - 임철균 전문연구위원 (한국전략문제연구소)",
-      "date": "2026-11-10 20:00",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261110.mp3",
-      "description": "1,2부\n2천원 짜리 K-레이저\n북한 드론 잡는다\n- 임철균 전문연구위원 (한국전략문제연구소)"
     }
   ]
 };
