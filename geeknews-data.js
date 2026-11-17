@@ -1,96 +1,96 @@
 window.GEEKNEWS_DATA = {
-  "updated": "2026-11-16 15:21",
+  "updated": "2026-11-17 16:49",
   "link": "https://news.hada.io",
   "posts": [
     {
-      "title": "Show GN: 스택큐브 – 거래처가 카톡·메일·엑셀로 보내는 주문을 한 목록으로 모아 정리하는 도구",
-      "link": "https://news.hada.io/topic?id=37267",
-      "date": "2026-11-16 14:08",
-      "summary": "도매·유통 회사와 도입 상담을 하면서 가장 많이 들은 말이 \"주문은 카톡으로 오는데 ERP에는 다시 쳐야 한다\"였습니다. 거래처는 카톡 단체방, 개인톡, 문자, 메일, 엑셀, 사진 등 각자 편한 방..."
+      "title": "저작권으로는 이길 수 없다",
+      "link": "https://news.hada.io/topic?id=37337",
+      "date": "2026-11-17 15:02",
+      "summary": "기업의 공유 자원 남용 에 맞서 카피레프트를 강화하거나 소프트웨어를 독점화하기보다, 작업의 개성, 기술의 구조, 상호부조에서 대안을 찾아야 함 저작권 집행 은 법적 위협과 변호사, 국가 권력에 의존..."
     },
     {
-      "title": "젠슨 황 이후, Nvidia는 어디로 가나?",
-      "link": "https://news.hada.io/topic?id=37266",
-      "date": "2026-11-16 13:39",
-      "summary": "젠슨 황이 공동 창업 33년 만에 CEO직과 이사회에서 물러남. CFO 콜레트 크레스가 임시 CEO 를 맡고, 이사회는 정식 후임을 찾고 있음 황은 CUDA, 딥러닝, 통합 AI 데이터센터 시스템으..."
+      "title": "화학은 사실 기하학이다",
+      "link": "https://news.hada.io/topic?id=37336",
+      "date": "2026-11-17 13:35",
+      "summary": "화학 반응 네트워크 이론 은 추정하기 어려운 수많은 반응 속도 상수 대신 네트워크 구조와 기하학을 이용해 농도 변화와 평형의 성질을 판단함 화학종을 좌표축으로, 반응을 벡터로 표현하면 농도 궤적이..."
     },
     {
-      "title": "Firefox용 uBlock Origin, 클릭 한 번으로 다른 사이트에 스크립트 주입 가능한 취약점 패치",
-      "link": "https://news.hada.io/topic?id=37265",
-      "date": "2026-11-16 13:36",
-      "summary": "Firefox용 uBlock Origin MV2 에서 악성 웹사이트가 사용자 클릭 한 번으로 임의의 신뢰 필터를 추가하고, 다른 사이트의 컨텍스트에서 JavaScript를 실행할 수 있는 범용 XS..."
+      "title": "OpenCode Browse - 코딩 에이전트가 사용자의 실제 브라우저를 쓰게 하는 도구",
+      "link": "https://news.hada.io/topic?id=37333",
+      "date": "2026-11-17 12:33",
+      "summary": "MCP 서버와 Chromium 확장 프로그램 으로 에이전트가 사용자의 기존 탭, 로그인 상태, 확장 프로그램을 갖춘 실제 브라우저를 이용하게 함 에이전트는 페이지 읽기, 클릭, 입력 을 수행하고 스..."
     },
     {
-      "title": "버튼에 cursor: pointer 적용하기",
-      "link": "https://news.hada.io/topic?id=37264",
-      "date": "2026-11-16 13:09",
-      "summary": "CSSWG 가 appearance: base-… 를 사용하는 버튼과 여러 폼 요소에 cursor: pointer 를 적용하는 커서 규칙을 채택하기로 합의함 이번 결정은 브라우저의 기존 기본 스타일을..."
+      "title": "Squircles - 정사각형과 원 사이의 곡선, 구현 방식과 연속성 비교",
+      "link": "https://news.hada.io/topic?id=37332",
+      "date": "2026-11-17 11:33",
+      "summary": "스쿼클(squircle) 은 정사각형과 원 사이의 형태로, 하나의 수학적 정의가 아니라 여러 곡선으로 구현할 수 있으며 매개변수에 따라 원과 정사각형 사이에서 달라짐 슈퍼타원(superellipse..."
     },
     {
-      "title": "Jiff - 시간대 처리를 중심에 둔 Rust 날짜와 시간 라이브러리",
-      "link": "https://news.hada.io/topic?id=37263",
-      "date": "2026-11-16 13:06",
-      "summary": "Jiff 1.0 은 시간대를 API의 중심에 두어 일광절약시간제와 관련된 흔한 문제를 자동 처리하는 Rust 날짜와 시간 라이브러리임 장기 API 안정성 을 목표로 하며, 중대한 API 결함이 발견..."
+      "title": "Show GN: Subscale - 여러 Tailscale 계정 중 주소별로 나눠 연결해주는 CLI 도구",
+      "link": "https://news.hada.io/topic?id=37328",
+      "date": "2026-11-17 10:47",
+      "summary": "Tailscale 계정을 여러개 등록해 사용하는 경우 동시에 여러 계정을 활성화 할 수 없고 수동으로 스위칭하며 사용해야 하는 문제가 있습니다 제 경우 회사용 계정, 개인 계정을 동시에 사용할 수가..."
     },
     {
-      "title": "Qwen4-Max - 네이티브 비전과 100만 토큰 컨텍스트를 갖춘 장기 작업용 AI 모델",
-      "link": "https://news.hada.io/topic?id=37262",
-      "date": "2026-11-16 12:57",
-      "summary": "Alibaba가 이미지와 영상을 직접 처리하고 100만 토큰 컨텍스트 를 지원하는 Qwen4-Max 를 공개함 2.4조 파라미터 백본의 새 Qwen4 아키텍처를 기반으로, 네이티브 비전과 100만..."
+      "title": "Windows 11, 사용하는 코딩 에이전트와 개발 도구 정보를 수집함",
+      "link": "https://news.hada.io/topic?id=37327",
+      "date": "2026-11-17 10:33",
+      "summary": "Windows의 MissionControlAggregator.dll 은 기존 시스템 이벤트에서 코딩 에이전트와 개발 도구 사용 여부를 감지해 로컬에 저장하고 진단 보고서를 생성함 보고서는 개발 도구..."
     },
     {
-      "title": "Show HN: Agweb - 작업을 방해하지 않는 에이전트용 브라우저",
-      "link": "https://news.hada.io/topic?id=37261",
-      "date": "2026-11-16 12:54",
-      "summary": "Agweb 은 macOS에서 여러 코딩 에이전트가 셸 명령으로 조작하는 WebKit 기반 브라우저로, 키보드 포커스를 빼앗지 않는 하나의 창에서 작업 상황을 실시간으로 볼 수 있음 에이전트마다 독립..."
+      "title": "Branchless Programming - CPU 분기 예측과 분기 없는 프로그래밍 이해하기",
+      "link": "https://news.hada.io/topic?id=37325",
+      "date": "2026-11-17 10:10",
+      "summary": "현대 CPU는 파이프라인을 통해 여러 명령어의 처리 단계를 병렬적으로 진행하며, 조건 분기가 발생하면 분기 예측(Branch Prediction)을 통해 다음에 실행할 명령어를 미리 처리함. 하지만..."
     },
     {
-      "title": "미국 하원의원의 주식 거래는 시장을 이길까? 8,900건의 거래 검증",
-      "link": "https://news.hada.io/topic?id=37260",
-      "date": "2026-11-16 12:51",
-      "summary": "하원의원 99명의 주식 매수/매도 8,941건 을 분석해, 공시 직후 거래를 따라 했을 때와 의원의 실제 거래일부터 측정했을 때의 수익률을 시장 지수와 비교함 공시일부터 6개월간 매수 종목의 동일가..."
+      "title": "Modern Web Guidance 1.0 - 코딩 에이전트에 최신 웹 개발 지침을 제공하는 스킬 모음",
+      "link": "https://news.hada.io/topic?id=37324",
+      "date": "2026-11-17 10:10",
+      "summary": "크롬팀의 Modern Web Guidance 1.0 은 코딩 에이전트에게 웹 플랫폼 전문 지식, 권장사항, 브라우저 호환성 데이터를 제공해 성능, 접근성, 보안을 개선하도록 지원함 현대화 워크플로..."
     },
     {
-      "title": "clice v1.0 출시: 모던 C++ 언어 서버",
-      "link": "https://news.hada.io/topic?id=37259",
-      "date": "2026-11-16 12:48",
-      "summary": "LLVM/Clang 기반 C/C++ 언어 서버 clice가 첫 안정 버전 v1.0을 출시 함. 약 4개월의 알파 테스트와 실제 오픈소스 프로젝트 검증을 거쳤으며, C++23으로 구현하고 자체 코드베..."
+      "title": "백준 온라인 저지 (BOJ) 11월 20일 재오픈",
+      "link": "https://news.hada.io/topic?id=37321",
+      "date": "2026-11-17 10:01",
+      "summary": "당초 2026.10.26. 재오픈 하려 했으나, PHP2Shell 대응 등으로 연기했었음. 재오픈 일정을 11월 17일 이메일을 통해 공지함. 서비스 재오픈 일정 재오픈 예정일: 2026년 11월..."
     },
     {
-      "title": "Odin으로 작성한 NES 에뮬레이터",
-      "link": "https://news.hada.io/topic?id=37258",
-      "date": "2026-11-16 12:45",
-      "summary": "lucyNES 는 Battletoads와 수백 개 게임을 정상 실행할 수준의 정확도를 갖춘 NES 에뮬레이터로, Odin으로 개발됨 디버거와 메뉴 화면, 상태 저장 , 컨트롤러 지원, CRT 셰이더..."
+      "title": "CI 시장은 세 갈래로 나뉘었다",
+      "link": "https://news.hada.io/topic?id=37320",
+      "date": "2026-11-17 09:40",
+      "summary": "CI 시장은 범용 러너 인프라, 오케스트레이션 플랫폼, 코드/빌드 엔지니어링 계층으로 나뉘며, 각각 실행 비용과 속도, 실행 환경 제어, 파이프라인 프로그래밍 가능성에 초점을 맞춤 GitHub Ac..."
     },
     {
-      "title": "젠슨 황, Nvidia CEO 복귀를 위해 실리콘밸리 측근들과 논의 중",
-      "link": "https://news.hada.io/topic?id=37254",
-      "date": "2026-11-16 11:37",
-      "summary": "Jensen Huang 이 중국 스파이 의혹을 받는 여성 및 부하 직원과의 관계 보도 이후 Nvidia CEO에서 사임한 지 며칠 만에 복귀를 검토 중이며, 실리콘밸리 측근들이 이사회에 복직을 압박..."
+      "title": "세계 최대 브랜드들, Optimizely를 통해 악성코드에 감염",
+      "link": "https://news.hada.io/topic?id=37319",
+      "date": "2026-11-17 09:39",
+      "summary": "웹사이트 A/B 테스트 플랫폼 Optimizely Web 을 통해 BBC, Zoom, CNN, Salesforce, GitLab 등 178개 조직의 사이트 방문자에게 악성 JavaScript 가 배..."
     },
     {
-      "title": "Vulcan 로켓, 비행 재개 발사 실패로 Amazon 위성 40기 손실",
-      "link": "https://news.hada.io/topic?id=37253",
-      "date": "2026-11-16 11:34",
-      "summary": "ULA의 Vulcan Centaur 가 11월 15일 발사 후 약 10분 만에 이상을 일으켜 Amazon 인터넷 위성 40기 를 궤도에 투입하지 못함 이번 발사는 기존 고체 로켓 부스터(SRB) 문..."
+      "title": "United Airlines, 광범위한 시스템 장애 발생했다고 밝혀",
+      "link": "https://news.hada.io/topic?id=37318",
+      "date": "2026-11-17 09:36",
+      "summary": "United Airlines 에서 월요일 약 30분간 시스템 장애가 발생해 미국 공항의 일부 출발편이 지연됐으며, 항공사는 이후 복구를 발표함 영향을 받은 항공편은 150편 미만 이며, 이미 비행..."
     },
     {
-      "title": "Show GN: Landlink - 인터넷 없이 통신하는 오픈소스 프로젝트",
-      "link": "https://news.hada.io/topic?id=37252",
-      "date": "2026-11-16 11:33",
-      "summary": "Landlink는 통신망이 없는 곳에서도 휴대폰끼리 LoRa로 메시지를 주고받게 해주는 오프그리드 통신 프로젝트입니다. ESP32 기반 LoRa 보드에 펌웨어를 올리고 휴대폰 앱과 BLE로 연결하면..."
+      "title": "AVA - AI 에이전트용 데이터 분석 및 시각화 프레임워크",
+      "link": "https://news.hada.io/topic?id=37317",
+      "date": "2026-11-17 09:30",
+      "summary": "앱이나 AI 에이전트에 자연어로 데이터를 분석하고 차트를 만드는 기능 을 붙이는 JavaScript 프레임워크 “1월과 2월 매출을 제품별로 비교해 줘”라고 물으면 SQL을 생성해 실행하고, 결과..."
     },
     {
-      "title": "Show GN: agent-monitor - 어느 에이전트 세션이 내 답을 기다리는지 보여주는 macOS 메뉴바 앱",
-      "link": "https://news.hada.io/topic?id=37251",
-      "date": "2026-11-16 11:32",
-      "summary": "터미널에서 Claude Code나 Codex 세션 여럿을 띄워 놓고 일하다 보면 어느 세션이 작업을 마치고 제 응답을 기다리는지 놓치곤 했습니다. 승인 요청을 띄운 채 한참 기다리던 세션을 뒤늦게..."
+      "title": "AI 슬롭은 왜 이렇게 읽기 짜증날까?",
+      "link": "https://news.hada.io/topic?id=37316",
+      "date": "2026-11-17 09:20",
+      "summary": "AI 슬롭이 읽기 괴로운 이유는 불명확한 글쓰기 에 있음. 단어를 다 알아도 누가 무엇을 했는지, 요점이 무엇인지 다시 짚어야 하는 문장 이 자주 나옴 업무에서는 이런 글이 Slack 메시지나 PR..."
     },
     {
-      "title": "국토부, 구글의 1:5,000 지도 국외 반출 보안조건 이행 확인",
-      "link": "https://news.hada.io/topic?id=37249",
-      "date": "2026-11-16 10:50",
-      "summary": "정부가 11월 13일 구글의 1:5,000 고정밀 지도 국외 반출에 붙인 보안조건의 이행 결과 를 확인. 반출은 지난 2월 27일 조건부로 허가했음 기본 바탕지도와 길찾기에 필요한 도로망 데이터 가..."
+      "title": "GitHub에서 Codeberg로 이전하기",
+      "link": "https://news.hada.io/topic?id=37314",
+      "date": "2026-11-17 09:04",
+      "summary": "Inko와 개인 프로젝트 를 Codeberg로 이전하면서 70개 이상의 저장소를 검토함. GitHub 복귀 후 기여자는 다소 늘었지만, AI로 생성한 저품질 기여와 자유 소프트웨어 가치에 대한 우려..."
     }
   ]
 };

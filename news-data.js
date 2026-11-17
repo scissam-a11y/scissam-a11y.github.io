@@ -1,7 +1,19 @@
 window.NEWS_DATA = {
-  "updated": "2026-11-16 15:20",
+  "updated": "2026-11-17 16:49",
   "link": "https://miniwebapp.imbc.com/index?service=podcast&program=1000671100000100000",
   "episodes": [
+    {
+      "title": "[손경제] 11/17(화) 젠슨 황 복귀론｜주가누르기방지법 딜레마｜명품 가격 인하",
+      "date": "2026-11-17 08:30",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261117.mp3",
+      "description": "[깊이 있는 경제 뉴스]\n1) 젠슨 황 복귀론 확산…엔비디아 다시 이끌까?\n2) 저PBR 기업 90% 수익성 부진…주가누르기방지법 딜레마\n3) 명품 가격도 내린다…소비자들 지갑 닫은 이유\n-김치형 경제뉴스 큐레이터\n-정지서 연합인포맥스 기자\n-이혜인 한국경제신문 기자"
+    },
+    {
+      "title": "[플러스] 11/16(월) AI 부정행위 (김덕진 소장) | 멕시코 주택 절도 | 일본 담배 뺏는 러시아 | 폴란드 헌법재판소 (이혜인 기자)",
+      "date": "2026-11-16 22:00",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261116.mp3",
+      "description": "1부\n[텍코노미]\nAI 컨닝에 수능도 비상\n- 김덕진 소장 (IT커뮤니케이션 연구소)\n\n2부\n[글로벌 리포트]\n푸틴, 일본 담배회사 삼킨다\n- 이혜인 기자 (한국경제신문)\n"
+    },
     {
       "title": "[손경제] 11/16(월) 美 국채 금리｜일본 임대료 보증업체 한국 진출",
       "date": "2026-11-16 08:30",
@@ -49,18 +61,6 @@ window.NEWS_DATA = {
       "date": "2026-11-12 22:00",
       "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261112.mp3",
       "description": "1,2부\n폭등한 일본 부동산 뜻밖의 나비효과\n- 서병수 PB (메리츠 증권)"
-    },
-    {
-      "title": "[손경제] 11/12(목) 국고채 담합 과징금｜연준 금리 인상 조짐｜앤트로픽 상장",
-      "date": "2026-11-12 08:30",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261112.mp3",
-      "description": "[깊이 있는 경제뉴스]\n1) 국고채 입찰 담합에 금융사 15곳 과징금 1조 6천억원\n2) 美 물가 상승에 빅스텝 가능성까지…한은, 금리 고심\n3) 금감원, ETF 주식 대차거래 관행 손본다\n4) 앤트로픽 나스닥 상장 임박…AI·반도체 투자시장 영향은?\n-하수정 경제전문기자\n-정지서 연합인포맥스 기자\n-명지예 매일경제신문 기자"
-    },
-    {
-      "title": "[플러스] 11/11(수) 젠슨 황 스캔들 (하수정 경제전문기자) | 전세 규제·부동산 세제개편 (조윤호 서강대 교수)",
-      "date": "2026-11-11 22:00",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261111.mp3",
-      "description": "1부\n[업되는기업]\n젠슨 황 스캔들\n- 하수정 경제전문기자\n\n2부\n전세 규제·부동산 세제개편\n- 조윤호 서강대 교수"
     }
   ]
 };
