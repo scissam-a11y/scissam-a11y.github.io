@@ -1,7 +1,19 @@
 window.NEWS_DATA = {
-  "updated": "2026-11-17 16:49",
+  "updated": "2026-11-18 16:20",
   "link": "https://miniwebapp.imbc.com/index?service=podcast&program=1000671100000100000",
   "episodes": [
+    {
+      "title": "[손경제] 11/18(수) 美, 대중 기술통제 강화｜애플 삼성 D램｜성장률 3.9% 전망",
+      "date": "2026-11-18 08:30",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261118.mp3",
+      "description": "1) 美, 中 AI칩 ‘원격 우회로’ 봉쇄.. 5개국 수출 심사도\n2) D램 급한 애플, 삼성과 장기공급계약 초읽기\n3) IMF, 한국 성장률 3.9% 전망…금리 인상 권고\n-김치형 경제뉴스 큐레이터\n-이코노미스트 라예진 기자"
+    },
+    {
+      "title": "[플러스] 11/17(화) 미국이 GPS 끄면 한국 마비됩니다 - 김대관 본부장 (한국항공우주연구원)",
+      "date": "2026-11-17 22:00",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261117.mp3",
+      "description": "1,2부\n미국이 GPS 끄면 \n한국 마비됩니다\n- 김대관 본부장 (한국항공우주연구원)"
+    },
     {
       "title": "[손경제] 11/17(화) 젠슨 황 복귀론｜주가누르기방지법 딜레마｜명품 가격 인하",
       "date": "2026-11-17 08:30",
@@ -49,18 +61,6 @@ window.NEWS_DATA = {
       "date": "2026-11-13 21:30",
       "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/sponsorship_cafein24.mp3",
       "description": "카페인24"
-    },
-    {
-      "title": "[손경제] 11/13(금) 수출 1조달러 눈앞｜네이버도 새벽배송｜국채 담보로 달러 조달",
-      "date": "2026-11-13 08:30",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261113.mp3",
-      "description": "[깊이 있는 경제 뉴스]\n1) 수출 호황 이끈 K반도체…美 견제 우려도\n2) 네이버, 1조 투자해 새벽배송 확대…쿠팡 잡을까\n3) 국채 맡겨 달러 빌린 신흥국…재정 부담 커지나\n-이재연 한겨레신문 기자\n-오찬종 매일경제신문 기자\n-조미현 한국경제신문 기자\n"
-    },
-    {
-      "title": "[플러스] 11/12(목) 폭등한 일본 부동산 뜻밖의 나비효과 - 서병수 PB (메리츠 증권)",
-      "date": "2026-11-12 22:00",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261112.mp3",
-      "description": "1,2부\n폭등한 일본 부동산 뜻밖의 나비효과\n- 서병수 PB (메리츠 증권)"
     }
   ]
 };

@@ -1,96 +1,96 @@
 window.GEEKNEWS_DATA = {
-  "updated": "2026-11-17 16:49",
+  "updated": "2026-11-18 16:20",
   "link": "https://news.hada.io",
   "posts": [
     {
-      "title": "저작권으로는 이길 수 없다",
-      "link": "https://news.hada.io/topic?id=37337",
-      "date": "2026-11-17 15:02",
-      "summary": "기업의 공유 자원 남용 에 맞서 카피레프트를 강화하거나 소프트웨어를 독점화하기보다, 작업의 개성, 기술의 구조, 상호부조에서 대안을 찾아야 함 저작권 집행 은 법적 위협과 변호사, 국가 권력에 의존..."
+      "title": "Show GN: 고객이 직접 문자를 보내는(MO) 방식의 휴대폰 번호 인증 API (웹 SDK 출시)",
+      "link": "https://news.hada.io/topic?id=37398",
+      "date": "2026-11-18 15:02",
+      "summary": "예전에 \"고객이 직접 문자를 보내는(MO) 방식의 휴대폰 인증 API\"로 소개했던 옥토모입니다. 그사이 QR 인증 과 웹 SDK 가 추가되어 다시 공유합니다. 현재 1,000개가 넘는 애플리케이션이..."
     },
     {
-      "title": "화학은 사실 기하학이다",
-      "link": "https://news.hada.io/topic?id=37336",
-      "date": "2026-11-17 13:35",
-      "summary": "화학 반응 네트워크 이론 은 추정하기 어려운 수많은 반응 속도 상수 대신 네트워크 구조와 기하학을 이용해 농도 변화와 평형의 성질을 판단함 화학종을 좌표축으로, 반응을 벡터로 표현하면 농도 궤적이..."
+      "title": "Show GN: Disposable - AI로 만든 작은 도구를 나누고 각자 에이전트로 다시 만드는 곳",
+      "link": "https://news.hada.io/topic?id=37396",
+      "date": "2026-11-18 14:46",
+      "summary": "AI로 만든 작은 도구를 나누는 사이트 Disposable을 만들어 혼자 운영하고 있습니다. 에이전트 덕분에 내 일에 딱 맞는 도구를 금방 만들 수 있게 됐지만, 그런 도구는 대개 쓰고 나면 버려지..."
     },
     {
-      "title": "OpenCode Browse - 코딩 에이전트가 사용자의 실제 브라우저를 쓰게 하는 도구",
-      "link": "https://news.hada.io/topic?id=37333",
-      "date": "2026-11-17 12:33",
-      "summary": "MCP 서버와 Chromium 확장 프로그램 으로 에이전트가 사용자의 기존 탭, 로그인 상태, 확장 프로그램을 갖춘 실제 브라우저를 이용하게 함 에이전트는 페이지 읽기, 클릭, 입력 을 수행하고 스..."
+      "title": "USN-9131-1: CRaC JDK 25 vulnerabilities",
+      "link": "https://news.hada.io/topic?id=37395",
+      "date": "2026-11-18 14:43",
+      "summary": "Ubuntu Security Notices 의 USN-9131-1 글임. 게시일은 2026년 11월 17일이라고 함. CRaC JDK 25 에서 보안 문제 몇 건이 고쳐졌다고 함. 보안 수정 외에..."
     },
     {
-      "title": "Squircles - 정사각형과 원 사이의 곡선, 구현 방식과 연속성 비교",
-      "link": "https://news.hada.io/topic?id=37332",
-      "date": "2026-11-17 11:33",
-      "summary": "스쿼클(squircle) 은 정사각형과 원 사이의 형태로, 하나의 수학적 정의가 아니라 여러 곡선으로 구현할 수 있으며 매개변수에 따라 원과 정사각형 사이에서 달라짐 슈퍼타원(superellipse..."
+      "title": "FOSS for All Conference 2026: 커뮤니티 주도 국내 오픈소스 컨퍼런스",
+      "link": "https://news.hada.io/topic?id=37394",
+      "date": "2026-11-18 14:12",
+      "summary": "FOSS for All Conference 2026 대한민국 인터넷의 아버지로 불리는 전길남 박사 (KAIST 명예교수)가 FOSS for All Conference 2026 기조연사로 나서 Por..."
     },
     {
-      "title": "Show GN: Subscale - 여러 Tailscale 계정 중 주소별로 나눠 연결해주는 CLI 도구",
-      "link": "https://news.hada.io/topic?id=37328",
-      "date": "2026-11-17 10:47",
-      "summary": "Tailscale 계정을 여러개 등록해 사용하는 경우 동시에 여러 계정을 활성화 할 수 없고 수동으로 스위칭하며 사용해야 하는 문제가 있습니다 제 경우 회사용 계정, 개인 계정을 동시에 사용할 수가..."
+      "title": "GitHub 저장소 페이지 리디자인 제안 (2019)",
+      "link": "https://news.hada.io/topic?id=37393",
+      "date": "2026-11-18 14:02",
+      "summary": "GitHub 저장소 페이지의 정보 구조와 화면 배치 개선안 으로, 중첩 탐색과 불필요한 장식을 줄이고 같은 화면에 더 많은 프로젝트 정보를 담는 데 초점을 맞춤 두 단계로 나뉜 탭을 단일 탐색 메뉴..."
     },
     {
-      "title": "Windows 11, 사용하는 코딩 에이전트와 개발 도구 정보를 수집함",
-      "link": "https://news.hada.io/topic?id=37327",
-      "date": "2026-11-17 10:33",
-      "summary": "Windows의 MissionControlAggregator.dll 은 기존 시스템 이벤트에서 코딩 에이전트와 개발 도구 사용 여부를 감지해 로컬에 저장하고 진단 보고서를 생성함 보고서는 개발 도구..."
+      "title": "Google의 AI 답변, 검색 유입을 40% 줄임",
+      "link": "https://news.hada.io/topic?id=37392",
+      "date": "2026-11-18 13:41",
+      "summary": "미국 데스크톱 사용자를 대상으로 한 무작위 실험 에서 Google AI Overviews가 표시되면 외부 웹사이트 클릭이 약 40% 감소 함. 아직 동료 심사를 거치지 않은 연구이며, 모바일은 포함..."
     },
     {
-      "title": "Branchless Programming - CPU 분기 예측과 분기 없는 프로그래밍 이해하기",
-      "link": "https://news.hada.io/topic?id=37325",
-      "date": "2026-11-17 10:10",
-      "summary": "현대 CPU는 파이프라인을 통해 여러 명령어의 처리 단계를 병렬적으로 진행하며, 조건 분기가 발생하면 분기 예측(Branch Prediction)을 통해 다음에 실행할 명령어를 미리 처리함. 하지만..."
+      "title": "IRS 로그인에 요구되는 ID.me 약관 동의",
+      "link": "https://news.hada.io/topic?id=37391",
+      "date": "2026-11-18 13:38",
+      "summary": "IRS 온라인 서비스에 ID.me로 로그인하는 납세자 는 민간 업체인 ID.me의 약관을 적용받음. 다만 IRS는 정부가 운영하는 Login.gov 로그인도 지원함 ID.me 약관은 소액사건을 제외..."
     },
     {
-      "title": "Modern Web Guidance 1.0 - 코딩 에이전트에 최신 웹 개발 지침을 제공하는 스킬 모음",
-      "link": "https://news.hada.io/topic?id=37324",
-      "date": "2026-11-17 10:10",
-      "summary": "크롬팀의 Modern Web Guidance 1.0 은 코딩 에이전트에게 웹 플랫폼 전문 지식, 권장사항, 브라우저 호환성 데이터를 제공해 성능, 접근성, 보안을 개선하도록 지원함 현대화 워크플로..."
+      "title": "GitHub에서 사라진 마이크로소프트의 ONNX Runtime",
+      "link": "https://news.hada.io/topic?id=37390",
+      "date": "2026-11-18 12:30",
+      "summary": "GitHub에서 사라진 마이크로소프트의 ONNX Runtime"
     },
     {
-      "title": "백준 온라인 저지 (BOJ) 11월 20일 재오픈",
-      "link": "https://news.hada.io/topic?id=37321",
-      "date": "2026-11-17 10:01",
-      "summary": "당초 2026.10.26. 재오픈 하려 했으나, PHP2Shell 대응 등으로 연기했었음. 재오픈 일정을 11월 17일 이메일을 통해 공지함. 서비스 재오픈 일정 재오픈 예정일: 2026년 11월..."
+      "title": "이스라엘 대 Wikipedia",
+      "link": "https://news.hada.io/topic?id=37388",
+      "date": "2026-11-18 11:32",
+      "summary": "Tech for Palestine(T4P) 이 2001년 이후 Wikipedia를 친이스라엘 방향으로 조작하려 한 활동 17건을 정리한 보고서를 공개함. 공개 자료를 토대로 이 가운데 최소 9건이..."
     },
     {
-      "title": "CI 시장은 세 갈래로 나뉘었다",
-      "link": "https://news.hada.io/topic?id=37320",
-      "date": "2026-11-17 09:40",
-      "summary": "CI 시장은 범용 러너 인프라, 오케스트레이션 플랫폼, 코드/빌드 엔지니어링 계층으로 나뉘며, 각각 실행 비용과 속도, 실행 환경 제어, 파이프라인 프로그래밍 가능성에 초점을 맞춤 GitHub Ac..."
+      "title": "Show HN: Alloy CSS, JavaScript를 꺼도 작동하는 대화상자, 메뉴, 탭",
+      "link": "https://news.hada.io/topic?id=37385",
+      "date": "2026-11-18 10:32",
+      "summary": "Alloy CSS 로 만든 가상의 청구서 관리 앱 Ledger 예제이며, 단일 HTML 파일로 구성되고 JavaScript를 사용하지 않음 대화상자, 메뉴, 탭 은 JavaScript를 꺼도 작동함..."
     },
     {
-      "title": "세계 최대 브랜드들, Optimizely를 통해 악성코드에 감염",
-      "link": "https://news.hada.io/topic?id=37319",
-      "date": "2026-11-17 09:39",
-      "summary": "웹사이트 A/B 테스트 플랫폼 Optimizely Web 을 통해 BBC, Zoom, CNN, Salesforce, GitLab 등 178개 조직의 사이트 방문자에게 악성 JavaScript 가 배..."
+      "title": "Show GN: Lightcap - 가볍고 빠른 맥용 화면 녹화/스크린샷 앱",
+      "link": "https://news.hada.io/topic?id=37384",
+      "date": "2026-11-18 10:31",
+      "summary": "맥에서 쓰는 가볍고 빠른 화면 녹화/스크린샷 앱입니다. 원래 CleanShot X랑 맥 기본 캡쳐를 썼는데, 앱이 무거워서 그런지 캡쳐도 녹화도 단축키를 눌렀는데 바로바로 실행이 안되더라구요.. 하..."
     },
     {
-      "title": "United Airlines, 광범위한 시스템 장애 발생했다고 밝혀",
-      "link": "https://news.hada.io/topic?id=37318",
-      "date": "2026-11-17 09:36",
-      "summary": "United Airlines 에서 월요일 약 30분간 시스템 장애가 발생해 미국 공항의 일부 출발편이 지연됐으며, 항공사는 이후 복구를 발표함 영향을 받은 항공편은 150편 미만 이며, 이미 비행..."
+      "title": "Show GN: 깎깎 - 칼로 연필을 깎고 그 끝으로 그려 보는 3D iOS 게임",
+      "link": "https://news.hada.io/topic?id=37383",
+      "date": "2026-11-18 09:59",
+      "summary": "바이스에 물린 연필을 휠로 돌려 가며 칼로 한 겹씩 깎고, 다 깎은 끝으로 종이에 선을 그어 보는 게임입니다. 오늘 App Store 심사를 통과했고 Android(Google Play)에도 있습니..."
     },
     {
-      "title": "AVA - AI 에이전트용 데이터 분석 및 시각화 프레임워크",
-      "link": "https://news.hada.io/topic?id=37317",
-      "date": "2026-11-17 09:30",
-      "summary": "앱이나 AI 에이전트에 자연어로 데이터를 분석하고 차트를 만드는 기능 을 붙이는 JavaScript 프레임워크 “1월과 2월 매출을 제품별로 비교해 줘”라고 물으면 SQL을 생성해 실행하고, 결과..."
+      "title": "“X는 죽었다”는 말은 죽었다",
+      "link": "https://news.hada.io/topic?id=37382",
+      "date": "2026-11-18 09:40",
+      "summary": "Figma와 디자인 시스템은 여전히 쓰이지만, 팀 전체가 같은 도구와 순서로 일하던 방식 은 사라지고 있음. 디자이너마다 스케치, 구현, 리뷰에 서로 다른 도구를 조합함 도구 분산의 더 큰 동력은..."
     },
     {
-      "title": "AI 슬롭은 왜 이렇게 읽기 짜증날까?",
-      "link": "https://news.hada.io/topic?id=37316",
-      "date": "2026-11-17 09:20",
-      "summary": "AI 슬롭이 읽기 괴로운 이유는 불명확한 글쓰기 에 있음. 단어를 다 알아도 누가 무엇을 했는지, 요점이 무엇인지 다시 짚어야 하는 문장 이 자주 나옴 업무에서는 이런 글이 Slack 메시지나 PR..."
+      "title": "Quad9의 프랑스 철수: 탄광 속 카나리아가 보내는 경고",
+      "link": "https://news.hada.io/topic?id=37381",
+      "date": "2026-11-18 09:33",
+      "summary": "스위스 비영리 재단 Quad9 이 저작권 침해 의심 도메인 미차단에 일일 금전 제재를 부과하는 프랑스 법원 결정 이후, 무료 공용 DNS 리졸버의 프랑스 철수를 발표함 Cloudflare는 공용 D..."
     },
     {
-      "title": "GitHub에서 Codeberg로 이전하기",
-      "link": "https://news.hada.io/topic?id=37314",
-      "date": "2026-11-17 09:04",
-      "summary": "Inko와 개인 프로젝트 를 Codeberg로 이전하면서 70개 이상의 저장소를 검토함. GitHub 복귀 후 기여자는 다소 늘었지만, AI로 생성한 저품질 기여와 자유 소프트웨어 가치에 대한 우려..."
+      "title": "SaaS에서 바이럴 루프 구현하고 측정하기",
+      "link": "https://news.hada.io/topic?id=37380",
+      "date": "2026-11-18 09:31",
+      "summary": "바이럴 루프 는 기존 사용자가 제품을 사용하는 과정에서 신규 사용자를 유입시키는 구조로, 공유 결과물이나 협업 초대를 핵심 사용 흐름에 넣으면 지속적인 고객 확보 채널이 될 수 있음 구현 방식은 입..."
     }
   ]
 };
