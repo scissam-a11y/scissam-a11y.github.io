@@ -1,7 +1,19 @@
 window.NEWS_DATA = {
-  "updated": "2026-11-18 16:20",
+  "updated": "2026-11-19 16:18",
   "link": "https://miniwebapp.imbc.com/index?service=podcast&program=1000671100000100000",
   "episodes": [
+    {
+      "title": "[손경제] 11/19(목) 한한령 풀리나｜노조 지원비에 세금｜월세 카드결제",
+      "date": "2026-11-19 08:30",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261119.mp3",
+      "description": "[깊이 있는 경제뉴스]\n1) 한중 FTA 2단계 타결…한한령 해제될까?\n2) 노조 지원비가 접대비?…법인세 추징 논란\n3) 집주인 동의 없는 월세 카드결제…주의점은?\n-하수정 경제 전문 기자\n-김근희 머니투데이신문 기자\n-명지예 매일경제신문 기자"
+    },
+    {
+      "title": "[플러스] 11/18(수) 비트코인 폭락 (김세희 선임연구원) | 워렌버핏 포트폴리오 (이윤수 대표)",
+      "date": "2026-11-18 22:00",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261118.mp3",
+      "description": "1부\n트럼프 참패에 비트코인 대폭락\n- 김세희 선임연구원 (유진투자증권)\n\n2부\n투자 거장들, 반도체 팔았다\n- 이윤수 대표 (에릭의 거장연구소)"
+    },
     {
       "title": "[손경제] 11/18(수) 美, 대중 기술통제 강화｜애플 삼성 D램｜성장률 3.9% 전망",
       "date": "2026-11-18 08:30",
@@ -49,18 +61,6 @@ window.NEWS_DATA = {
       "date": "2026-11-14 00:00",
       "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/coffee_1115.mp3",
       "description": "커파타임 - 팀장님들 필청!"
-    },
-    {
-      "title": "[플러스] 11/13(금) 100년 묵은 인도 카스트 판도라의 상자 열린다 - 전명윤 편집장 (주간 인도 동향)",
-      "date": "2026-11-13 22:00",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261113.mp3",
-      "description": "1,2부\n100년 묵은 인도 카스트 판도라의 상자 열린다 \n- 전명윤 편집장 (주간 인도 동향)"
-    },
-    {
-      "title": "협찬인가 - 잘되는 무인카페엔 똑같은 비밀이 있다",
-      "date": "2026-11-13 21:30",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/sponsorship_cafein24.mp3",
-      "description": "카페인24"
     }
   ]
 };

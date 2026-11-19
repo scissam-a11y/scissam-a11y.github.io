@@ -1,96 +1,96 @@
 window.GEEKNEWS_DATA = {
-  "updated": "2026-11-18 16:20",
+  "updated": "2026-11-19 16:18",
   "link": "https://news.hada.io",
   "posts": [
     {
-      "title": "Show GN: 고객이 직접 문자를 보내는(MO) 방식의 휴대폰 번호 인증 API (웹 SDK 출시)",
-      "link": "https://news.hada.io/topic?id=37398",
-      "date": "2026-11-18 15:02",
-      "summary": "예전에 \"고객이 직접 문자를 보내는(MO) 방식의 휴대폰 인증 API\"로 소개했던 옥토모입니다. 그사이 QR 인증 과 웹 SDK 가 추가되어 다시 공유합니다. 현재 1,000개가 넘는 애플리케이션이..."
+      "title": "Gemini 4 Neon, Opus 5.5의 경쟁자가 될 것으로 보임",
+      "link": "https://news.hada.io/topic?id=37456",
+      "date": "2026-11-19 14:31",
+      "summary": "Gemini 4 Neon 이 Carbon과 같은 성능을 유지하면서 더 빠르게 응답한다고 가정한 분석에서, Agent Duel 예상 Elo가 1,066 으로 Opus 5.5의 1,078에 근접함 Ge..."
     },
     {
-      "title": "Show GN: Disposable - AI로 만든 작은 도구를 나누고 각자 에이전트로 다시 만드는 곳",
-      "link": "https://news.hada.io/topic?id=37396",
-      "date": "2026-11-18 14:46",
-      "summary": "AI로 만든 작은 도구를 나누는 사이트 Disposable을 만들어 혼자 운영하고 있습니다. 에이전트 덕분에 내 일에 딱 맞는 도구를 금방 만들 수 있게 됐지만, 그런 도구는 대개 쓰고 나면 버려지..."
+      "title": "SK텔레콤 누구 스마트홈, 2028년 말 전체 서비스 종료",
+      "link": "https://news.hada.io/topic?id=37454",
+      "date": "2026-11-19 13:04",
+      "summary": "SK텔레콤의 누구 스마트홈 서비스가 2026년 하반기 부터 영역별로 순차 종료되고, 2028년 12월 31일 에 전체 서비스가 종료될 예정임 개방형 플랫폼 기반으로 2015년 5월 부터 제공된 서비..."
     },
     {
-      "title": "USN-9131-1: CRaC JDK 25 vulnerabilities",
-      "link": "https://news.hada.io/topic?id=37395",
-      "date": "2026-11-18 14:43",
-      "summary": "Ubuntu Security Notices 의 USN-9131-1 글임. 게시일은 2026년 11월 17일이라고 함. CRaC JDK 25 에서 보안 문제 몇 건이 고쳐졌다고 함. 보안 수정 외에..."
+      "title": "Show HN: Voyager 1을 메모리 칩 하나까지 분해해 보기",
+      "link": "https://news.hada.io/topic?id=37453",
+      "date": "2026-11-19 12:32",
+      "summary": "Voyager 는 1977년 발사된 두 탐사선의 현재 위치를 살펴보고, Voyager 1을 메모리 칩 수준까지 분해해 볼 수 있는 체험임 태양계 보기와 탐사선 근접 보기 를 오가며 지구나 이름이 표..."
     },
     {
-      "title": "FOSS for All Conference 2026: 커뮤니티 주도 국내 오픈소스 컨퍼런스",
-      "link": "https://news.hada.io/topic?id=37394",
-      "date": "2026-11-18 14:12",
-      "summary": "FOSS for All Conference 2026 대한민국 인터넷의 아버지로 불리는 전길남 박사 (KAIST 명예교수)가 FOSS for All Conference 2026 기조연사로 나서 Por..."
+      "title": "PHP, Critical 등급 취약점 수정을 포함한 새로운 보안패치 예정(2026.11.19.)",
+      "link": "https://news.hada.io/topic?id=37452",
+      "date": "2026-11-19 11:51",
+      "summary": "이번 패치는 지원되는 모든 PHP 버전에 영향을 미치는 보안 취약점을 해결하며, 포함된 가장 높은 심각도의 취약점은 CRITICAL 등급. 목요일 23:00 ~ 23:30 (KST) 사이에 제공될..."
     },
     {
-      "title": "GitHub 저장소 페이지 리디자인 제안 (2019)",
-      "link": "https://news.hada.io/topic?id=37393",
-      "date": "2026-11-18 14:02",
-      "summary": "GitHub 저장소 페이지의 정보 구조와 화면 배치 개선안 으로, 중첩 탐색과 불필요한 장식을 줄이고 같은 화면에 더 많은 프로젝트 정보를 담는 데 초점을 맞춤 두 단계로 나뉜 탭을 단일 탐색 메뉴..."
+      "title": "Ask GN: 일별 집계 데이터가 나중에 바뀔 때, 자동화 리포트는 어떻게 관리하시나요?",
+      "link": "https://news.hada.io/topic?id=37451",
+      "date": "2026-11-19 11:50",
+      "summary": "매일 데이터를 수집해서 리포트를 자동으로 만들다 보면, 과거 집계값이 나중에 바뀌는 문제가 생각보다 까다로운 것 같아요. 예를 들어 주문 취소나 데이터 집계 지연 때문에 어제 확인한 주문 수와 며칠..."
     },
     {
-      "title": "Google의 AI 답변, 검색 유입을 40% 줄임",
-      "link": "https://news.hada.io/topic?id=37392",
-      "date": "2026-11-18 13:41",
-      "summary": "미국 데스크톱 사용자를 대상으로 한 무작위 실험 에서 Google AI Overviews가 표시되면 외부 웹사이트 클릭이 약 40% 감소 함. 아직 동료 심사를 거치지 않은 연구이며, 모바일은 포함..."
+      "title": "Show GN: AirStats - 24시간 기록을 보여주는 가벼운 오픈소스 맥 메뉴 막대 시스템 모니터",
+      "link": "https://news.hada.io/topic?id=37448",
+      "date": "2026-11-19 10:44",
+      "summary": "AirStats는 무료 오픈 소스(MIT) Mac 메뉴 막대 시스템 모니터 CPU, 메모리, GPU, 네트워크, 디스크, 배터리, 온도와 주요 프로세스를 메뉴 막대, 패널, 데스크톱 위젯에 표시 각..."
     },
     {
-      "title": "IRS 로그인에 요구되는 ID.me 약관 동의",
-      "link": "https://news.hada.io/topic?id=37391",
-      "date": "2026-11-18 13:38",
-      "summary": "IRS 온라인 서비스에 ID.me로 로그인하는 납세자 는 민간 업체인 ID.me의 약관을 적용받음. 다만 IRS는 정부가 운영하는 Login.gov 로그인도 지원함 ID.me 약관은 소액사건을 제외..."
+      "title": "Show HN: ExitPath - Slack, Notion, Microsoft 365에서 벗어나는 오픈소스 대안",
+      "link": "https://news.hada.io/topic?id=37447",
+      "date": "2026-11-19 10:37",
+      "summary": "ExitPath 는 대형 플랫폼을 대체할 오픈소스 도구와 이전 난이도를 모아 보여주는 서비스임 문서, 파일 공유, 이메일, 팀 채팅, 개발 도구 등 16개 도구에 대한 대안 30개와 이전 경로 45..."
     },
     {
-      "title": "GitHub에서 사라진 마이크로소프트의 ONNX Runtime",
-      "link": "https://news.hada.io/topic?id=37390",
-      "date": "2026-11-18 12:30",
-      "summary": "GitHub에서 사라진 마이크로소프트의 ONNX Runtime"
+      "title": "우리에겐 진심으로 신경 쓰는 똑똑한 사람들이 필요하다",
+      "link": "https://news.hada.io/topic?id=37446",
+      "date": "2026-11-19 10:34",
+      "summary": "복잡하고 취약한 시스템을 실제로 지탱하는 것은 시스템을 깊이 이해하고 끝까지 신경 쓰는 사람들 임 오래되고 결함이 많은 ACH 가 실무에서는 안전하고 저렴하며 신뢰할 만한 시스템으로 통하는 데에는,..."
     },
     {
-      "title": "이스라엘 대 Wikipedia",
-      "link": "https://news.hada.io/topic?id=37388",
-      "date": "2026-11-18 11:32",
-      "summary": "Tech for Palestine(T4P) 이 2001년 이후 Wikipedia를 친이스라엘 방향으로 조작하려 한 활동 17건을 정리한 보고서를 공개함. 공개 자료를 토대로 이 가운데 최소 9건이..."
+      "title": "NoisyTCP CVE-2026-99288: Linux 관리자가 알아야 할 사항",
+      "link": "https://news.hada.io/topic?id=37445",
+      "date": "2026-11-19 10:12",
+      "summary": "CVE-2026-99288로 추적되는 이 11년 된 Linux 커널 결함으로 인해 인증되지 않은 공격자가 Nginx, Apache 또는 일반 SSH에서 조작된 TCP 패킷을 보내는 것만으로도 Lin..."
     },
     {
-      "title": "Show HN: Alloy CSS, JavaScript를 꺼도 작동하는 대화상자, 메뉴, 탭",
-      "link": "https://news.hada.io/topic?id=37385",
-      "date": "2026-11-18 10:32",
-      "summary": "Alloy CSS 로 만든 가상의 청구서 관리 앱 Ledger 예제이며, 단일 HTML 파일로 구성되고 JavaScript를 사용하지 않음 대화상자, 메뉴, 탭 은 JavaScript를 꺼도 작동함..."
+      "title": "Java4Shell: Java 17의 인증 전 원격 코드 실행 취약점으로 서버 위험 노출(CVE-2026-114938)",
+      "link": "https://news.hada.io/topic?id=37442",
+      "date": "2026-11-19 09:37",
+      "summary": "Java4Shell 은 OpenJDK의 Base64 디코더에서 발생하는 메모리 손상 취약점으로, 공격자가 제어하는 데이터를 디코딩하는 애플리케이션에서 인증 없이도 원격 코드 실행으로 이어질 수 있음..."
     },
     {
-      "title": "Show GN: Lightcap - 가볍고 빠른 맥용 화면 녹화/스크린샷 앱",
-      "link": "https://news.hada.io/topic?id=37384",
-      "date": "2026-11-18 10:31",
-      "summary": "맥에서 쓰는 가볍고 빠른 화면 녹화/스크린샷 앱입니다. 원래 CleanShot X랑 맥 기본 캡쳐를 썼는데, 앱이 무거워서 그런지 캡쳐도 녹화도 단축키를 눌렀는데 바로바로 실행이 안되더라구요.. 하..."
+      "title": "OpenAI 모델로 칩 설계 발전시키기",
+      "link": "https://news.hada.io/topic?id=37441",
+      "date": "2026-11-19 09:34",
+      "summary": "OpenAI는 AI 모델을 활용해 자체 추론 칩 Jalapeño 와 AMD 칩의 회로를 개선했으며, 실제 제품 설계에서 전력/성능/면적(PPA) 개선 을 확인함 Jalapeño에서는 모델이 제안한..."
     },
     {
-      "title": "Show GN: 깎깎 - 칼로 연필을 깎고 그 끝으로 그려 보는 3D iOS 게임",
-      "link": "https://news.hada.io/topic?id=37383",
-      "date": "2026-11-18 09:59",
-      "summary": "바이스에 물린 연필을 휠로 돌려 가며 칼로 한 겹씩 깎고, 다 깎은 끝으로 종이에 선을 그어 보는 게임입니다. 오늘 App Store 심사를 통과했고 Android(Google Play)에도 있습니..."
+      "title": "Reticle - AI 코딩 에이전트가 웹/데스크톱 앱을 직접 조작해 검증하는 도구",
+      "link": "https://news.hada.io/topic?id=37440",
+      "date": "2026-11-19 09:30",
+      "summary": "코딩 에이전트가 기능을 수정한 뒤 실제 앱에서 버튼을 누르고 값을 입력해 로그인이나 결제가 의도대로 동작하는지 확인 클릭에 이어 발생한 API 요청과 응답, 콘솔 오류, 화면 변화, 등록한 앱 상태..."
     },
     {
-      "title": "“X는 죽었다”는 말은 죽었다",
-      "link": "https://news.hada.io/topic?id=37382",
-      "date": "2026-11-18 09:40",
-      "summary": "Figma와 디자인 시스템은 여전히 쓰이지만, 팀 전체가 같은 도구와 순서로 일하던 방식 은 사라지고 있음. 디자이너마다 스케치, 구현, 리뷰에 서로 다른 도구를 조합함 도구 분산의 더 큰 동력은..."
+      "title": "nginx2root - nginx 원격 코드 실행 취약점 5개와 Linux 커널 권한 상승 취약점",
+      "link": "https://news.hada.io/topic?id=37438",
+      "date": "2026-11-19 09:08",
+      "summary": "Xint가 서로 다른 설정에 영향을 주는 nginx 비인증 원격 코드 실행 취약점 5개 와 별도의 Linux SCTP 취약점을 발견함. nginx 취약점은 각각 독립적으로 워커 권한의 명령 실행으로..."
     },
     {
-      "title": "Quad9의 프랑스 철수: 탄광 속 카나리아가 보내는 경고",
-      "link": "https://news.hada.io/topic?id=37381",
-      "date": "2026-11-18 09:33",
-      "summary": "스위스 비영리 재단 Quad9 이 저작권 침해 의심 도메인 미차단에 일일 금전 제재를 부과하는 프랑스 법원 결정 이후, 무료 공용 DNS 리졸버의 프랑스 철수를 발표함 Cloudflare는 공용 D..."
+      "title": "Codeberg 도메인이 계정에서 갑자기 사라져 사이트 접속 불가",
+      "link": "https://news.hada.io/topic?id=37437",
+      "date": "2026-11-19 09:05",
+      "summary": "codeberg.org 가 아직 원인이 확인되지 않은 도메인 문제로 접속 불가 상태가 됨 도메인은 만료되거나 이전되지 않았는데도 Codeberg 계정에서 완전히 사라짐 Codeberg는 이와 관련한..."
     },
     {
-      "title": "SaaS에서 바이럴 루프 구현하고 측정하기",
-      "link": "https://news.hada.io/topic?id=37380",
-      "date": "2026-11-18 09:31",
-      "summary": "바이럴 루프 는 기존 사용자가 제품을 사용하는 과정에서 신규 사용자를 유입시키는 구조로, 공유 결과물이나 협업 초대를 핵심 사용 흐름에 넣으면 지속적인 고객 확보 채널이 될 수 있음 구현 방식은 입..."
+      "title": "Claude는 대규모 단백질 서열로 학습됐다",
+      "link": "https://news.hada.io/topic?id=37436",
+      "date": "2026-11-19 08:34",
+      "summary": "연구가 거의 없는 단백질의 다음 아미노산을 예측하는 실험에서, 비교한 LLM 중 최신 Claude 모델만 뚜렷한 서열 예측 능력 을 보임. 이는 상당한 규모의 단백질 서열 학습을 뒷받침하는 근거임..."
     }
   ]
 };
