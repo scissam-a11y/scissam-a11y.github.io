@@ -1,96 +1,96 @@
 window.GEEKNEWS_DATA = {
-  "updated": "2026-11-19 16:18",
+  "updated": "2026-11-20 16:07",
   "link": "https://news.hada.io",
   "posts": [
     {
-      "title": "Gemini 4 Neon, Opus 5.5의 경쟁자가 될 것으로 보임",
-      "link": "https://news.hada.io/topic?id=37456",
-      "date": "2026-11-19 14:31",
-      "summary": "Gemini 4 Neon 이 Carbon과 같은 성능을 유지하면서 더 빠르게 응답한다고 가정한 분석에서, Agent Duel 예상 Elo가 1,066 으로 Opus 5.5의 1,078에 근접함 Ge..."
+      "title": "Visa, Mastercard, JPMorgan 고객 데이터, 해커에 의해 유출",
+      "link": "https://news.hada.io/topic?id=37508",
+      "date": "2026-11-20 15:32",
+      "summary": "랜섬웨어 그룹 이 Visa, Mastercard, JPMorgan Chase 고객 수천 명의 데이터를 목요일에 유출함 해커들은 제3자 업체 에 접근해 고객 정보를 노출함 해당 기업들에 따르면 이번..."
     },
     {
-      "title": "SK텔레콤 누구 스마트홈, 2028년 말 전체 서비스 종료",
-      "link": "https://news.hada.io/topic?id=37454",
-      "date": "2026-11-19 13:04",
-      "summary": "SK텔레콤의 누구 스마트홈 서비스가 2026년 하반기 부터 영역별로 순차 종료되고, 2028년 12월 31일 에 전체 서비스가 종료될 예정임 개방형 플랫폼 기반으로 2015년 5월 부터 제공된 서비..."
+      "title": "중력을 이용한 차단 불가능한 통신",
+      "link": "https://news.hada.io/topic?id=37507",
+      "date": "2026-11-20 14:33",
+      "summary": "엘리베이터 평형추를 움직여 만든 중력장 변화 로 벽돌벽 너머 약 0.7m 떨어진 수신기에 메시지를 전송했으며, 전송 속도는 분당 1비트 였음 전파되는 중력파가 아니라 준정적 뉴턴 중력장 에 이진 정..."
     },
     {
-      "title": "Show HN: Voyager 1을 메모리 칩 하나까지 분해해 보기",
-      "link": "https://news.hada.io/topic?id=37453",
-      "date": "2026-11-19 12:32",
-      "summary": "Voyager 는 1977년 발사된 두 탐사선의 현재 위치를 살펴보고, Voyager 1을 메모리 칩 수준까지 분해해 볼 수 있는 체험임 태양계 보기와 탐사선 근접 보기 를 오가며 지구나 이름이 표..."
+      "title": "Show GN: Namoo - 부모님의 이야기를 AI 인터뷰로 기록해 이북과 오디오북으로 만들어 주는 앱",
+      "link": "https://news.hada.io/topic?id=37506",
+      "date": "2026-11-20 13:15",
+      "summary": "부모님의 이야기를 좀 더 체계적으로 기록하기 위해 Namoo를 만들었습니다. 유명인들은 대필 작가를 고용하거나 엄청난 시간을 할애해서 자신의 과거를 기록해두곤 합니다. 우리가 직접 부모님과 대화를..."
     },
     {
-      "title": "PHP, Critical 등급 취약점 수정을 포함한 새로운 보안패치 예정(2026.11.19.)",
-      "link": "https://news.hada.io/topic?id=37452",
-      "date": "2026-11-19 11:51",
-      "summary": "이번 패치는 지원되는 모든 PHP 버전에 영향을 미치는 보안 취약점을 해결하며, 포함된 가장 높은 심각도의 취약점은 CRITICAL 등급. 목요일 23:00 ~ 23:30 (KST) 사이에 제공될..."
+      "title": "Gemini 4 Neon, Models Engineering Index의 새로운 1위에 오름",
+      "link": "https://news.hada.io/topic?id=37505",
+      "date": "2026-11-20 12:31",
+      "summary": "언어 모델의 엔지니어링 작업 실전 성능 을 평가하는 Models Engineering Index(Mei)에서 Google의 Gemini 4 Neon 이 68.0점으로 1위를 기록함 Anthropic..."
     },
     {
-      "title": "Ask GN: 일별 집계 데이터가 나중에 바뀔 때, 자동화 리포트는 어떻게 관리하시나요?",
-      "link": "https://news.hada.io/topic?id=37451",
-      "date": "2026-11-19 11:50",
-      "summary": "매일 데이터를 수집해서 리포트를 자동으로 만들다 보면, 과거 집계값이 나중에 바뀌는 문제가 생각보다 까다로운 것 같아요. 예를 들어 주문 취소나 데이터 집계 지연 때문에 어제 확인한 주문 수와 며칠..."
+      "title": "소프트웨어 기업들은 가정용 컴퓨팅을 없애려 하는가?",
+      "link": "https://news.hada.io/topic?id=37504",
+      "date": "2026-11-20 11:35",
+      "summary": "한 번 구매한 프로그램을 내 컴퓨터에서 계속 쓰려는 사용자와, 매달 사용료를 받으려는 기업의 이해관계가 충돌함. 구독과 클라우드 전환이 프로그램과 데이터를 직접 통제하는 개인용 컴퓨팅을 약화시킴 S..."
     },
     {
-      "title": "Show GN: AirStats - 24시간 기록을 보여주는 가벼운 오픈소스 맥 메뉴 막대 시스템 모니터",
-      "link": "https://news.hada.io/topic?id=37448",
-      "date": "2026-11-19 10:44",
-      "summary": "AirStats는 무료 오픈 소스(MIT) Mac 메뉴 막대 시스템 모니터 CPU, 메모리, GPU, 네트워크, 디스크, 배터리, 온도와 주요 프로세스를 메뉴 막대, 패널, 데스크톱 위젯에 표시 각..."
+      "title": "Show GN: 법원 경매 예상 낙찰가 - 다음 매각기일 물건을 말로 찾고 지도로 보는 무료 사이트",
+      "link": "https://news.hada.io/topic?id=37502",
+      "date": "2026-11-20 10:22",
+      "summary": "법원경매정보에 공고된 다음 매각기일 물건(지금 8천여 건)을 매일 모아, 지난 낙찰 결과로 학습한 모델이 물건마다 예상 낙찰가와 범위를 붙여 보여 주는 사이트입니다. 베타 기간이라 무료이고, 가입..."
     },
     {
-      "title": "Show HN: ExitPath - Slack, Notion, Microsoft 365에서 벗어나는 오픈소스 대안",
-      "link": "https://news.hada.io/topic?id=37447",
-      "date": "2026-11-19 10:37",
-      "summary": "ExitPath 는 대형 플랫폼을 대체할 오픈소스 도구와 이전 난이도를 모아 보여주는 서비스임 문서, 파일 공유, 이메일, 팀 채팅, 개발 도구 등 16개 도구에 대한 대안 30개와 이전 경로 45..."
+      "title": "Show GN: OneHandy - 회원가입 없이 브라우저에서 쓰는 무료 웹 도구 123종 (계산기·변환기·텍스트·이미지)",
+      "link": "https://news.hada.io/topic?id=37499",
+      "date": "2026-11-20 09:59",
+      "summary": "직접 만들고 있는 무료 웹 도구 모음입니다. 설치도 회원가입도 없이 바로 열어서 쓸 수 있습니다. 도구 123종: 텍스트 변환, 개발자 유틸리티, 디자인·색상, 생산성, 이미지, SEO 도구, 그리..."
     },
     {
-      "title": "우리에겐 진심으로 신경 쓰는 똑똑한 사람들이 필요하다",
-      "link": "https://news.hada.io/topic?id=37446",
-      "date": "2026-11-19 10:34",
-      "summary": "복잡하고 취약한 시스템을 실제로 지탱하는 것은 시스템을 깊이 이해하고 끝까지 신경 쓰는 사람들 임 오래되고 결함이 많은 ACH 가 실무에서는 안전하고 저렴하며 신뢰할 만한 시스템으로 통하는 데에는,..."
+      "title": "98% 슬롯머신: 유료 광고는 어떻게 착취적 세금이 되었나",
+      "link": "https://news.hada.io/topic?id=37498",
+      "date": "2026-11-20 09:37",
+      "summary": "유료 광고는 손익분기점에 조금 못 미치는 수익 으로 창업자가 광고비를 계속 투입하게 만드는 슬롯머신과 같다는 비판을 받음 광고 대시보드는 순손실보다 노출, 클릭률, 클릭당 비용의 개선 을 부각하고,..."
     },
     {
-      "title": "NoisyTCP CVE-2026-99288: Linux 관리자가 알아야 할 사항",
-      "link": "https://news.hada.io/topic?id=37445",
-      "date": "2026-11-19 10:12",
-      "summary": "CVE-2026-99288로 추적되는 이 11년 된 Linux 커널 결함으로 인해 인증되지 않은 공격자가 Nginx, Apache 또는 일반 SSH에서 조작된 TCP 패킷을 보내는 것만으로도 Lin..."
+      "title": "Show HN: Cornhole News - Hacker News에서 영감을 받은 미국 중서부 뉴스 사이트",
+      "link": "https://news.hada.io/topic?id=37497",
+      "date": "2026-11-20 09:34",
+      "summary": "Cornhole News 는 미국 중서부 전역의 뉴스를 모아 보여주는 Hacker News 스타일의 사이트임 뉴스 목록은 외부 기사 링크 로 구성되며, 각 항목에 투표 화살표와 점수, 댓글 수가 표..."
     },
     {
-      "title": "Java4Shell: Java 17의 인증 전 원격 코드 실행 취약점으로 서버 위험 노출(CVE-2026-114938)",
-      "link": "https://news.hada.io/topic?id=37442",
-      "date": "2026-11-19 09:37",
-      "summary": "Java4Shell 은 OpenJDK의 Base64 디코더에서 발생하는 메모리 손상 취약점으로, 공격자가 제어하는 데이터를 디코딩하는 애플리케이션에서 인증 없이도 원격 코드 실행으로 이어질 수 있음..."
+      "title": "Kiri - 무료 ngrok 대안을 내장한 경량 Docker Desktop 대체재",
+      "link": "https://news.hada.io/topic?id=37496",
+      "date": "2026-11-20 09:30",
+      "summary": "기존 Docker 이미지와 명령을 그대로 사용 하는 컨테이너 런타임으로, 맥/윈도우/리눅스에서 실행 docker CLI, Compose, buildx와 Docker Engine API를 지원 해 기..."
     },
     {
-      "title": "OpenAI 모델로 칩 설계 발전시키기",
-      "link": "https://news.hada.io/topic?id=37441",
-      "date": "2026-11-19 09:34",
-      "summary": "OpenAI는 AI 모델을 활용해 자체 추론 칩 Jalapeño 와 AMD 칩의 회로를 개선했으며, 실제 제품 설계에서 전력/성능/면적(PPA) 개선 을 확인함 Jalapeño에서는 모델이 제안한..."
+      "title": "이해 가능성을 위한 설계",
+      "link": "https://news.hada.io/topic?id=37494",
+      "date": "2026-11-20 09:04",
+      "summary": "LLM이 코드를 더 많이 작성할수록 개발자의 핵심 책임은 코드 품질 판단 과 검토에 있음. 생성된 코드를 이해하지 못하면 LLM은 복잡성을 빠르게 늘리는 도구에 그칠 수 있음 계약에 의한 설계 ,..."
     },
     {
-      "title": "Reticle - AI 코딩 에이전트가 웹/데스크톱 앱을 직접 조작해 검증하는 도구",
-      "link": "https://news.hada.io/topic?id=37440",
-      "date": "2026-11-19 09:30",
-      "summary": "코딩 에이전트가 기능을 수정한 뒤 실제 앱에서 버튼을 누르고 값을 입력해 로그인이나 결제가 의도대로 동작하는지 확인 클릭에 이어 발생한 API 요청과 응답, 콘솔 오류, 화면 변화, 등록한 앱 상태..."
+      "title": "x86 CPU: 4004에서 486까지",
+      "link": "https://news.hada.io/topic?id=37493",
+      "date": "2026-11-20 08:35",
+      "summary": "x86의 독특한 레지스터와 주소 지정 방식은 일관된 설계의 결과라기보다, 세대마다 기존 소프트웨어 호환성 과 현실적 제약에 대응하며 누적된 결과임 리틀 엔디언과 패리티 플래그 는 Intel이 아닌..."
     },
     {
-      "title": "nginx2root - nginx 원격 코드 실행 취약점 5개와 Linux 커널 권한 상승 취약점",
-      "link": "https://news.hada.io/topic?id=37438",
-      "date": "2026-11-19 09:08",
-      "summary": "Xint가 서로 다른 설정에 영향을 주는 nginx 비인증 원격 코드 실행 취약점 5개 와 별도의 Linux SCTP 취약점을 발견함. nginx 취약점은 각각 독립적으로 워커 권한의 명령 실행으로..."
+      "title": "브라우저에서 실행하는 Unreal Tournament 2004",
+      "link": "https://news.hada.io/topic?id=37492",
+      "date": "2026-11-20 07:38",
+      "summary": "Unreal Tournament 2004 웹 포트 는 개인이 취미로 유지보수하는 프로젝트임 Epic Games 와 제휴 관계가 없으며, 공식 보증을 받은 프로젝트도 아님 브라우저 버전은 데스크톱 사..."
     },
     {
-      "title": "Codeberg 도메인이 계정에서 갑자기 사라져 사이트 접속 불가",
-      "link": "https://news.hada.io/topic?id=37437",
-      "date": "2026-11-19 09:05",
-      "summary": "codeberg.org 가 아직 원인이 확인되지 않은 도메인 문제로 접속 불가 상태가 됨 도메인은 만료되거나 이전되지 않았는데도 Codeberg 계정에서 완전히 사라짐 Codeberg는 이와 관련한..."
+      "title": "AI는 왜 로컬로 향하는가",
+      "link": "https://news.hada.io/topic?id=37491",
+      "date": "2026-11-20 07:35",
+      "summary": "문샤인 보이스 개발자 Pete Warden은 로컬 AI의 주요 장벽이 모델 품질보다 사용성 에 가까워졌다고 봄. 개방형 가중치 모델은 많은 작업에 충분한 수준에 도달했지만, 구독형 클라우드 서비스보..."
     },
     {
-      "title": "Claude는 대규모 단백질 서열로 학습됐다",
-      "link": "https://news.hada.io/topic?id=37436",
-      "date": "2026-11-19 08:34",
-      "summary": "연구가 거의 없는 단백질의 다음 아미노산을 예측하는 실험에서, 비교한 LLM 중 최신 Claude 모델만 뚜렷한 서열 예측 능력 을 보임. 이는 상당한 규모의 단백질 서열 학습을 뒷받침하는 근거임..."
+      "title": "브라우저에서 A4 한 장으로 접는 8페이지 소책자 만들기",
+      "link": "https://news.hada.io/topic?id=37490",
+      "date": "2026-11-20 06:42",
+      "summary": "fanzines.app 은 사진과 텍스트를 각 페이지에 정방향으로 배치하면, 인쇄 후 접을 수 있도록 페이지 순서와 방향을 조정한 300 DPI PDF 를 생성함 편집기를 실제 소책자의 펼침면 에..."
     }
   ]
 };

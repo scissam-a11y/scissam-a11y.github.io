@@ -1,7 +1,19 @@
 window.NEWS_DATA = {
-  "updated": "2026-11-19 16:18",
+  "updated": "2026-11-20 16:06",
   "link": "https://miniwebapp.imbc.com/index?service=podcast&program=1000671100000100000",
   "episodes": [
+    {
+      "title": "[손경제] 11/20(금) 앤트로픽 IPO｜개미들 -563조｜원화 강세에 생활비 절감｜제지업계 적자",
+      "date": "2026-11-20 08:30",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261120.mp3",
+      "description": "[깊이 있는 경제뉴스]\n1) ‘사상 최대 IPO’ 앤트로픽에 143조원 몰렸다\n2) 코스피 급락에 개미들 손실 563조 추정\n3) 원화 강세에 생활비 절감…저소득층 혜택 더 크다\n4) 원재료값 오르고 종잇값 하락…제지업계 적자\n-정지서 연합인포맥스 기자\n-이재연 한겨레신문 기자\n-라예진 이코노미스트 기자"
+    },
+    {
+      "title": "[플러스] 11/19(목) 반도체 산업이 바꾸는 부동산 지도 - 김시덕 박사 (도시문헌학자)",
+      "date": "2026-11-19 22:05",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261119.mp3",
+      "description": "1,2부\n동탄 용인 뜨는 이유\n반도체 따라 집값도 간다\n- 김시덕 박사 (도시문헌학자)"
+    },
     {
       "title": "[손경제] 11/19(목) 한한령 풀리나｜노조 지원비에 세금｜월세 카드결제",
       "date": "2026-11-19 08:30",
@@ -49,18 +61,6 @@ window.NEWS_DATA = {
       "date": "2026-11-15 22:00",
       "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261115.mp3",
       "description": "1,2부\n미국 중간선거 이후 중국 증시가 급등한 이유 \n- 박수현 팀장 (KB증권 아시아시장팀)"
-    },
-    {
-      "title": "[플러스] 11/14(토) 우리나라가 망하지 않은 건 IMF 덕분입니다 - 박정호 명지대 교수",
-      "date": "2026-11-14 22:00",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261114.mp3",
-      "description": "1,2부\n우리나라가 망하지 않은 건 IMF 덕분입니다 \n- 박정호 명지대 교수"
-    },
-    {
-      "title": "커파타임 - 팀장님들 필청!",
-      "date": "2026-11-14 00:00",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/coffee_1115.mp3",
-      "description": "커파타임 - 팀장님들 필청!"
     }
   ]
 };
