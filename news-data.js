@@ -1,7 +1,19 @@
 window.NEWS_DATA = {
-  "updated": "2026-11-20 16:06",
+  "updated": "2026-11-21 15:59",
   "link": "https://miniwebapp.imbc.com/index?service=podcast&program=1000671100000100000",
   "episodes": [
+    {
+      "title": "커피타임 - 어쩌다 쌍화차 타임",
+      "date": "2026-11-21 00:00",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/coffee_1120.mp3",
+      "description": "커피타임 - 어쩌다 쌍화차 타임"
+    },
+    {
+      "title": "[플러스] 11/20(금) 다음 사이클을 대비한 올겨울 투자전략 - 윤지호 경제평론가",
+      "date": "2026-11-20 22:00",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261120.mp3",
+      "description": "1, 2부\n다음 사이클을 대비한\n올겨울 투자전략\n- 윤지호 경제평론가\n"
+    },
     {
       "title": "[손경제] 11/20(금) 앤트로픽 IPO｜개미들 -563조｜원화 강세에 생활비 절감｜제지업계 적자",
       "date": "2026-11-20 08:30",
@@ -49,18 +61,6 @@ window.NEWS_DATA = {
       "date": "2026-11-16 22:00",
       "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261116.mp3",
       "description": "1부\n[텍코노미]\nAI 컨닝에 수능도 비상\n- 김덕진 소장 (IT커뮤니케이션 연구소)\n\n2부\n[글로벌 리포트]\n푸틴, 일본 담배회사 삼킨다\n- 이혜인 기자 (한국경제신문)\n"
-    },
-    {
-      "title": "[손경제] 11/16(월) 美 국채 금리｜일본 임대료 보증업체 한국 진출",
-      "date": "2026-11-16 08:30",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261116.mp3",
-      "description": "[깊이 있는 경제 뉴스]\n1) 美 생산자물가지수 4년 만에 최대 상승…한은, 금리 고심\n2) 日 임대료 보증업체 한국 진출…월세 보증금 낮아질까?\n-정지서 연합인포맥스 기자\n-김근희 머니투데이 기자\n\n[친절한 경제]\n선불과 후불을 가르는 기준이 뭔가요?\n-청취자 김현우 씨"
-    },
-    {
-      "title": "[플러스] 11/15(일) 미국 중간선거 이후 중국 증시가 급등한 이유 - 박수현 팀장 (KB증권 아시아시장팀)",
-      "date": "2026-11-15 22:00",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261115.mp3",
-      "description": "1,2부\n미국 중간선거 이후 중국 증시가 급등한 이유 \n- 박수현 팀장 (KB증권 아시아시장팀)"
     }
   ]
 };
