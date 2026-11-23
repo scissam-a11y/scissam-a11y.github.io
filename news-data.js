@@ -1,7 +1,19 @@
 window.NEWS_DATA = {
-  "updated": "2026-11-22 15:39",
+  "updated": "2026-11-23 16:29",
   "link": "https://miniwebapp.imbc.com/index?service=podcast&program=1000671100000100000",
   "episodes": [
+    {
+      "title": "[손경제] 11/23(월) 10조 증안펀드｜국산 전기차 세액공제｜트럼프 데이터센터 경고",
+      "date": "2026-11-23 08:30",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261123.mp3",
+      "description": "[깊이 있는 경제뉴스]\n1) 검은 월요일 우려에..정부, ‘증안펀드’ 투입 준비\n2) 中 공세에..전기차 ‘국내생산세액공제’ 확대 가닥\n3) 트럼프 \"해외 데이터센터에 세금 폭탄\"..파장은?\n-조미현 한국경제신문 기자\n-김근희 머니투데이신문 기자"
+    },
+    {
+      "title": "[플러스] 11/22(일) 눈부신 무기 수출 굶주린 북한 주민 - 임수호 책임연구위원 (국가안보전략연구원)",
+      "date": "2026-11-22 22:00",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261122.mp3",
+      "description": "1,2부\n눈부신 무기 수출 \n굶주린 북한 주민\n- 임수호 책임연구위원 (국가안보전략연구원)"
+    },
     {
       "title": " [플러스] 11/21(토) AI 컨닝 논란의 핵심은 전문직의 종말 - 박정호 명지대 교수",
       "date": "2026-11-21 22:00",
@@ -49,18 +61,6 @@ window.NEWS_DATA = {
       "date": "2026-11-18 08:30",
       "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261118.mp3",
       "description": "1) 美, 中 AI칩 ‘원격 우회로’ 봉쇄.. 5개국 수출 심사도\n2) D램 급한 애플, 삼성과 장기공급계약 초읽기\n3) IMF, 한국 성장률 3.9% 전망…금리 인상 권고\n-김치형 경제뉴스 큐레이터\n-이코노미스트 라예진 기자"
-    },
-    {
-      "title": "[플러스] 11/17(화) 미국이 GPS 끄면 한국 마비됩니다 - 김대관 본부장 (한국항공우주연구원)",
-      "date": "2026-11-17 22:00",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261117.mp3",
-      "description": "1,2부\n미국이 GPS 끄면 \n한국 마비됩니다\n- 김대관 본부장 (한국항공우주연구원)"
-    },
-    {
-      "title": "[손경제] 11/17(화) 젠슨 황 복귀론｜주가누르기방지법 딜레마｜명품 가격 인하",
-      "date": "2026-11-17 08:30",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261117.mp3",
-      "description": "[깊이 있는 경제 뉴스]\n1) 젠슨 황 복귀론 확산…엔비디아 다시 이끌까?\n2) 저PBR 기업 90% 수익성 부진…주가누르기방지법 딜레마\n3) 명품 가격도 내린다…소비자들 지갑 닫은 이유\n-김치형 경제뉴스 큐레이터\n-정지서 연합인포맥스 기자\n-이혜인 한국경제신문 기자"
     }
   ]
 };
