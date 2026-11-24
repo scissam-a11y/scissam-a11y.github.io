@@ -1,7 +1,19 @@
 window.NEWS_DATA = {
-  "updated": "2026-11-23 16:29",
+  "updated": "2026-11-24 18:48",
   "link": "https://miniwebapp.imbc.com/index?service=podcast&program=1000671100000100000",
   "episodes": [
+    {
+      "title": "[손경제] 11/24(화) 젠슨 황 복귀｜카카오 1.5조 국제중재｜반도체 고점론｜AI 부정행위 비용｜20261124(화)",
+      "date": "2026-11-24 08:30",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261124.mp3",
+      "description": "[깊이 있는 경제뉴스]\n1) 젠슨 황 엔비디아 복귀…주가 30% 폭등\n2) 카카오 1.5조 국제중재…중복상장 갈등 확산?\n3) 삼성전자·SK하이닉스 급락…반도체 고점론?\n4) AI 부정행위 막는 데 48억…검증 비용 누가 내나?\n-김치형 경제뉴스 큐레이터\n-정지서 연합인포맥스 기자\n-이혜인 한국경제신문 기자"
+    },
+    {
+      "title": "[플러스] 11/23(월) AI 시대 시험의 변화 (김덕진 소장) | 中 황당한 방생 | 캐나다 주택 공동구매 | 美 사형 집행 실패 논란 (이혜인 기자)",
+      "date": "2026-11-23 22:00",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261123.mp3",
+      "description": "1부\n[텍코노미]\nAI 시대 시험\n- 김덕진 소장 (IT커뮤니케이션 연구소)\n\n2부\n[글로벌 리포트]\n죽지 않은 사형수\n- 이혜인 기자 (한국경제신문)"
+    },
     {
       "title": "[손경제] 11/23(월) 10조 증안펀드｜국산 전기차 세액공제｜트럼프 데이터센터 경고",
       "date": "2026-11-23 08:30",
@@ -49,18 +61,6 @@ window.NEWS_DATA = {
       "date": "2026-11-19 08:30",
       "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261119.mp3",
       "description": "[깊이 있는 경제뉴스]\n1) 한중 FTA 2단계 타결…한한령 해제될까?\n2) 노조 지원비가 접대비?…법인세 추징 논란\n3) 집주인 동의 없는 월세 카드결제…주의점은?\n-하수정 경제 전문 기자\n-김근희 머니투데이신문 기자\n-명지예 매일경제신문 기자"
-    },
-    {
-      "title": "[플러스] 11/18(수) 비트코인 폭락 (김세희 선임연구원) | 워렌버핏 포트폴리오 (이윤수 대표)",
-      "date": "2026-11-18 22:00",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261118.mp3",
-      "description": "1부\n트럼프 참패에 비트코인 대폭락\n- 김세희 선임연구원 (유진투자증권)\n\n2부\n투자 거장들, 반도체 팔았다\n- 이윤수 대표 (에릭의 거장연구소)"
-    },
-    {
-      "title": "[손경제] 11/18(수) 美, 대중 기술통제 강화｜애플 삼성 D램｜성장률 3.9% 전망",
-      "date": "2026-11-18 08:30",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261118.mp3",
-      "description": "1) 美, 中 AI칩 ‘원격 우회로’ 봉쇄.. 5개국 수출 심사도\n2) D램 급한 애플, 삼성과 장기공급계약 초읽기\n3) IMF, 한국 성장률 3.9% 전망…금리 인상 권고\n-김치형 경제뉴스 큐레이터\n-이코노미스트 라예진 기자"
     }
   ]
 };

@@ -1,96 +1,96 @@
 window.GEEKNEWS_DATA = {
-  "updated": "2026-11-23 16:29",
+  "updated": "2026-11-24 18:48",
   "link": "https://news.hada.io",
   "posts": [
     {
-      "title": "XNU Linux: Linux에서 완전한 OS X GUI 사용자 공간 실행",
-      "link": "https://news.hada.io/topic?id=37700",
-      "date": "2026-11-23 15:32",
-      "summary": "xnulinux 는 Apple의 공개 소스로 빌드한 XNU를 수정하지 않은 arm64 Linux의 커널 모듈로 로드해, macOS 데스크톱과 앱을 실행함 XNU가 CPU와 MMU를 직접 제어 하며,..."
+      "title": "Show GN: Whaatcher - AI 에이전트 기반 W/F에 최적화된 새로운 지향점의 개발 도구",
+      "link": "https://news.hada.io/topic?id=37766",
+      "date": "2026-11-24 14:55",
+      "summary": "AI 에이전트에게 코드 작성을 대부분 맡기면서 IDE, Code Editor, Git, 코드 분석 도구 등의 기존 도구에 대한 아쉬움이 커졌습니다. 자연스럽게 코드 생산량이 많아지고, 여러 프로젝트..."
     },
     {
-      "title": "Show GN: 나라니 - 계약서를 읽고 상대에게 보낼 조건 제안을 준비하는 도구",
-      "link": "https://news.hada.io/topic?id=37699",
-      "date": "2026-11-23 15:22",
-      "summary": "외주 계약서에 ‘검수 완료 후 잔금 지급’이라고 적혀 있는데 검수를 언제까지 끝내는지는 빠져 있습니다. 계약서를 처음부터 읽으며 이런 부분을 하나씩 찾아내기도 번거롭습니다. 막상 찾아도 먼저 꺼냈다..."
+      "title": "뉴욕주, 지속 비용 없는 자동차 내장 기능의 구독료와 구매 후 추가 요금 금지",
+      "link": "https://news.hada.io/topic?id=37765",
+      "date": "2026-11-24 14:36",
+      "summary": "Kathy Hochul 뉴욕주지사가 지속적인 비용이 발생하지 않는 차량 내장 기능 에 구독료나 구매 후 추가 요금을 부과하지 못하도록 하는 법안에 서명함 S.9348A/A.10411A 는 사전 설치..."
     },
     {
-      "title": "GitHub Actions는 유효하지 않은 YAML도 허용함",
-      "link": "https://news.hada.io/topic?id=37696",
-      "date": "2026-11-23 15:01",
-      "summary": "GitHub Actions 가 여러 유효하지 않은 YAML 구문을 허용해, 일부 실제 액션과 워크플로 정의는 표준을 준수하는 YAML 파서로 파싱할 수 없음 여러 줄 작은따옴표 문자열 에서 닫는 줄..."
+      "title": "뉴욕주, 자동차 구독료와 구매 후 추가 요금 금지",
+      "link": "https://news.hada.io/topic?id=37764",
+      "date": "2026-11-24 14:33",
+      "summary": "뉴욕주가 자동차에 이미 설치된 기능 을 잠가 놓고 이용료나 구독료를 추가로 받는 행위를 금지하는 법안을 발표함 규제 대상은 자동차 제조사, 판매점, 제3자 서비스 제공업체 이며, 소비자의 추가 비용..."
     },
     {
-      "title": "Show GN: 오분만 - 약속 시간에서 거꾸로 계산해 깨워 주는 알람 앱",
-      "link": "https://news.hada.io/topic?id=37695",
-      "date": "2026-11-23 14:39",
-      "summary": "약속 시각, 도착지, 이동수단을 넣으면 가는 시간과 준비 시간을 거꾸로 계산해 알람을 맞추는 iOS, Android 앱을 만들었습니다. 길찾기로 이동 시간을 재고, 머리 말리기나 화장 같은 준비 항..."
+      "title": "Show GN: Synology Markdown Note - Synology Note Station용 Markdown 편집기",
+      "link": "https://news.hada.io/topic?id=37757",
+      "date": "2026-11-24 12:50",
+      "summary": "Synology NAS의 Note Station에 쌓아 둔 노트를 Markdown으로 작성하고 관리할 수 있도록 Synology Markdown Note를 만들었습니다. 기존 책장과 메모장을 그대로..."
     },
     {
-      "title": "쓸모없는 지식의 유용성 [pdf] (1939)",
-      "link": "https://news.hada.io/topic?id=37694",
-      "date": "2026-11-23 14:34",
-      "summary": "호기심에서 출발한 탐구 는 당장의 용도를 겨냥하지 않아도 예상치 못한 실용적 성과로 이어질 수 있으며, 교육기관은 즉각적인 응용 가능성보다 자유로운 탐구를 장려해야 함 무선통신의 토대가 된 Maxw..."
+      "title": "Bored.com: 심심할 때 둘러볼 재미있고 흥미로운 웹사이트 모음",
+      "link": "https://news.hada.io/topic?id=37755",
+      "date": "2026-11-24 12:32",
+      "summary": "Bored.com 은 브라우저 게임, 인터랙티브 장난감, 퀴즈, 창작 도구와 탐색용 웹사이트를 주제별로 모아 둔 디렉터리임 게임 은 5분 정도 즐기는 미니 게임부터 RPG, 전략, 퍼즐, 방 탈출까..."
     },
     {
-      "title": "Show GN: HMAC Picker - HMAC기법과 SHA256방식 점수 해시화로 투명한 추첨과 누구나 검증이 가능한 추첨 도구",
-      "link": "https://news.hada.io/topic?id=37693",
-      "date": "2026-11-23 14:27",
-      "summary": "HMAC + SHA256으로 해시화된 점수를 산출해내어 순위를 매겨 당첨자를 선정하는 기술을 접목한 프로젝트입니다. 보통의 경우에는 단순 랜덤함수를 사용하는 경우가 있는데 이러면 예측이 가능하다는..."
+      "title": "Show GN: CRAMA FILE – 파일을 서버에 안 올리는 무료 PDF·이미지 도구 21종",
+      "link": "https://news.hada.io/topic?id=37753",
+      "date": "2026-11-24 11:56",
+      "summary": "PDF 합치기, 용량 줄이기, JPG→PDF, HEIC→JPG 같은 일을 하려고 변환 사이트에 들어가면, 회사 서류나 신분증 사본을 남의 서버에 올리는 게 늘 찜찜했습니다. 몇 번 쓰면 유료로 바뀌..."
     },
     {
-      "title": "사람들이 내 블로그 글에 관심 없다고 가정하라",
-      "link": "https://news.hada.io/topic?id=37692",
-      "date": "2026-11-23 13:38",
-      "summary": "다른 사람을 위한 글이라면 누구를 대상으로 하는지 먼저 밝혀 , 독자가 계속 읽을지 판단할 수 있게 해야 함 Snowflake에서는 이메일 첫 문장에 읽지 않아도 되는 조건 을 알리는 관행이 있었음..."
+      "title": "GPUI가 독립 저장소를 갖게 됨",
+      "link": "https://news.hada.io/topic?id=37752",
+      "date": "2026-11-24 11:31",
+      "summary": "GPUI 가 자체 저장소를 갖게 됨 저장소는 zed-industries/gpui 임 README 본문에는 “ 몇 주 후에 만나요 ”라는 짧은 안내가 있음 GPUI 웹사이트 링크를 제공함 crates..."
     },
     {
-      "title": "Masullo의 리만 가설 증명 시도",
-      "link": "https://news.hada.io/topic?id=37691",
-      "date": "2026-11-23 13:35",
-      "summary": "Alessandro Masullo가 일반화 리만 가설 을 증명하려는 940쪽짜리 원고를 공개했으며, 현재는 검증과 대규모 수정이 진행 중인 초안임 핵심 전략은 대각합 공식(trace formula)..."
+      "title": "NariQ: BF16 수준의 Qwen3.8-27B를 10GB 파일에 담다",
+      "link": "https://news.hada.io/topic?id=37749",
+      "date": "2026-11-24 10:39",
+      "summary": "NariQ v1 은 Qwen3.8-27B를 가중치당 3비트, 2.5비트, 2비트로 양자화한 GGUF 모델로, 3비트와 2.5비트 버전은 공개된 장기 에이전트 작업, 수학, 이미지 이해 평가에서 BF..."
     },
     {
-      "title": "Internet Archive의 잊힌 영상으로 만든 무료 대안 TV 네트워크",
-      "link": "https://news.hada.io/topic?id=37690",
-      "date": "2026-11-23 12:31",
-      "summary": "SPELUNKR 는 Internet Archive의 잊힌 영상으로 구성한 무료 대안 TV 네트워크임 24시간 연중무휴 동기화 방송 을 내세우며, 항상 방송 중인 TV 형태로 운영됨 홈페이지 기준 3..."
+      "title": "Jensen Huang의 복귀는 미국 역사상 최대 국가안보 스캔들",
+      "link": "https://news.hada.io/topic?id=37748",
+      "date": "2026-11-24 10:36",
+      "summary": "Nvidia 이사회 가 중국 정보기관 연계 의심 인물과의 불륜 및 수출통제 우회 파문으로 사임했던 Jensen Huang을 Donald Trump 대통령의 압박 아래 복귀시킴 첨단 AI 칩 은 미중..."
     },
     {
-      "title": "GL.iNet 보안 공지 2026-11-20: 라우터와 KVM 악성코드 감염 대응",
-      "link": "https://news.hada.io/topic?id=37689",
-      "date": "2026-11-23 11:39",
-      "summary": "GL.iNet의 클라우드 원격 관리 서비스 취약점 을 악용한 공격자가 일부 라우터와 KVM 장치에 접근해 악성코드를 설치함 공격 경로는 차단 됐지만, 클라우드 측 수정만으로 이미 감염된 장치의 악성..."
+      "title": "평가는 AI 엔지니어링에서 가장 과소평가된 역량이다",
+      "link": "https://news.hada.io/topic?id=37745",
+      "date": "2026-11-24 09:40",
+      "summary": "모델이나 프롬프트를 바꿨을 때 실제로 개선됐는지 판단하려면 , 평가 지표보다 실제 실패 사례 분석부터 시작해야 함. 운영 기록 100개 이상에서 실패를 분류하고 가장 빈번한 문제부터 평가함 입력과..."
     },
     {
-      "title": "에이전트 시대의 Postgres 데이터베이스",
-      "link": "https://news.hada.io/topic?id=37687",
-      "date": "2026-11-23 10:50",
-      "summary": "사람이 소수의 데이터베이스를 오래 운영하던 방식에서, AI 에이전트가 작업에 필요한 데이터베이스를 대량으로 만들고 폐기하는 방식 으로 활용이 넓어지고 있음 관리형 클라우드는 운영 부담을 줄였고, 서..."
+      "title": "Stalwart, 이제 Microsoft Exchange를 그대로 대체할 수 있음",
+      "link": "https://news.hada.io/topic?id=37744",
+      "date": "2026-11-24 09:34",
+      "summary": "Stalwart 1.2.0 이 MAPI over HTTP, EWS, Exchange ActiveSync, Autodiscover를 구현해 기존 Outlook과 Exchange 호환 앱에서 메일, 일..."
     },
     {
-      "title": "Nespresso의 캡슐당 커피 중량 감축 프로젝트",
-      "link": "https://news.hada.io/topic?id=37686",
-      "date": "2026-11-23 10:32",
-      "summary": "공개된 내부 문서에 따르면, Nespresso의 Project Olympus 는 분쇄와 로스팅 공정을 조정해 일부 Vertuo 캡슐에 들어가는 커피 중량을 줄이는 프로젝트임 Nespresso는 중량..."
+      "title": "FastFrames - 실시간 상호작용이 가능한 저지연 영상 생성",
+      "link": "https://news.hada.io/topic?id=37743",
+      "date": "2026-11-24 09:31",
+      "summary": "Apple과 코넬대 연구진의 FastFrames 는 사용자 입력에 맞춰 다음 장면을 생성하는 영상 모델 제품군. 키보드로 시점을 이동하거나 물체를 드래그하는 실시간 상호작용이 가능한 수준으로 생성..."
     },
     {
-      "title": "Alibaba에서 구한 RISC-V 보드에 NixOS 구동하기",
-      "link": "https://news.hada.io/topic?id=37685",
-      "date": "2026-11-23 10:03",
-      "summary": "Zhihe Computing A210 을 NixOS 빌드 서버로 구성하면서 사운드, HDMI, Bluetooth/Wi-Fi, 이더넷, GPU 동작을 확인함. 다만 공개한 구성이 다른 환경에서도 동일..."
+      "title": "Pine - 파일과 메시지, 기기 변화에 반응해 작업하는 AI 에이전트 하네스",
+      "link": "https://news.hada.io/topic?id=37742",
+      "date": "2026-11-24 09:30",
+      "summary": "새 파일, 메일, 메시지 같은 이벤트가 발생하면 에이전트가 작업을 시작 하는 실행 환경 \"스캔 폴더에 문서가 들어오면 요약하고 납부 금액과 기한을 정리해 줘\"처럼 감시할 대상과 할 일을 말로 지정..."
     },
     {
-      "title": "디자이너와 함께 일하기",
-      "link": "https://news.hada.io/topic?id=37684",
-      "date": "2026-11-23 10:00",
-      "summary": "디자이너는 엔지니어가 상상하지 못한 방식으로 UI를 개선 하며, 엔지니어와의 문화적 차이는 협업에서 장점이 될 수 있음 디자이너가 동시에 여러 명 참여하면 서로 다른 취향 때문에 재설계와 수정 번복..."
+      "title": "shirudo - 에이전트 시대를 위한 BPF 라이브 패치 인프라",
+      "link": "https://news.hada.io/topic?id=37741",
+      "date": "2026-11-24 09:24",
+      "summary": "Isovalent의 shirudo 는 서명된 BPF 마이크로 패치를 배포해 커널 취약점을 빠르게 완화하려는 프로젝트로, 재부팅 중심의 패치 주기와 에이전트의 취약점 발견 속도 사이의 격차에 대응함..."
     },
     {
-      "title": "HUMAN.md",
-      "link": "https://news.hada.io/topic?id=37683",
-      "date": "2026-11-23 09:50",
-      "summary": "AI 시대에 창작자가 지켜야 할 태도를 정리한 선언문 . 인간의 가치는 안목뿐 아니라 의도적인 규칙 파괴, 뜻밖의 경험에서 얻는 영감, 사람을 위한 판단에 있음 창작의 기준은 정확성이나 요구사항 충..."
+      "title": "OpenAI와 Cisco, 실행 중인 Linux 시스템을 보호하는 오픈소스 런타임 Shirudo 공개",
+      "link": "https://news.hada.io/topic?id=37740",
+      "date": "2026-11-24 09:21",
+      "summary": "OpenAI와 Cisco가 패치를 준비하고 배포하는 동안 Linux 서비스를 중단하지 않고 임시 보호를 적용하는 Shirudo 를 공개함 eBPF 기반 실드(shield) 로 취약점을 노출하는 동작..."
     }
   ]
 };
