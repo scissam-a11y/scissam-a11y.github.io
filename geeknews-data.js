@@ -1,96 +1,96 @@
 window.GEEKNEWS_DATA = {
-  "updated": "2026-11-24 18:48",
+  "updated": "2026-11-25 17:24",
   "link": "https://news.hada.io",
   "posts": [
     {
-      "title": "Show GN: Whaatcher - AI 에이전트 기반 W/F에 최적화된 새로운 지향점의 개발 도구",
-      "link": "https://news.hada.io/topic?id=37766",
-      "date": "2026-11-24 14:55",
-      "summary": "AI 에이전트에게 코드 작성을 대부분 맡기면서 IDE, Code Editor, Git, 코드 분석 도구 등의 기존 도구에 대한 아쉬움이 커졌습니다. 자연스럽게 코드 생산량이 많아지고, 여러 프로젝트..."
+      "title": "샌드박스에 격리된 모델도 추론 서버를 통해 통신할 수 있음",
+      "link": "https://news.hada.io/topic?id=37824",
+      "date": "2026-11-25 16:34",
+      "summary": "같은 추론 서버를 쓰는 에이전트는 직접 메시지를 보내거나 파일시스템을 공유하지 않아도 부채널(side channel) 로 정보를 교환할 수 있음 Step Sizing 과 KV Cache Messag..."
     },
     {
-      "title": "뉴욕주, 지속 비용 없는 자동차 내장 기능의 구독료와 구매 후 추가 요금 금지",
-      "link": "https://news.hada.io/topic?id=37765",
-      "date": "2026-11-24 14:36",
-      "summary": "Kathy Hochul 뉴욕주지사가 지속적인 비용이 발생하지 않는 차량 내장 기능 에 구독료나 구매 후 추가 요금을 부과하지 못하도록 하는 법안에 서명함 S.9348A/A.10411A 는 사전 설치..."
+      "title": "USB-C 분리하기: 포트 하나에서 USB 3와 USB 2 함께 쓰기",
+      "link": "https://news.hada.io/topic?id=37823",
+      "date": "2026-11-25 15:39",
+      "summary": "Dongle-Pro v2 는 USB 2 허브로 제어용 MCU를 연결하면서, 같은 USB-C 포트의 USB 3 신호는 허브 없이 대상 장치로 직접 통과시키는 구조를 구현함 USB-C의 USB 2와 U..."
     },
     {
-      "title": "뉴욕주, 자동차 구독료와 구매 후 추가 요금 금지",
-      "link": "https://news.hada.io/topic?id=37764",
-      "date": "2026-11-24 14:33",
-      "summary": "뉴욕주가 자동차에 이미 설치된 기능 을 잠가 놓고 이용료나 구독료를 추가로 받는 행위를 금지하는 법안을 발표함 규제 대상은 자동차 제조사, 판매점, 제3자 서비스 제공업체 이며, 소비자의 추가 비용..."
+      "title": "Button Sounds - 전문적으로 녹음한 버튼 클릭과 누름 소리 모음",
+      "link": "https://news.hada.io/topic?id=37822",
+      "date": "2026-11-25 15:36",
+      "summary": "50개 이상의 버튼 효과음 라이브러리 와 웹 프로젝트에 이를 적용하는 NPM 패키지 로 구성됨 소리마다 누름과 뗌을 각각 녹음한 8~16개 샘플 을 갖추고, 매번 무작위로 선택해 동일한 효과음 반복..."
     },
     {
-      "title": "Show GN: Synology Markdown Note - Synology Note Station용 Markdown 편집기",
-      "link": "https://news.hada.io/topic?id=37757",
-      "date": "2026-11-24 12:50",
-      "summary": "Synology NAS의 Note Station에 쌓아 둔 노트를 Markdown으로 작성하고 관리할 수 있도록 Synology Markdown Note를 만들었습니다. 기존 책장과 메모장을 그대로..."
+      "title": "PenGPT: 손글씨와 스케치를 위한 생성형 Transformer",
+      "link": "https://news.hada.io/topic?id=37819",
+      "date": "2026-11-25 14:38",
+      "summary": "PenGPT 는 텍스트에 따라 글씨를 쓰거나 그림을 그리는 소형 Transformer로, 600만 파라미터 손글씨 모델과 5,400만 파라미터 스케치 모델로 구성됨 펜 움직임을 10개 기호와 BPE..."
     },
     {
-      "title": "Bored.com: 심심할 때 둘러볼 재미있고 흥미로운 웹사이트 모음",
-      "link": "https://news.hada.io/topic?id=37755",
-      "date": "2026-11-24 12:32",
-      "summary": "Bored.com 은 브라우저 게임, 인터랙티브 장난감, 퀴즈, 창작 도구와 탐색용 웹사이트를 주제별로 모아 둔 디렉터리임 게임 은 5분 정도 즐기는 미니 게임부터 RPG, 전략, 퍼즐, 방 탈출까..."
+      "title": "여행 가방에 들어가는 이탈리아 접이식 자전거 디자인",
+      "link": "https://news.hada.io/topic?id=37818",
+      "date": "2026-11-25 14:35",
+      "summary": "T&amp;C Pocket Bici 는 이탈리아 금속 가공 업체 Tresoldi &amp; Casiraghi가 1963년 제작한 접이식 자전거임 차체를 반으로 접는 오늘날의 접이식 자전거와 달리,..."
     },
     {
-      "title": "Show GN: CRAMA FILE – 파일을 서버에 안 올리는 무료 PDF·이미지 도구 21종",
-      "link": "https://news.hada.io/topic?id=37753",
-      "date": "2026-11-24 11:56",
-      "summary": "PDF 합치기, 용량 줄이기, JPG→PDF, HEIC→JPG 같은 일을 하려고 변환 사이트에 들어가면, 회사 서류나 신분증 사본을 남의 서버에 올리는 게 늘 찜찜했습니다. 몇 번 쓰면 유료로 바뀌..."
+      "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7, 13.3.2 (여러 CVE 관련)",
+      "link": "https://news.hada.io/topic?id=37814",
+      "date": "2026-11-25 12:36",
+      "summary": "다운로드 페이지는 Grafana Enterprise 13.3.2 를 선택한 상태로 설치 패키지와 설정 방법을 제공함 Grafana Enterprise 는 OSS의 모든 기능을 포함하며 무료로 사용할..."
     },
     {
-      "title": "GPUI가 독립 저장소를 갖게 됨",
-      "link": "https://news.hada.io/topic?id=37752",
-      "date": "2026-11-24 11:31",
-      "summary": "GPUI 가 자체 저장소를 갖게 됨 저장소는 zed-industries/gpui 임 README 본문에는 “ 몇 주 후에 만나요 ”라는 짧은 안내가 있음 GPUI 웹사이트 링크를 제공함 crates..."
+      "title": "Matrix Multiplication의 Θ(n^2.25) 시간 복잡도 [pdf]",
+      "link": "https://news.hada.io/topic?id=37813",
+      "date": "2026-11-25 12:33",
+      "summary": "Matrix Multiplication의 Θ(n^2.25) 시간 복잡도 [pdf]"
     },
     {
-      "title": "NariQ: BF16 수준의 Qwen3.8-27B를 10GB 파일에 담다",
-      "link": "https://news.hada.io/topic?id=37749",
-      "date": "2026-11-24 10:39",
-      "summary": "NariQ v1 은 Qwen3.8-27B를 가중치당 3비트, 2.5비트, 2비트로 양자화한 GGUF 모델로, 3비트와 2.5비트 버전은 공개된 장기 에이전트 작업, 수학, 이미지 이해 평가에서 BF..."
+      "title": "심장마비와 뇌졸중 위험, 수십 년 전에 감지 가능",
+      "link": "https://news.hada.io/topic?id=37812",
+      "date": "2026-11-25 11:33",
+      "summary": "심혈관질환 위험 요인의 장기 변화 를 추적하면 심장마비나 뇌졸중 발생 최대 30년 전부터 위험군을 예측하는 데 도움이 될 수 있다는 연구 결과가 나옴 에든버러대학교 주도 연구팀은 미국, 노르웨이,..."
     },
     {
-      "title": "Jensen Huang의 복귀는 미국 역사상 최대 국가안보 스캔들",
-      "link": "https://news.hada.io/topic?id=37748",
-      "date": "2026-11-24 10:36",
-      "summary": "Nvidia 이사회 가 중국 정보기관 연계 의심 인물과의 불륜 및 수출통제 우회 파문으로 사임했던 Jensen Huang을 Donald Trump 대통령의 압박 아래 복귀시킴 첨단 AI 칩 은 미중..."
+      "title": "Show GN: Tern - Ctrl+ㅊ 를 Ctrl-C 로 처리해주는 한글 특화 터미널 에뮬레이터 앱",
+      "link": "https://news.hada.io/topic?id=37811",
+      "date": "2026-11-25 11:20",
+      "summary": "저는 데스크탑에서 하던 작업을 어디서나 그대로 이어가기 위해 서버에 tmux를 켜놓고 SSH로 붙어서 사용하고 있습니다. 컴퓨터로 작업하다가 밥 먹으러 나와서 폰에서 SSH로 LLM들이 잘 하고 있..."
     },
     {
-      "title": "평가는 AI 엔지니어링에서 가장 과소평가된 역량이다",
-      "link": "https://news.hada.io/topic?id=37745",
-      "date": "2026-11-24 09:40",
-      "summary": "모델이나 프롬프트를 바꿨을 때 실제로 개선됐는지 판단하려면 , 평가 지표보다 실제 실패 사례 분석부터 시작해야 함. 운영 기록 100개 이상에서 실패를 분류하고 가장 빈번한 문제부터 평가함 입력과..."
+      "title": "GPT-6 모델, 내재적 단백질 설계 능력 입증",
+      "link": "https://news.hada.io/topic?id=37808",
+      "date": "2026-11-25 10:34",
+      "summary": "OpenAI의 GPT-6 계열 모델 이 전문 생물학 모델을 호출하지 않고 추론과 범용 코딩 도구만으로 새로운 단백질의 3차원 구조와 아미노산 서열을 설계하는 능력을 보임 자연어 프롬프트 로 결합 위..."
     },
     {
-      "title": "Stalwart, 이제 Microsoft Exchange를 그대로 대체할 수 있음",
-      "link": "https://news.hada.io/topic?id=37744",
-      "date": "2026-11-24 09:34",
-      "summary": "Stalwart 1.2.0 이 MAPI over HTTP, EWS, Exchange ActiveSync, Autodiscover를 구현해 기존 Outlook과 Exchange 호환 앱에서 메일, 일..."
+      "title": "AI 네이티브 서비스 비즈니스 모델의 내부 구조",
+      "link": "https://news.hada.io/topic?id=37807",
+      "date": "2026-11-25 10:20",
+      "summary": "AI 네이티브 서비스는 계약 검토 도구를 파는 대신 계약 검토를 직접 맡는 사업 임. 완성된 업무와 그에 대한 책임을 판매하며, 초기 매출이 발생해도 인력을 비례해서 늘리지 않고 품질과 업무량을 유..."
     },
     {
-      "title": "FastFrames - 실시간 상호작용이 가능한 저지연 영상 생성",
-      "link": "https://news.hada.io/topic?id=37743",
-      "date": "2026-11-24 09:31",
-      "summary": "Apple과 코넬대 연구진의 FastFrames 는 사용자 입력에 맞춰 다음 장면을 생성하는 영상 모델 제품군. 키보드로 시점을 이동하거나 물체를 드래그하는 실시간 상호작용이 가능한 수준으로 생성..."
+      "title": "2026년 기업용 AI 현황",
+      "link": "https://news.hada.io/topic?id=37806",
+      "date": "2026-11-25 10:10",
+      "summary": "기업용 AI 활용 지출이 2026년 9월 기준 연환산 1,770억 달러 로 전년 대비 5.4배 증가함. 에이전트의 자율 병렬 실행으로 지출이 사용자 수보다 수행하는 업무량 에 연동되기 시작함 Ant..."
     },
     {
-      "title": "Pine - 파일과 메시지, 기기 변화에 반응해 작업하는 AI 에이전트 하네스",
-      "link": "https://news.hada.io/topic?id=37742",
-      "date": "2026-11-24 09:30",
-      "summary": "새 파일, 메일, 메시지 같은 이벤트가 발생하면 에이전트가 작업을 시작 하는 실행 환경 \"스캔 폴더에 문서가 들어오면 요약하고 납부 금액과 기한을 정리해 줘\"처럼 감시할 대상과 할 일을 말로 지정..."
+      "title": "오픈 소스에서 월 반복 매출 2만 달러까지: EmailEngine의 여정",
+      "link": "https://news.hada.io/topic?id=37804",
+      "date": "2026-11-25 10:00",
+      "summary": "이메일 계정을 REST API로 다루는 EmailEngine 은 무료 오픈소스와 선택적 상업용 라이선스 판매에서 사용에 유료 구독이 필요한 소스 공개형 소프트웨어 로 전환한 뒤, 월 반복 매출 2만..."
     },
     {
-      "title": "shirudo - 에이전트 시대를 위한 BPF 라이브 패치 인프라",
-      "link": "https://news.hada.io/topic?id=37741",
-      "date": "2026-11-24 09:24",
-      "summary": "Isovalent의 shirudo 는 서명된 BPF 마이크로 패치를 배포해 커널 취약점을 빠르게 완화하려는 프로젝트로, 재부팅 중심의 패치 주기와 에이전트의 취약점 발견 속도 사이의 격차에 대응함..."
+      "title": "Cloudflare가 기반 인프라의 미비점을 가림",
+      "link": "https://news.hada.io/topic?id=37802",
+      "date": "2026-11-25 09:38",
+      "summary": "Cloudflare는 수백만 웹사이트에 TLS, IPv6, 양자내성 암호화 등 현대적 표준을 확산했지만, 사용자에게 보이는 연결과 실제 원본 서버 연결 사이의 차이를 가리기도 함 사용자와 Cloud..."
     },
     {
-      "title": "OpenAI와 Cisco, 실행 중인 Linux 시스템을 보호하는 오픈소스 런타임 Shirudo 공개",
-      "link": "https://news.hada.io/topic?id=37740",
-      "date": "2026-11-24 09:21",
-      "summary": "OpenAI와 Cisco가 패치를 준비하고 배포하는 동안 Linux 서비스를 중단하지 않고 임시 보호를 적용하는 Shirudo 를 공개함 eBPF 기반 실드(shield) 로 취약점을 노출하는 동작..."
+      "title": "iPod Nano 5G 해방하기",
+      "link": "https://news.hada.io/topic?id=37801",
+      "date": "2026-11-25 09:35",
+      "summary": "iPod nano 5G에서 설치 후 컴퓨터 연결이나 버튼 조작 없이 Rockbox로 부팅 하는 부트 체인을 구현함 기기 전용 인증 정보가 담긴 PRVD 레코드 를 수정하면 정상 부팅 경로에서도 리소..."
     }
   ]
 };

@@ -1,7 +1,19 @@
 window.NEWS_DATA = {
-  "updated": "2026-11-24 18:48",
+  "updated": "2026-11-25 17:24",
   "link": "https://miniwebapp.imbc.com/index?service=podcast&program=1000671100000100000",
   "episodes": [
+    {
+      "title": "[손경제] 11/25(수) 국내 코인 발행 허용 추진｜달러 스마일｜굴 가격",
+      "date": "2026-11-25 08:30",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261125.mp3",
+      "description": "[깊이 있는 경제뉴스]\n1) 국내 코인 발행 허용 추진.. 가상자산 시장 변화는?\n2) 오르나 내리나 강달러.. ‘달러 스마일’이란?\n3) 일본서 쓸어가는 한국 굴.. 소매가는 오히려 하락\n-김치형 경제뉴스 큐레이터\n-라예진 이코노미스트 기자\n\n[친절한 경제]\n증시안정펀드, 누구 돈으로 만드나요?\n-청취자 이성옥 씨"
+    },
+    {
+      "title": "[플러스] 11/24(화) 호떡의 시작 한국 화교 140년 - 김재원 역사 커뮤니케이터",
+      "date": "2026-11-24 22:05",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261124.mp3",
+      "description": " 1,2부\n[쩐설의 김선생]\n호떡의 시작\n한국 화교 140년\n- 김재원 역사 커뮤니케이터"
+    },
     {
       "title": "[손경제] 11/24(화) 젠슨 황 복귀｜카카오 1.5조 국제중재｜반도체 고점론｜AI 부정행위 비용｜20261124(화)",
       "date": "2026-11-24 08:30",
@@ -49,18 +61,6 @@ window.NEWS_DATA = {
       "date": "2026-11-20 08:30",
       "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261120.mp3",
       "description": "[깊이 있는 경제뉴스]\n1) ‘사상 최대 IPO’ 앤트로픽에 143조원 몰렸다\n2) 코스피 급락에 개미들 손실 563조 추정\n3) 원화 강세에 생활비 절감…저소득층 혜택 더 크다\n4) 원재료값 오르고 종잇값 하락…제지업계 적자\n-정지서 연합인포맥스 기자\n-이재연 한겨레신문 기자\n-라예진 이코노미스트 기자"
-    },
-    {
-      "title": "[플러스] 11/19(목) 반도체 산업이 바꾸는 부동산 지도 - 김시덕 박사 (도시문헌학자)",
-      "date": "2026-11-19 22:05",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261119.mp3",
-      "description": "1,2부\n동탄 용인 뜨는 이유\n반도체 따라 집값도 간다\n- 김시덕 박사 (도시문헌학자)"
-    },
-    {
-      "title": "[손경제] 11/19(목) 한한령 풀리나｜노조 지원비에 세금｜월세 카드결제",
-      "date": "2026-11-19 08:30",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261119.mp3",
-      "description": "[깊이 있는 경제뉴스]\n1) 한중 FTA 2단계 타결…한한령 해제될까?\n2) 노조 지원비가 접대비?…법인세 추징 논란\n3) 집주인 동의 없는 월세 카드결제…주의점은?\n-하수정 경제 전문 기자\n-김근희 머니투데이신문 기자\n-명지예 매일경제신문 기자"
     }
   ]
 };
