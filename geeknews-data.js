@@ -1,96 +1,96 @@
 window.GEEKNEWS_DATA = {
-  "updated": "2026-11-25 17:24",
+  "updated": "2026-11-26 17:09",
   "link": "https://news.hada.io",
   "posts": [
     {
-      "title": "샌드박스에 격리된 모델도 추론 서버를 통해 통신할 수 있음",
-      "link": "https://news.hada.io/topic?id=37824",
-      "date": "2026-11-25 16:34",
-      "summary": "같은 추론 서버를 쓰는 에이전트는 직접 메시지를 보내거나 파일시스템을 공유하지 않아도 부채널(side channel) 로 정보를 교환할 수 있음 Step Sizing 과 KV Cache Messag..."
+      "title": "Hex.pm 보안 사고 발생",
+      "link": "https://news.hada.io/topic?id=37884",
+      "date": "2026-11-26 16:03",
+      "summary": "hex.pm의 비인증 요청 처리 취약점 으로 공격자가 웹 서버 6대에서 명령을 실행함. 2026년 11월 23일 공격 발생 후 20분 안에 트래픽 차단과 수정 배포를 진행함 패키지 변조, 데이터베이..."
     },
     {
-      "title": "USB-C 분리하기: 포트 하나에서 USB 3와 USB 2 함께 쓰기",
-      "link": "https://news.hada.io/topic?id=37823",
-      "date": "2026-11-25 15:39",
-      "summary": "Dongle-Pro v2 는 USB 2 허브로 제어용 MCU를 연결하면서, 같은 USB-C 포트의 USB 3 신호는 허브 없이 대상 장치로 직접 통과시키는 구조를 구현함 USB-C의 USB 2와 U..."
+      "title": "미국 배심원단, Huawei의 사기 및 이란 제재 위반 혐의에 유죄 평결",
+      "link": "https://news.hada.io/topic?id=37883",
+      "date": "2026-11-26 15:33",
+      "summary": "뉴욕 연방 배심원단이 Huawei와 자회사 3곳 에 영업비밀 절취 공모, 사기, 이란 제재 위반 등 여러 혐의로 유죄 평결을 내림 다만 가장 중대한 혐의였던 조직범죄 공모 에는 무죄를 평결했으며,..."
     },
     {
-      "title": "Button Sounds - 전문적으로 녹음한 버튼 클릭과 누름 소리 모음",
-      "link": "https://news.hada.io/topic?id=37822",
-      "date": "2026-11-25 15:36",
-      "summary": "50개 이상의 버튼 효과음 라이브러리 와 웹 프로젝트에 이를 적용하는 NPM 패키지 로 구성됨 소리마다 누름과 뗌을 각각 녹음한 8~16개 샘플 을 갖추고, 매번 무작위로 선택해 동일한 효과음 반복..."
+      "title": "과학자들은 인공지능 에이전트에 대해 어디까지 허용 범위를 정해야 할까요?",
+      "link": "https://news.hada.io/topic?id=37880",
+      "date": "2026-11-26 14:35",
+      "summary": "Ai2 의 Kyle Wiggers 가 huggingface.co 에 올린 글임. 게시일은 2026년 11월 25일. 자연과학, 응용과학, 사회과학 분야 과학자 17명대상으로 AI 에이전트의 책임 있..."
     },
     {
-      "title": "PenGPT: 손글씨와 스케치를 위한 생성형 Transformer",
-      "link": "https://news.hada.io/topic?id=37819",
-      "date": "2026-11-25 14:38",
-      "summary": "PenGPT 는 텍스트에 따라 글씨를 쓰거나 그림을 그리는 소형 Transformer로, 600만 파라미터 손글씨 모델과 5,400만 파라미터 스케치 모델로 구성됨 펜 움직임을 10개 기호와 BPE..."
+      "title": "Tell HN: Ask HN 게시물이 다시 많아졌습니다",
+      "link": "https://news.hada.io/topic?id=37879",
+      "date": "2026-11-26 14:31",
+      "summary": "/ask 페이지에 게시물이 14개 또는 19개만 표시되거나 페이지 이동 기능이 사라지는 현상이 있었음 원인으로 추정되는 문제는 /ask 가 첫 화면 생성에 쓰는 상위 1,500개 게시물 순위 목록..."
     },
     {
-      "title": "여행 가방에 들어가는 이탈리아 접이식 자전거 디자인",
-      "link": "https://news.hada.io/topic?id=37818",
-      "date": "2026-11-25 14:35",
-      "summary": "T&amp;C Pocket Bici 는 이탈리아 금속 가공 업체 Tresoldi &amp; Casiraghi가 1963년 제작한 접이식 자전거임 차체를 반으로 접는 오늘날의 접이식 자전거와 달리,..."
+      "title": "Show GN: 하루뇌운동 - 60세 이상을 위한 매일 2분 두뇌 측정과 시간 제한 없는 훈련 게임",
+      "link": "https://news.hada.io/topic?id=37878",
+      "date": "2026-11-26 13:58",
+      "summary": "혼자 만들고 있는 안드로이드 앱 '하루뇌운동'(영문명 Steady Brain)을 2.0으로 거의 새로 만들어서 올렸습니다. 60세 이상 분들이 매일 아침 5~10분, 자기 페이스로 두뇌 상태를 확인..."
     },
     {
-      "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7, 13.3.2 (여러 CVE 관련)",
-      "link": "https://news.hada.io/topic?id=37814",
-      "date": "2026-11-25 12:36",
-      "summary": "다운로드 페이지는 Grafana Enterprise 13.3.2 를 선택한 상태로 설치 패키지와 설정 방법을 제공함 Grafana Enterprise 는 OSS의 모든 기능을 포함하며 무료로 사용할..."
+      "title": "Ubuntu의 느린 보안 대응",
+      "link": "https://news.hada.io/topic?id=37876",
+      "date": "2026-11-26 12:32",
+      "summary": "Ubuntu의 Linux 커널 취약점 패치 지연 을 두고 oss-security 메일링 리스트에서 우려가 나옴 TCP 스택의 원격 메모리 손상 취약점 NoisyTCP(CVE-2026-99288) 는..."
     },
     {
-      "title": "Matrix Multiplication의 Θ(n^2.25) 시간 복잡도 [pdf]",
-      "link": "https://news.hada.io/topic?id=37813",
-      "date": "2026-11-25 12:33",
-      "summary": "Matrix Multiplication의 Θ(n^2.25) 시간 복잡도 [pdf]"
+      "title": "1인 조직이 온다",
+      "link": "https://news.hada.io/topic?id=37871",
+      "date": "2026-11-26 11:00",
+      "summary": "AI 에이전트와 지식 생산 시스템을 운영하면 혼자서도 연구기관처럼 일할 수 있음 . 보고서 한 편의 작성을 돕는 데서 나아가, 조사와 정리, 발행을 지속적으로 수행하는 조직을 만드는 방식임 전문가의..."
     },
     {
-      "title": "심장마비와 뇌졸중 위험, 수십 년 전에 감지 가능",
-      "link": "https://news.hada.io/topic?id=37812",
-      "date": "2026-11-25 11:33",
-      "summary": "심혈관질환 위험 요인의 장기 변화 를 추적하면 심장마비나 뇌졸중 발생 최대 30년 전부터 위험군을 예측하는 데 도움이 될 수 있다는 연구 결과가 나옴 에든버러대학교 주도 연구팀은 미국, 노르웨이,..."
+      "title": "우리가 알던 기능 발견 방식의 종말",
+      "link": "https://news.hada.io/topic?id=37870",
+      "date": "2026-11-26 10:50",
+      "summary": "AI는 사용자가 새 기능을 더 잘 찾도록 돕는 데서 나아가, 기능을 직접 찾을 필요 자체를 줄일 수 있음 . 사용자가 원하는 결과를 말하면 AI가 필요한 기능을 골라 실행하는 방식으로 제품 사용이..."
     },
     {
-      "title": "Show GN: Tern - Ctrl+ㅊ 를 Ctrl-C 로 처리해주는 한글 특화 터미널 에뮬레이터 앱",
-      "link": "https://news.hada.io/topic?id=37811",
-      "date": "2026-11-25 11:20",
-      "summary": "저는 데스크탑에서 하던 작업을 어디서나 그대로 이어가기 위해 서버에 tmux를 켜놓고 SSH로 붙어서 사용하고 있습니다. 컴퓨터로 작업하다가 밥 먹으러 나와서 폰에서 SSH로 LLM들이 잘 하고 있..."
+      "title": "지금 효과를 내는 B2B GTM 전략 5가지와 실제 사례",
+      "link": "https://news.hada.io/topic?id=37868",
+      "date": "2026-11-26 10:40",
+      "summary": "이미 효과가 있는 고객 확보 채널을 AI와 자동화로 확장 한 B2B 성장 사례 5가지를 소개함. 광고 운영, 실무자의 추천, 구매 경로 분석, 대면 행사, 해커톤에 각각 다른 방식을 적용함 inci..."
     },
     {
-      "title": "GPT-6 모델, 내재적 단백질 설계 능력 입증",
-      "link": "https://news.hada.io/topic?id=37808",
-      "date": "2026-11-25 10:34",
-      "summary": "OpenAI의 GPT-6 계열 모델 이 전문 생물학 모델을 호출하지 않고 추론과 범용 코딩 도구만으로 새로운 단백질의 3차원 구조와 아미노산 서열을 설계하는 능력을 보임 자연어 프롬프트 로 결합 위..."
+      "title": "AI 검색 메타 분석 - 2026년 4분기",
+      "link": "https://news.hada.io/topic?id=37867",
+      "date": "2026-11-26 10:30",
+      "summary": "AI 검색 이용이 확대 되고 있지만, 이를 Google 검색의 대체 비율로 환산하기는 어려움. 이용자는 검색엔진과 챗봇을 오가며, 검토한 연구에서는 Google 이용 감소를 확인할 근거를 찾지 못함..."
     },
     {
-      "title": "AI 네이티브 서비스 비즈니스 모델의 내부 구조",
-      "link": "https://news.hada.io/topic?id=37807",
-      "date": "2026-11-25 10:20",
-      "summary": "AI 네이티브 서비스는 계약 검토 도구를 파는 대신 계약 검토를 직접 맡는 사업 임. 완성된 업무와 그에 대한 책임을 판매하며, 초기 매출이 발생해도 인력을 비례해서 늘리지 않고 품질과 업무량을 유..."
+      "title": "2026 앱 수익화 현황: 앱이 월 500달러에서 100만 달러까지 성장하는 방법",
+      "link": "https://news.hada.io/topic?id=37866",
+      "date": "2026-11-26 10:20",
+      "summary": "Superwall에서 수익이 발생한 앱 9,770개 의 12개월 데이터를 분석한 결과, 약 4개 중 1개가 다음 매출 구간으로 성장 함. 상위 앱은 결제 유도 화면을 더 많이 보여주기보다 노출당 수..."
     },
     {
-      "title": "2026년 기업용 AI 현황",
-      "link": "https://news.hada.io/topic?id=37806",
-      "date": "2026-11-25 10:10",
-      "summary": "기업용 AI 활용 지출이 2026년 9월 기준 연환산 1,770억 달러 로 전년 대비 5.4배 증가함. 에이전트의 자율 병렬 실행으로 지출이 사용자 수보다 수행하는 업무량 에 연동되기 시작함 Ant..."
+      "title": "바이럴 제품 출시의 비밀",
+      "link": "https://news.hada.io/topic?id=37865",
+      "date": "2026-11-26 10:10",
+      "summary": "X에서 화제가 되는 스타트업 제품 출시는 우연보다 준비의 결과 임. 좋은 제품과 영상만 올리는 데 그치지 않고, 수주에서 수개월 동안 문구와 이야기, 지인과 파트너의 확산 참여까지 설계함 회사와 창..."
     },
     {
-      "title": "오픈 소스에서 월 반복 매출 2만 달러까지: EmailEngine의 여정",
-      "link": "https://news.hada.io/topic?id=37804",
-      "date": "2026-11-25 10:00",
-      "summary": "이메일 계정을 REST API로 다루는 EmailEngine 은 무료 오픈소스와 선택적 상업용 라이선스 판매에서 사용에 유료 구독이 필요한 소스 공개형 소프트웨어 로 전환한 뒤, 월 반복 매출 2만..."
+      "title": "락 포이즈닝을 폐지하자",
+      "link": "https://news.hada.io/topic?id=37863",
+      "date": "2026-11-26 10:03",
+      "summary": "Rust의 뮤텍스 포이즈닝 은 패닉으로 깨진 불변식을 보호하려는 장치지만, 실제 코드에서는 복구보다 교착 상태와 연쇄 실패를 유발하는 사례가 많다는 비판을 받음 PoisonError 가 락 가드를..."
     },
     {
-      "title": "Cloudflare가 기반 인프라의 미비점을 가림",
-      "link": "https://news.hada.io/topic?id=37802",
-      "date": "2026-11-25 09:38",
-      "summary": "Cloudflare는 수백만 웹사이트에 TLS, IPv6, 양자내성 암호화 등 현대적 표준을 확산했지만, 사용자에게 보이는 연결과 실제 원본 서버 연결 사이의 차이를 가리기도 함 사용자와 Cloud..."
+      "title": "오래된 Java 휴대폰을 다시 인터넷에 연결하기",
+      "link": "https://news.hada.io/topic?id=37861",
+      "date": "2026-11-26 09:32",
+      "summary": "2G 서비스 종료로 모바일 인터넷을 쓸 수 없게 된 Sony Ericsson S500i 를 Raspberry Pi의 인터넷 연결을 공유하는 방식으로 다시 온라인에 연결함 휴대폰의 인터넷을 PC에 공..."
     },
     {
-      "title": "iPod Nano 5G 해방하기",
-      "link": "https://news.hada.io/topic?id=37801",
-      "date": "2026-11-25 09:35",
-      "summary": "iPod nano 5G에서 설치 후 컴퓨터 연결이나 버튼 조작 없이 Rockbox로 부팅 하는 부트 체인을 구현함 기기 전용 인증 정보가 담긴 PRVD 레코드 를 수정하면 정상 부팅 경로에서도 리소..."
+      "title": "Relax - Rust 코드를 바로 실행하고 수정 사항을 반영하는 JIT 컴파일러",
+      "link": "https://news.hada.io/topic?id=37860",
+      "date": "2026-11-26 09:30",
+      "summary": "전체 빌드가 끝날 때까지 기다리지 않고 Rust 프로그램을 실행 하는 개발 도구 함수가 처음 호출될 때 컴파일하고, 자주 실행되는 함수는 백그라운드에서 최적화 실행 중 함수를 수정하면 상태를 유지한..."
     }
   ]
 };

@@ -1,7 +1,19 @@
 window.NEWS_DATA = {
-  "updated": "2026-11-25 17:24",
+  "updated": "2026-11-26 17:09",
   "link": "https://miniwebapp.imbc.com/index?service=podcast&program=1000671100000100000",
   "episodes": [
+    {
+      "title": "[손경제] 11/26(목) 美 과잉생산 관세｜ASML 불똥｜압구정 한강뷰",
+      "date": "2026-11-26 08:30",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261126.mp3",
+      "description": "[깊이 있는 경제뉴스]\n1) 美, 과잉생산에 추가 관세.. 최대 25%↑ 경고\n2) 젠슨 황 사태 불똥 튄 ASML.. 韓 반도체 영향은?\n3) 한강뷰에 밀린 일조권.. 압구정 재건축의 딜레마\n-정지서 연합인포맥스 기자\n-하수정 경제 전문 기자\n-명지예 매일경제신문 기자\n"
+    },
+    {
+      "title": "[플러스] 11/25(수) 미국 인프라 마비 (하수정 경제전문기자) | 해킹 쓰나미 (노말틱)",
+      "date": "2026-11-25 22:00",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261125.mp3",
+      "description": "1부\n[업되는기업]\n미국 인프라 마비 공포\n-하수정 경제전문기자\n\n2부\n해킹 쓰나미가 온다\n- 노말틱 (해킹·보안 전문 유튜버)"
+    },
     {
       "title": "[손경제] 11/25(수) 국내 코인 발행 허용 추진｜달러 스마일｜굴 가격",
       "date": "2026-11-25 08:30",
@@ -49,18 +61,6 @@ window.NEWS_DATA = {
       "date": "2026-11-21 00:00",
       "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/coffee_1120.mp3",
       "description": "커피타임 - 어쩌다 쌍화차 타임"
-    },
-    {
-      "title": "[플러스] 11/20(금) 다음 사이클을 대비한 올겨울 투자전략 - 윤지호 경제평론가",
-      "date": "2026-11-20 22:00",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261120.mp3",
-      "description": "1, 2부\n다음 사이클을 대비한\n올겨울 투자전략\n- 윤지호 경제평론가\n"
-    },
-    {
-      "title": "[손경제] 11/20(금) 앤트로픽 IPO｜개미들 -563조｜원화 강세에 생활비 절감｜제지업계 적자",
-      "date": "2026-11-20 08:30",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261120.mp3",
-      "description": "[깊이 있는 경제뉴스]\n1) ‘사상 최대 IPO’ 앤트로픽에 143조원 몰렸다\n2) 코스피 급락에 개미들 손실 563조 추정\n3) 원화 강세에 생활비 절감…저소득층 혜택 더 크다\n4) 원재료값 오르고 종잇값 하락…제지업계 적자\n-정지서 연합인포맥스 기자\n-이재연 한겨레신문 기자\n-라예진 이코노미스트 기자"
     }
   ]
 };
