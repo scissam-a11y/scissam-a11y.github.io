@@ -1,7 +1,19 @@
 window.NEWS_DATA = {
-  "updated": "2026-11-26 17:09",
+  "updated": "2026-11-27 17:20",
   "link": "https://miniwebapp.imbc.com/index?service=podcast&program=1000671100000100000",
   "episodes": [
+    {
+      "title": "[손경제] 11/27(금) 증안펀드 증액 논의｜실손보험료 환급｜경기도 버스 적자｜디지털 유로",
+      "date": "2026-11-27 08:30",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261127.mp3",
+      "description": "[깊이 있는 경제뉴스]\n1) 10조 증안펀드 확대 논의.. 증시 구원투수 될까?\n2) 실손보험료 3000억 과다 징수 논란.. 환급 될까?\n3) 적자에 멈춰 선 경기도 버스.. 준공영제도 한계?\n4) 유럽에서도 카드 결제.. 속도내는 '디지털 유로'\n-이재연 한겨레신문 기자\n-조미현 한국경제신문 기자\n-오찬종 매일경제신문 기자"
+    },
+    {
+      "title": "[플러스] 11/26(목) AI 산업 붕괴될까? - 김학주 교수 (한동대 AI융합학부)",
+      "date": "2026-11-26 22:05",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261126.mp3",
+      "description": "1,2부\n꽉 막힌 미국 송전망 \nAI 산업 붕괴될까? \n- 김학주 한동대 AI융합학부 교수"
+    },
     {
       "title": "[손경제] 11/26(목) 美 과잉생산 관세｜ASML 불똥｜압구정 한강뷰",
       "date": "2026-11-26 08:30",
@@ -27,7 +39,7 @@ window.NEWS_DATA = {
       "description": " 1,2부\n[쩐설의 김선생]\n호떡의 시작\n한국 화교 140년\n- 김재원 역사 커뮤니케이터"
     },
     {
-      "title": "[손경제] 11/24(화) 젠슨 황 복귀｜카카오 1.5조 국제중재｜반도체 고점론｜AI 부정행위 비용｜20261124(화)",
+      "title": "[손경제] 11/24(화) 젠슨 황 복귀｜카카오 1.5조 국제중재｜반도체 고점론｜AI 부정행위 비용",
       "date": "2026-11-24 08:30",
       "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261124.mp3",
       "description": "[깊이 있는 경제뉴스]\n1) 젠슨 황 엔비디아 복귀…주가 30% 폭등\n2) 카카오 1.5조 국제중재…중복상장 갈등 확산?\n3) 삼성전자·SK하이닉스 급락…반도체 고점론?\n4) AI 부정행위 막는 데 48억…검증 비용 누가 내나?\n-김치형 경제뉴스 큐레이터\n-정지서 연합인포맥스 기자\n-이혜인 한국경제신문 기자"
@@ -49,18 +61,6 @@ window.NEWS_DATA = {
       "date": "2026-11-22 22:00",
       "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261122.mp3",
       "description": "1,2부\n눈부신 무기 수출 \n굶주린 북한 주민\n- 임수호 책임연구위원 (국가안보전략연구원)"
-    },
-    {
-      "title": " [플러스] 11/21(토) AI 컨닝 논란의 핵심은 전문직의 종말 - 박정호 명지대 교수",
-      "date": "2026-11-21 22:00",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261121.mp3",
-      "description": "1,2부\n[역시나 박정호]\nAI 컨닝 논란?\n핵심은 전문직의 종말\n - 박정호 명지대 교수\n"
-    },
-    {
-      "title": "커피타임 - 어쩌다 쌍화차 타임",
-      "date": "2026-11-21 00:00",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/coffee_1120.mp3",
-      "description": "커피타임 - 어쩌다 쌍화차 타임"
     }
   ]
 };
