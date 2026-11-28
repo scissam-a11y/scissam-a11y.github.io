@@ -1,96 +1,96 @@
 window.GEEKNEWS_DATA = {
-  "updated": "2026-11-27 17:20",
+  "updated": "2026-11-28 16:40",
   "link": "https://news.hada.io",
   "posts": [
     {
-      "title": "Kagi Watch - 어린이를 위한 화면 없는 무전기",
-      "link": "https://news.hada.io/topic?id=37948",
-      "date": "2026-11-27 15:38",
-      "summary": "Kagi Watch 는 스마트폰을 사용하기 전 시기의 어린이를 위한 무전기임 화면 없이 사용하는 제품임 앱과 피드가 없는 구성을 내세움 낯선 사람과의 접촉이 없는 사용 경험을 내세움 제품을 이용할..."
+      "title": "Unkernel: 실제 Linux 커널을 WebAssembly로 컴파일",
+      "link": "https://news.hada.io/topic?id=37993",
+      "date": "2026-11-28 16:31",
+      "summary": "unkernel 은 WebAssembly로 컴파일한 Linux를 브라우저 탭에서 실행하며, 수정하지 않은 aarch64 사용자 공간 을 지원함 Debian, Alpine 또는 기본 셸로 부팅할 수..."
     },
     {
-      "title": "Show HN: 4년에 걸쳐 Vim 매뉴얼 한 권을 완성했습니다",
-      "link": "https://news.hada.io/topic?id=37947",
-      "date": "2026-11-27 15:35",
-      "summary": "Learning to Play Vim 은 단계별 학습과 170개 이상의 연습문제 로 기본 편집부터 고급 기법까지 익히도록 구성한 책임 각 장이 이전 장의 내용을 바탕으로 이어지며, 실제 Vim 사용..."
+      "title": "임대인의 AI 비서가 월세 납부를 미뤄도 된다고 안내한 뒤 퇴거당한 여성",
+      "link": "https://news.hada.io/topic?id=37991",
+      "date": "2026-11-28 15:32",
+      "summary": "미국 노스캐롤라이나주 세입자 Laura Mack가 연체 월세 3,934.17달러 를 11월 30일까지 내도 된다는 이메일을 받았지만, 11월 19일 퇴거당함 Mack는 임대 사무실 직원이 상충하는..."
     },
     {
-      "title": "C++에서 = default와 {}는 같은 생성자가 아님",
-      "link": "https://news.hada.io/topic?id=37946",
-      "date": "2026-11-27 14:41",
-      "summary": "빈 기본 생성자를 span() = default 와 span() {} 중 어느 방식으로 정의하느냐에 따라 초기화 동작과 성능이 달라짐 첫 선언에 = default 를 사용하면 예제의 span 은 트..."
+      "title": "Atari Homebrew Awards 취소",
+      "link": "https://news.hada.io/topic?id=37990",
+      "date": "2026-11-28 14:33",
+      "summary": "8년간 홈브루 게임 제작자를 기려온 Atari Homebrew Awards 가 올해 제9회 행사를 취소함. 주최 측은 AI 사용 게임의 참가 자격을 공정하게 판단할 방법을 찾지 못함 LLM 성능 향..."
     },
     {
-      "title": "Show HN: 브라우저 탭 하나에서 서로 다른 브라우저를 실행하는 Linux VM 3개",
-      "link": "https://news.hada.io/topic?id=37945",
-      "date": "2026-11-27 14:38",
-      "summary": "Side by Side 는 브라우저 탭 하나에서 Linux VM 3개를 실행하며, 각 VM에서 서로 다른 브라우저를 구동함 URL을 입력 해 각 브라우저에서 해당 페이지를 열 수 있음 페이지를 여는..."
+      "title": ".php 최상위 도메인 신청에 대한 반대 의견, ICANN 사이트에 공개",
+      "link": "https://news.hada.io/topic?id=37989",
+      "date": "2026-11-28 14:01",
+      "summary": "Automattic이 신규 최상위 도메인 신청을 .vibe 에서 .php 로 변경 한다고 확인한 뒤, ICANN의 신청 의견 게시판에 반대 의견이 공개되기 시작함 반대 의견은 파일 확장자와 도메인의..."
     },
     {
-      "title": "NP_R ≠ PAR_R: 실수 계산 모델에서 퍼머넌트의 짧은 인증서가 없다는 연구",
-      "link": "https://news.hada.io/topic?id=37944",
-      "date": "2026-11-27 14:35",
-      "summary": "BSS 실수 계산 모델 에서 퍼머넌트의 그래프가 병렬 다항 시간 클래스 PAR_ℝ에 속하지만 NP_ℝ에는 속하지 않는다는 결과를 공개함. 동료 심사 전 연구 이며, 분리 결과는 인용한 퍼머넌트 복잡..."
+      "title": "Balatro 개발 연대기",
+      "link": "https://news.hada.io/topic?id=37988",
+      "date": "2026-11-28 13:34",
+      "summary": "Balatro 는 2021년 12월 IT 직장인의 휴가 중 시작한 취미 프로젝트에서 출발해, 친구들의 반응과 공개 테스트를 거쳐 2024년 2월 정식 출시됨 초기 목표는 수익이 아니라 만드는 즐거움..."
     },
     {
-      "title": "Show GN: 웰사 한글 입력기 - adb 로 안드로이드 입력칸에 한글 넣기",
-      "link": "https://news.hada.io/topic?id=37942",
-      "date": "2026-11-27 14:18",
-      "summary": "안드로이드 자동화를 하다 보면 adb shell input text 로 한글이 들어가지 않는 문제를 만나게 됩니다. 이 명령은 ASCII 만 보낼 수 있어서, 한글·이모지 같은 글자는 넣을 수 없습..."
+      "title": "Google DeepCrossAttention, 최대 3배 빠르게 동등한 모델 품질 달성",
+      "link": "https://news.hada.io/topic?id=37987",
+      "date": "2026-11-28 12:33",
+      "summary": "DeepCrossAttention(DCA) 는 이전 레이어의 출력을 토큰별로 선택하고 조합하는 구조로, 기존 잔차 연결의 정보 희석을 줄이고 동등한 모델 품질에 최대 3배 빠르게 도달함 동적 레이어..."
     },
     {
-      "title": "영국의 유령역들",
-      "link": "https://news.hada.io/topic?id=37941",
-      "date": "2026-11-27 13:49",
-      "summary": "영국에는 문을 닫지 않았지만 이용객이 극히 적은 철도역 들이 남아 있음. Achanalt의 2025년 4월부터 2026년 3월까지 승하차 이용객은 352명에 불과함 올해 이용객이 가장 적은 역은 G..."
+      "title": "Citroën 유압 시스템",
+      "link": "https://news.hada.io/topic?id=37984",
+      "date": "2026-11-28 11:34",
+      "summary": "Citroën의 유압공압 서스펜션 은 압축 가능한 질소를 스프링으로, 유압유를 감쇠와 차고 조절 수단으로 사용해 부드러운 승차감과 차체 제어를 결합함 엔진 구동 고압 펌프 가 자동 수평 유지와 차고..."
     },
     {
-      "title": "IBM, 컨설팅 부문 대부분 직무의 이민 스폰서십 종료",
-      "link": "https://news.hada.io/topic?id=37939",
-      "date": "2026-11-27 13:46",
-      "summary": "IBM이 미국 내 H-1B 비자 및 영주권 보유 직원 일부 에게 해외 근무지로 옮길지 퇴사할지를 3주 안에 결정 하도록 통보함 IBM Consulting의 대부분 직무 에서 미국 비자와 영주권 스폰..."
+      "title": "“나는 두렵다”: 《Careless People》의 Sarah Wynn-Williams가 겪는 발언 금지 명령 아래의 삶",
+      "link": "https://news.hada.io/topic?id=37983",
+      "date": "2026-11-28 10:33",
+      "summary": "전직 Meta 직원 Sarah Wynn-Williams 는 폭로서 《Careless People》 출간 이후 Meta에 관한 공개 발언을 금지당했으며, 법적 대응과 파산에 대한 두려움 속에서 스스로..."
     },
     {
-      "title": "하드디스크 가격이 심각해졌다",
-      "link": "https://news.hada.io/topic?id=37938",
-      "date": "2026-11-27 13:43",
-      "summary": "WD EasyStore 20TB 의 2026년 블랙프라이데이 가격이 549.99달러로, 같은 매장에서 같은 제품을 구매한 2024년 가격 249.99달러의 2.2배 에 달함 저렴한 대안이었던 리퍼비..."
+      "title": "BUI: BlenderUI를 사용하는 세계 최대 2D 차트 라이브러리",
+      "link": "https://news.hada.io/topic?id=37980",
+      "date": "2026-11-28 09:31",
+      "summary": "BUI Charts 는 BUI용 차트 컴포넌트 모음으로, 차트 80종과 실행 가능한 예제 867개를 제공함 차트를 rsx! 컴포넌트 로 작성하고 class 로 스타일을 지정하며, 연결한 상태의 시그..."
     },
     {
-      "title": "기업 문화 = Slack 이모지 ÷ √직원 수",
-      "link": "https://news.hada.io/topic?id=37937",
-      "date": "2026-11-27 13:40",
-      "summary": "Slack의 커스텀 이모지 수를 사용자 수의 제곱근으로 나눈 ‘이모지 계수’ 로 기업 문화를 가늠하자는 풍자적 제안임 이모지는 조직 전체가 함께 쓰는 공유 자원 이므로, 직원 수에 정비례하는 개수를..."
+      "title": "Jolt - C와 대화하는 Clojure",
+      "link": "https://news.hada.io/topic?id=37979",
+      "date": "2026-11-28 09:30",
+      "summary": "JVM 없이 Clojure를 실행 하고, C 라이브러리를 Clojure 함수처럼 직접 불러 쓰는 언어 구현체 SQLite, PostgreSQL, OpenSSL 등 기존 C 라이브러리와 연결 해 데이..."
     },
     {
-      "title": "Show GN: RealView - 머스크가 공개한 테슬라 Reality View 구조를 코드로 구현, 맥북 한 대로 학습",
-      "link": "https://news.hada.io/topic?id=37934",
-      "date": "2026-11-27 11:49",
-      "summary": "11월 22일 일론 머스크가 테슬라 차량 화면(Reality View)을 어떻게 만드는지 X에 짧게 공개했습니다. 비전 인코더의 특징값을 별도의 확산 모델에 넣고, 확산 모델은 자기가 직전에 그린..."
+      "title": "모두가 모든 것을 만들고 있다",
+      "link": "https://news.hada.io/topic?id=37978",
+      "date": "2026-11-28 09:10",
+      "summary": "개발 도구 업체들이 기존 제품을 버리는 피벗 대신, 다른 제품군으로의 확장 을 병행하고 있음 인증을 제공하던 WorkOS는 사내 앱 플랫폼을, 빌드에 집중하던 Depot은 Git 호스팅을 출시함...."
     },
     {
-      "title": "USAID Files - 빅테크 협력과 허위정보 대응에 관한 내부 자료",
-      "link": "https://news.hada.io/topic?id=37933",
-      "date": "2026-11-27 11:37",
-      "summary": "USAID의 내부 이메일, 브리핑, 기획 문서가 공개됐으며, 법률 자문에는 빅테크와의 협력이 언론에 드러나지 않도록 주의하라는 조언 이 포함돼 있음 함께 공개된 직원용 웨비나는 봇, 알고리듬 조작,..."
+      "title": "머신러닝의 불확실성 입문",
+      "link": "https://news.hada.io/topic?id=37976",
+      "date": "2026-11-28 08:46",
+      "summary": "모델은 데이터가 드문 상황에서 어떤 결과가 가능하고 얼마나 그럴듯한지 를 자체 가정에 기대어 판단함. 그 가정이 틀리면 평소에 잘 맞는 모델도 중요한 상황에서 확신을 갖고 틀릴 수 있음 인식적 불확..."
     },
     {
-      "title": "Show GN: ARCUS-STACK - 매번하는 반복을 조금 더 똑똑하게, 여러 AI 코딩 에이전트에게 시킬 수 있는 스킬팩",
-      "link": "https://news.hada.io/topic?id=37932",
-      "date": "2026-11-27 11:31",
-      "summary": "에이전트마다 스킬·룰 포맷이 달라서 불편해서 하나 만들어봤습니다. 스킬은 SKILL.md 표준으로만 작성해서 Antigravity(agy), Claude Code, Codex, Cursor, Ope..."
+      "title": "컴퓨터 검증을 통과한 거짓 증명",
+      "link": "https://news.hada.io/topic?id=37975",
+      "date": "2026-11-28 08:43",
+      "summary": "증명의 모든 단계를 검사한다는 프로그램에서도 건전성 버그(soundness bug) 가 보고됐으며, 거짓 명제를 통과시키는 데 실제로 악용할 수 있음이 입증된 사례도 많음 신뢰 컴퓨팅 기반(TCB)..."
     },
     {
-      "title": "리만 가설이란 무엇인가? 시각적으로 이해하기",
-      "link": "https://news.hada.io/topic?id=37931",
-      "date": "2026-11-27 10:50",
-      "summary": "리만 가설은 어떤 수까지 소수가 몇 개 있는지 추정할 때, 그 오차가 얼마나 커질 수 있는지 와 관련된 명제임. 가령 1조까지 소수는 약 376억 개이고, 가우스의 추정치와 실제 개수의 차이는 38..."
+      "title": "미국 주정부들, Grok의 비동의 성적 이미지 생성 및 유통 문제로 SpaceX 제소",
+      "link": "https://news.hada.io/topic?id=37974",
+      "date": "2026-11-28 08:40",
+      "summary": "버지니아주와 오리건주 법무장관이 SpaceX를 상대로 각각 소송을 제기 함. Grok의 비동의 성적 이미지 생성을 방치하면서도 X와 AI 도구의 안전성을 허위로 홍보했다는 혐의임 소송에 따르면 Gr..."
     },
     {
-      "title": "State of AI 2026: 올해의 가장 큰 이슈와 2027년 AGI 가능성",
-      "link": "https://news.hada.io/topic?id=37930",
-      "date": "2026-11-27 10:40",
-      "summary": "『State of AI』 보고서를 써 온 Nathan Benaich 는 AI가 같은 시간 안에 법률, 금융, 투자 업무에서 자신보다 나은 결과를 낸다면 실용적으로 AGI에 가깝다 고 봄. 모델 성능..."
+      "title": "Convex 스킬, 사용자에게 알리지 않고 앱 아이디어를 원격 서버로 전송",
+      "link": "https://news.hada.io/topic?id=37973",
+      "date": "2026-11-28 07:32",
+      "summary": "Anthropic의 claude-plugins-official 마켓플레이스에 등록된 Convex 플러그인에서, 사용자 아이디어의 무고지 전송과 원격 스크립트 실행 방식에 관한 문제가 제기됨 quic..."
     }
   ]
 };

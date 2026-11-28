@@ -1,7 +1,19 @@
 window.NEWS_DATA = {
-  "updated": "2026-11-27 17:20",
+  "updated": "2026-11-28 16:40",
   "link": "https://miniwebapp.imbc.com/index?service=podcast&program=1000671100000100000",
   "episodes": [
+    {
+      "title": "[플러스] 11/27(금) 고금리는 계속된다 - 김명실 연구위원 (iM증권)",
+      "date": "2026-11-27 22:00",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261127.mp3",
+      "description": "1,2부\n고금리는 계속된다\n-김명실 연구위원 (iM증권)"
+    },
+    {
+      "title": "커피타임 - 이진우 청문회",
+      "date": "2026-11-27 21:00",
+      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/coffee_1128.mp3",
+      "description": "커피타임 - 이진우 청문회"
+    },
     {
       "title": "[손경제] 11/27(금) 증안펀드 증액 논의｜실손보험료 환급｜경기도 버스 적자｜디지털 유로",
       "date": "2026-11-27 08:30",
@@ -49,18 +61,6 @@ window.NEWS_DATA = {
       "date": "2026-11-23 22:00",
       "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261123.mp3",
       "description": "1부\n[텍코노미]\nAI 시대 시험\n- 김덕진 소장 (IT커뮤니케이션 연구소)\n\n2부\n[글로벌 리포트]\n죽지 않은 사형수\n- 이혜인 기자 (한국경제신문)"
-    },
-    {
-      "title": "[손경제] 11/23(월) 10조 증안펀드｜국산 전기차 세액공제｜트럼프 데이터센터 경고",
-      "date": "2026-11-23 08:30",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261123.mp3",
-      "description": "[깊이 있는 경제뉴스]\n1) 검은 월요일 우려에..정부, ‘증안펀드’ 투입 준비\n2) 中 공세에..전기차 ‘국내생산세액공제’ 확대 가닥\n3) 트럼프 \"해외 데이터센터에 세금 폭탄\"..파장은?\n-조미현 한국경제신문 기자\n-김근희 머니투데이신문 기자"
-    },
-    {
-      "title": "[플러스] 11/22(일) 눈부신 무기 수출 굶주린 북한 주민 - 임수호 책임연구위원 (국가안보전략연구원)",
-      "date": "2026-11-22 22:00",
-      "audio": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261122.mp3",
-      "description": "1,2부\n눈부신 무기 수출 \n굶주린 북한 주민\n- 임수호 책임연구위원 (국가안보전략연구원)"
     }
   ]
 };
